@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+
+# LaTeX files
+*.bbl
+*.blg
+*.aux
+*.out
