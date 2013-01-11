@@ -17,3 +17,8 @@
 *.blg
 *.aux
 *.out
+
+# Emacs files
+*.el
+\#*\#
+course-application/auto
