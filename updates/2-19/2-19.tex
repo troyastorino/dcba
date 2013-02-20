@@ -12,26 +12,48 @@ Craig Cheney \and Gus Downs}
 \maketitle
 \vspace{-4em}
 
-\section{Plan Progress} After meeting with Professor Gifford last week, we
-started looking into 3D scanning with serious intent to pursue it. We found that
-while there are a number 3D scanning products out there, no products target a
-consumer market. We also liked that the same general technology could be applied
-to many different market segments, keeping open the possibility of pivoting
-without having to change the core technology. We discussed the possibilities and
-opportunities of pursuing 3D scanning as a team, and made a final decision that
-this is what we will focus on for this class.
+\section{Plan Progress} After meeting with Professor Gifford last week, we were
+left with 3D scanning and LIDAR as our two potential products. We decided to
+pursue 3D scanning, thinking that there are larger potential markets for 3D
+scanning, and that the core technology can be applied to different market
+segments. The next week will be a combination of research into existing 3D
+scanning technologies, early prototype sketches, and research into potential 3D
+scanning markets.
 
-We are planning to build a low-cost 3D scanner aimed at consumers, riding
-alongside the current excitement in consumer 3D printing. Our current vision for
-the target customer is a digital fabrication hobbyist/enthusiast/early-adopter,
-or even small-scale manufacturers (machine shops). Our main design goals are to
-bring resolution beyond the limit of typical machining tolerances (0.1 mm) while
-keeping the unit affordable (below \$500). 
+Prior to this week's research, our guess is that low-cost 3D scanner aimed at consumers, riding
+alongside the current excitement in consumer 3D printing, could be viable. That
+target customer would be a digital fabrication hobbyist/enthusiast/early-adopter,
+or even a small-scale manufacturer (machine shops). Our design ideas would be to
+bring resolution smaller than typical machining tolerances (0.1 mm) while
+keeping the unit affordable (below \$500). However, we are exicited to see what
+other, potentially more ambitious, applications of the technology come up in
+this week's research.
 
-The plan moving forward is to continue to do market research, as well as
-research the currently existing 3D scanning methods. By the end of this week
-(2/22) we would like to have selected a few preliminary design schemes so that
-we can start prototyping.
+This week's plan is to refine our market analysis by looking into a number of
+particular potential applications of 3D scanning, as well as to research the
+existing 3D scanning methods. By the end of this week ( +2/22) we would like to
+have selected a few preliminary design schemes so that we can start prototyping.
+
+Potential markets for further research this week:
+\begin{itemize}
+\item Hobbyist and small manufacturing/prototyping
+\item Hobbyist art and 3D scanning for the sale of artwork on sites such as Etsy
+\item Restoration and documentation of 3D artwork, primarily sculptures
+\item Cheap, regular, full-body scanning for medical applications - scoliosis, dermetology, etc.
+\item Interior design and architecture - cheap full-interior scans of rooms (see
+  matterport)
+\end{itemize}
+
+Possible technologies:
+\begin{itemize}
+\item Stereo cameras
+\item Camera array
+\item Stereo or single camera paired with laser triangulation
+\item Laser triangulation
+\item Structured light
+\item Laser time-of-flight
+\item Variable focal distance scanning
+\end{itemize}
 
 \section{Prototype Progress} As we have yet to select what approach we are
 taking to 3D scanning, we have not started building prototype software or
@@ -39,34 +61,64 @@ hardware. We plan to start making progress on a prototype by the end of this
 week.
 
 \section{Baffling Variables}
-We have many, many variables facing us at the moment, but none of them stand out
-as more baffling than any of the others.
+This week will reveal more potential difficulties for the idea. The above goals for this week - researching technologies and markets - may be the two components of this project that could be best described as baffling at the moment.
+
+\newpage
 
 \section{Seven Day Plan} 
 \begin{itemize} 
-\item Continue to research methods used for 3D scanning
-\item Obtain access to the Stellar materials for 6.838 (Advanced
-  topics in computer graphics: Computational Fabrication) as well as meet with the
-  class's professor, Wojciech Matusik. 
-\item Craig is going to make contact with his ex-employer (AutoDesk) to research
-  what is required for 3D scanning in consumer/industrial CAD. 
-\item Do some image reconstruction into 3D models as one means of researching
-  the technology
-\item Design some potential scanner configurations
-\item Contact early purchasers of 3D printers to gague
-  interest/requirements/their use cases for a 3D scanner
-\item Obtain some funding for prototyping
+\item \textbf{Team goals}
+\begin{itemize}
+\item Each team member will research 3 existing 3D printing technologies - estimated difficulty,
+    expense per unit, and time to prototype for each
 \end{itemize}
 
-\section{People to Meet} We haven't identified anyone in particular we would
-like to meet at this stage (other than the professor for 6.838 listed
-above...we'll let you know if we have difficulty getting through to him).
+\item \textbf{Troy}
+\begin{itemize}
+\item Contact 6.838 (Advanced topics in computer graphics: Computational Fabrication) professor and run
+  through their 3D scanning assignment with Turner
+\item Obtain funding for prototyping
+\end{itemize}
 
-\section{Desired Resources} As we are hardware startup, in
-order to start prototyping we need some capital to purchase components. We
-have access to all of the facilities that we will need, but at present we lack
-the funding to purchase materials. In our meeting with Professor Gifford he
-mentioned that it would be possible to get some form of funding, such as a
-forgivable loan, from the course VC partners. We would like to pursue that possibility.
+\item \textbf{Craig}
+\begin{itemize}
+\item Contact ex-employer (AutoDesk) to research
+  what is required for 3D scanning in consumer/industrial CAD. 
+\end{itemize}
+
+\item \textbf{Gus}
+\begin{itemize}
+\item contact MITERS, the hobby shop, Artisans Asylum, BOLT, LEMNOS labs, and
+  Tech Shop to research the hobbyist space
+\item Contact early purchasers of 3D printers (possibly through MakerBot or
+  open-source 3D printing forums) to gauge hobbyist
+  interest/requirements/use cases for a 3D scanner
+\end{itemize}
+
+\item \textbf{Turner}
+\begin{itemize}
+\item Work through 6.838 3D scanning assignment with Troy
+\item Contact friend working with Form Labs and venture capitalist friends to
+  better understand the applications of 3D scanning they see, and so inform our
+  own market decision
+\end{itemize}
+\end{itemize}
+
+\section{People to Meet} We haven't identified any particular people we would
+like to meet at this stage (other than the professor for 6.838 listed
+above...we'll let you know if we have difficulty getting through to him). We
+would like to have discussions with a number of market experts, such as 3D
+printing, art, hobbyist hardware, medical, and architectural technology experts
+the possible applications within each market and potential market value. One way
+to approach this is to talk with venture capitalists in these areas who every
+day see multiple potential new technologies and so may be able to give us
+valuable feedback.
+
+\section{Desired Resources} In order to start prototyping we need some capital
+to purchase components. We have access to all of the facilities that we will
+need, but at present we lack the funding to purchase materials. In our meeting
+with Professor Gifford he mentioned that it would be possible to get some form
+of funding, such as a forgivable loan, from the course's VC partners. We would
+like to pursue that possibility.
 
 \end{document}
