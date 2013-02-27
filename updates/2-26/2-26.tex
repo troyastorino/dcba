@@ -1,0 +1,109 @@
+\documentclass[10pt]{article}
+
+% small margins
+\usepackage[margin=1in]{geometry}
+
+% no large spaces in lists
+\usepackage{enumitem}
+\setlist{nolistsep}
+
+\title{\vspace{-4em}6.S078 Update}
+\author{Troy Astorino \and Turner Bohlen \and Craig Cheney \and Gus Downs}
+\date{February 26, 2013}
+
+\usepackage[colorlinks=true]{hyperref}
+
+\begin{document}
+\maketitle
+\vspace{-4em}
+
+\section{Plan Progress}
+This past week has been filled with market and technology research. There is a
+large existing market in 3D scanning, with market revenue over \$350 million in
+2011. Automotive and aerospace are the largest end-user industries, followed by
+machine shops, metal fabrication, and heavy machinery. Other end-user industries
+include archaeology/museum curation, architecture, medicine, power generation,
+animation/special effects, consumer, and education. According to some analysis
+we found, the largest challenges facing the industry are high prices and complex
+user interfaces. This falls in line with our own perceptions about the industry.
+We also found that while it is typical for a large manufacturer to use 3D
+scanners for production verification, the high cost of 3D scanners prevents
+smaller manufactures from using them to the same end. We believe this is a
+targetable market, and to address this market we need to be precise enough to
+measure threading and bore diameter. For the growing consumer market, there are
+free or low-cost applications based off image reconstruction. Autodesk's
+\href{http://www.123dapp.com/catch}{123D Catch} is a popular free app, and there
+are systems based off using the Microsoft Kinect. There are limitations to the
+types of objects these kinds of systems can be used on (not effective on shiny,
+regularly-shaped objects, or when there is a regular background), and at the
+very least they require the user to move around the object and capture images,
+taking a significant amount of time. The resolution of their scans can also be
+lacking. Because these products are free, a consumer-targeted 3D scanner would
+need to be sure differentiate itself on some levels. We think resolution,
+variety of scannable objects, and level of automation are 3 factors a product
+could be differentiated by.
+
+In terms of technology research, we started by looking at all the technologies
+currently used in 3D scanning, including computed tomography, opacity, contact
+probes, triangulation, structured light, time of flight, and image
+reconstruction. Computed tomography involves the use of x-rays, eliminating it
+as a low cost possibility. Using x-rays to scan interior parts of objects would
+be an interesting possibility, but we think for us it is best not to take that
+path. There are also interesting approaches possibly for time-of-flight scans,
+but the scan-speed to resolution trade-off that comes with time-of-flight is
+undesirable. Contact probes are effective, but slow and expensive, and we don't
+have any ideas to lower costs. We have decided that structured light is the most
+promising technology for us to pursue. Falling costs in digital projection and
+digital photography has recently lead to an increased academic attention on this
+approach, and there are even relatively straightforward ways for dedicated
+hobbyists to set up their own structured light 3D scanners. We think that
+combining methods intelligently (e.g. using image reconstruction alongside
+structured light scanning) could allow us to increase resolution, increase
+effectiveness on highly specular objects, and keep costs low. If done well, this
+would also allow us to push complexity into software and use cheap hardware.
+
+In summary:
+\begin{itemize}
+\item We have narrowed our potential customers down to two markets: small
+  manufacturers and consumers/hobbyists. Initial prototyping will be
+  similar for either of these market segments, though for small manufacturers we
+  need to focus more on scan accuracy of machining features, while for
+  consumers/hobbyists we need to focus more strongly on simplicity of use.
+
+\item Structured light is the principle technology we plan to use for scanning.
+  We think we can combine structured light with image reconstruction and stero-vision
+  methods to increase accuracy.
+\end{itemize}
+
+\section{Prototype Progress}
+We still do not have prototype progress, but we have build time scheduled this
+week.
+
+\section{Baffling Variables}
+We still have a large amount of uncertainty about the sizes of our potential
+markets, and the customer requirements for these markets. We have scheduled
+meetings that will help us answer our questions in these areas.
+
+\section{Seven Day Plan}
+\begin{itemize}
+\item We have several meetings that scheduling has carried over from
+  last week, so we are moving forward on those.
+\item On Wednesday we are moving into our new workspace, where we can start
+  building and prototyping.
+\item Craig and Gus putting together a rough CAD model for a modular scanner
+  composed of interlocking panels. 
+\item Troy and Turner are putting together a basic structured light 3D scanner
+  using a projector and a webcam
+\item Troy and Turner are pushing our prototyping funding search out to more
+  places 
+\end{itemize}
+
+\section{People to Meet}
+We would like to meet with the course's VC advisors in order to try and get some
+prototyping funding
+
+\section{Desired Resources}
+Same as above section: we would like to get a hold of some funding for
+prototyping supplies.
+
+\end{document}
