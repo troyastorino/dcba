@@ -17,6 +17,7 @@
 *.blg
 *.aux
 *.out
+*.log
 
 # Emacs files
 *.el
@@ -37,3 +38,4 @@ Thumbs.db
 CMakeCache.txt
 cmake_install.cmake
 CMakeFiles/*
+CMakeFiles

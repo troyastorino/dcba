@@ -1,20 +1,27 @@
-#include "cv.hpp" 
+#include "cv.hpp"
 #include "opencv2/opencv.hpp"
- #include "highgui.h" 
- #include <stdio.h>
+#include "highgui.h"
+#include <stdio.h>
 #include <iostream>
 using namespace cv;
- #include <GL/gl.h>
- #include <GL/glu.h>
- #include <GL/freeglut.h>
- #include <cmath>
- #include <time.h>
- #include <stdlib.h>
- #include <string>
- #include <sstream>
- #include <vector>
- #define TEX_SIZE 1024
- #define IX(xx,yy) ((xx) + (yy) * TEX_SIZE)
+#ifdef __APPLE__
+#include <OpenGL/gl.h>
+#include <OpenGL/glu.h>
+#include <OpenGL/OpenGL.h>
+#include <GLUT/glut.h>
+#else
+#include <GL/gl.h>
+#include <GL/glu.h>
+#include <GL/freeglut.h>
+#endif
+#include <cmath>
+#include <time.h>
+#include <stdlib.h>
+#include <string>
+#include <sstream>
+#include <vector>
+#define TEX_SIZE 1024
+#define IX(xx,yy) ((xx) + (yy) * TEX_SIZE)
 
 ///@TODO change the following 5 parameters according to your need
 //Screen width of your primary display so that the scan line
@@ -37,22 +44,22 @@ VideoCapture capture ;
    glMatrixMode (GL_PROJECTION);
    glLoadIdentity();
    glOrtho(-resx,resx,-resy,resy, 0.1, 10);
-   
+
  }
- 
+
  void display(void)
  {
    glClear (GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
    glMatrixMode(GL_MODELVIEW);
    glLoadIdentity();
-   
+
    gluLookAt(0,0,10,
              0,0,0,
              0.0, 1.0, 0.0);
    glColor3f(0,0,0);
 
    ///@TODO draw scanline here
-   
+
    glFinish();
    glutSwapBuffers();
   //a sync hack to make sure the first image is completely drawn
