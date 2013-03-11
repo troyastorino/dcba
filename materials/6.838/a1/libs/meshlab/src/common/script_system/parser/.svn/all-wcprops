@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/5622/trunk/meshlab/src/common/script_system/parser
+END
+js_parser.tab.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5622/trunk/meshlab/src/common/script_system/parser/js_parser.tab.cc
+END
+position.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5610/trunk/meshlab/src/common/script_system/parser/position.hh
+END
+stack.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5610/trunk/meshlab/src/common/script_system/parser/stack.hh
+END
+location.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5610/trunk/meshlab/src/common/script_system/parser/location.hh
+END
+js_parser.yy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5622/trunk/meshlab/src/common/script_system/parser/js_parser.yy
+END
+js_parser.tab.hh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5622/trunk/meshlab/src/common/script_system/parser/js_parser.tab.hh
+END
+js_lex_lex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5622/trunk/meshlab/src/common/script_system/parser/js_lex_lex.cpp
+END
+js_lex.l
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5622/trunk/meshlab/src/common/script_system/parser/js_lex.l
+END

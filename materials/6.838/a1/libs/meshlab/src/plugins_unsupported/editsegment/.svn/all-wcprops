@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment
+END
+edit_segment_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/edit_segment_factory.cpp
+END
+meshlab.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/meshlab.qrc
+END
+curvaturetensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/curvaturetensor.h
+END
+colorpicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/colorpicker.h
+END
+cutting.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/cutting.h
+END
+edit_segment_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/edit_segment_factory.h
+END
+meshcutdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/meshcutdialog.ui
+END
+editsegment.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/editsegment.pro
+END
+editsegment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/editsegment.cpp
+END
+meshcutdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/meshcutdialog.cpp
+END
+colorpiker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/colorpiker.cpp
+END
+editsegment.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/editsegment.h
+END
+meshcutdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editsegment/meshcutdialog.h
+END

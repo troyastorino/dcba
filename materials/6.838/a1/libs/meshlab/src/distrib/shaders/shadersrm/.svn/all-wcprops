@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/4262/trunk/meshlab/src/distrib/shaders/shadersrm
+END
+QualityContour.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/4163/trunk/meshlab/src/distrib/shaders/shadersrm/QualityContour.rfx
+END
+PhongUntextured.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/4163/trunk/meshlab/src/distrib/shaders/shadersrm/PhongUntextured.rfx
+END
+NormalMapping.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/4163/trunk/meshlab/src/distrib/shaders/shadersrm/NormalMapping.rfx
+END
+cartoon.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/4163/trunk/meshlab/src/distrib/shaders/shadersrm/cartoon.rfx
+END
+ZBrush.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/4163/trunk/meshlab/src/distrib/shaders/shadersrm/ZBrush.rfx
+END

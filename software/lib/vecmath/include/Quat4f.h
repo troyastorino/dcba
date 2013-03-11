@@ -17,7 +17,7 @@ public:
 
 	// q = w + x * i + y * j + z * k
 	Quat4f( float w, float x, float y, float z );
-		
+
 	Quat4f( const Quat4f& rq ); // copy constructor
 	Quat4f& operator = ( const Quat4f& rq ); // assignment operator
 	// no destructor necessary
@@ -53,7 +53,7 @@ public:
 	// log and exponential maps
 	Quat4f log() const;
 	Quat4f exp() const;
-	
+
 	// returns unit vector for rotation and radians about the unit vector
 	Vector3f getAxisAngle( float* radiansOut );
 

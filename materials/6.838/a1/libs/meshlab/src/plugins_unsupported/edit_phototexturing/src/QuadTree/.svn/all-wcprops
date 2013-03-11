@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/QuadTree
+END
+QuadTreeNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/QuadTree/QuadTreeNode.cpp
+END
+QuadTreeNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/QuadTree/QuadTreeNode.h
+END
+QuadTreeLeaf.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/QuadTree/QuadTreeLeaf.h
+END

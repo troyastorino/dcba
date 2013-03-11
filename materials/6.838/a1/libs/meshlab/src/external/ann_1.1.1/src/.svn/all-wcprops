@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src
+END
+kd_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_util.h
+END
+bd_tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/bd_tree.cpp
+END
+pr_queue_k.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/pr_queue_k.h
+END
+bd_fix_rad_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/bd_fix_rad_search.cpp
+END
+kd_split.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_split.cpp
+END
+bd_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/bd_tree.h
+END
+bd_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/bd_search.cpp
+END
+bd_pr_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/bd_pr_search.cpp
+END
+ANN.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/ANN.cpp
+END
+kd_tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_tree.cpp
+END
+kd_split.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_split.h
+END
+kd_fix_rad_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_fix_rad_search.cpp
+END
+brute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/brute.cpp
+END
+kd_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_tree.h
+END
+kd_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_search.cpp
+END
+kd_dump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_dump.cpp
+END
+kd_pr_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_pr_search.cpp
+END
+kd_fix_rad_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_fix_rad_search.h
+END
+kd_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_search.h
+END
+kd_pr_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_pr_search.h
+END
+pr_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/pr_queue.h
+END
+kd_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/kd_util.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/Makefile
+END
+perf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/src/perf.cpp
+END

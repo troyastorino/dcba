@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/c_sync
+END
+libfreenect_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/c_sync/libfreenect_sync.c
+END
+libfreenect_sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/c_sync/libfreenect_sync.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/c_sync/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/c_sync/README
+END

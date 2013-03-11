@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/5735/trunk/meshlab/src/meshlabplugins/edit_measure
+END
+edit_measure_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_measure/edit_measure_factory.h
+END
+edit_measure.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5170/trunk/meshlab/src/meshlabplugins/edit_measure/edit_measure.pro
+END
+edit_measure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5735/trunk/meshlab/src/meshlabplugins/edit_measure/edit_measure.cpp
+END
+edit_measure.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5169/trunk/meshlab/src/meshlabplugins/edit_measure/edit_measure.qrc
+END
+edit_measure.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5169/trunk/meshlab/src/meshlabplugins/edit_measure/edit_measure.h
+END
+edit_measure_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5170/trunk/meshlab/src/meshlabplugins/edit_measure/edit_measure_factory.cpp
+END

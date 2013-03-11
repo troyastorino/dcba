@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/ui
+END
+savemaskexporter.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3381/trunk/meshlab/src/meshlab/ui/savemaskexporter.ui
+END
+renametexture.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/695/trunk/meshlab/src/meshlab/ui/renametexture.ui
+END
+aboutDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/4543/trunk/meshlab/src/meshlab/ui/aboutDialog.ui
+END
+customDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/506/trunk/meshlab/src/meshlab/ui/customDialog.ui
+END
+filterScriptDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3126/trunk/meshlab/src/meshlab/ui/filterScriptDialog.ui
+END
+filtergui.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/meshlab/!svn/ver/5461/trunk/meshlab/src/meshlab/ui/filtergui.ui
+END
+filtercreatortab.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/ui/filtercreatortab.ui
+END
+layerDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/5803/trunk/meshlab/src/meshlab/ui/layerDialog.ui
+END
+savesnapshotDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/5709/trunk/meshlab/src/meshlab/ui/savesnapshotDialog.ui
+END
+congratsDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/4605/trunk/meshlab/src/meshlab/ui/congratsDialog.ui
+END

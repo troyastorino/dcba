@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/5960/trunk/meshlab/src/meshlabplugins/filter_fractal
+END
+ff_craters_description.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/4327/trunk/meshlab/src/meshlabplugins/filter_fractal/ff_craters_description.txt
+END
+filter_fractal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/4327/trunk/meshlab/src/meshlabplugins/filter_fractal/filter_fractal.pro
+END
+filter_fractal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5651/trunk/meshlab/src/meshlabplugins/filter_fractal/filter_fractal.cpp
+END
+fractal_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5960/trunk/meshlab/src/meshlabplugins/filter_fractal/fractal_utils.h
+END
+filter_fractal.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5648/trunk/meshlab/src/meshlabplugins/filter_fractal/filter_fractal.h
+END
+ff_fractal_description.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/4635/trunk/meshlab/src/meshlabplugins/filter_fractal/ff_fractal_description.txt
+END
+ff_res.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/4327/trunk/meshlab/src/meshlabplugins/filter_fractal/ff_res.qrc
+END
+craters_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5960/trunk/meshlab/src/meshlabplugins/filter_fractal/craters_utils.h
+END
+filter_functors.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/4327/trunk/meshlab/src/meshlabplugins/filter_fractal/filter_functors.h
+END

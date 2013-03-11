@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/structuresynth/!svn/ver/296/trunk/SyntopiaCore/GLEngine/Raytracer
+END
+ProgressiveOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/structuresynth/!svn/ver/291/trunk/SyntopiaCore/GLEngine/Raytracer/ProgressiveOutput.h
+END
+VoxelStepper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/structuresynth/!svn/ver/272/trunk/SyntopiaCore/GLEngine/Raytracer/VoxelStepper.cpp
+END
+AtomicCounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/structuresynth/!svn/ver/274/trunk/SyntopiaCore/GLEngine/Raytracer/AtomicCounter.h
+END
+RayTracer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/structuresynth/!svn/ver/296/trunk/SyntopiaCore/GLEngine/Raytracer/RayTracer.h
+END
+Sampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/structuresynth/!svn/ver/296/trunk/SyntopiaCore/GLEngine/Raytracer/Sampler.cpp
+END
+VoxelStepper.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/structuresynth/!svn/ver/294/trunk/SyntopiaCore/GLEngine/Raytracer/VoxelStepper.h
+END
+RenderThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/structuresynth/!svn/ver/295/trunk/SyntopiaCore/GLEngine/Raytracer/RenderThread.cpp
+END
+Sampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/structuresynth/!svn/ver/293/trunk/SyntopiaCore/GLEngine/Raytracer/Sampler.h
+END
+AtomicCounter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/structuresynth/!svn/ver/272/trunk/SyntopiaCore/GLEngine/Raytracer/AtomicCounter.cpp
+END
+RayTracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/structuresynth/!svn/ver/296/trunk/SyntopiaCore/GLEngine/Raytracer/RayTracer.cpp
+END
+RenderThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/structuresynth/!svn/ver/295/trunk/SyntopiaCore/GLEngine/Raytracer/RenderThread.h
+END

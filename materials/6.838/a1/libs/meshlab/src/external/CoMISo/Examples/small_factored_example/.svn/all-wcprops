@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Examples/small_factored_example
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Examples/small_factored_example/main.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Examples/small_factored_example/CMakeLists.txt
+END

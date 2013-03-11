@@ -1,0 +1,235 @@
+10
+
+dir
+6096
+https://meshlab.svn.sourceforge.net/svnroot/meshlab/trunk/meshlab/src/meshlabplugins
+https://meshlab.svn.sourceforge.net/svnroot/meshlab
+
+
+
+2013-03-01T14:26:41.382433Z
+6096
+cignoni
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+324bb2ba-784c-0410-a299-e66b5c357fcb
+
+filter_color_projection
+dir
+
+filter_layer
+dir
+
+edit_manipulators
+dir
+
+io_gts
+dir
+
+filter_photosynth
+dir
+
+edit_select
+dir
+
+io_tri
+dir
+
+filter_clean
+dir
+
+edit_pickpoints
+dir
+
+filter_qhull
+dir
+
+filter_bnpts
+dir
+
+filter_colorize
+dir
+
+filter_quality
+dir
+
+filter_poisson
+dir
+
+edit_align
+dir
+
+decorate_raster_proj
+dir
+
+edit_slice
+dir
+
+filter_texture
+dir
+
+edit_measure
+dir
+
+render_gdp
+dir
+
+filter_zippering
+dir
+
+decorate_base
+dir
+
+filter_img_patch_param
+dir
+
+io_u3d
+dir
+
+io_collada
+dir
+
+filter_plymc
+dir
+
+io_pdb
+dir
+
+edit_hole
+dir
+
+filter_ssynth
+dir
+
+filter_sdfgpu
+dir
+
+filter_feature_alignment
+dir
+
+edit_point
+dir
+
+render_rfx
+dir
+
+filter_meshing
+dir
+
+filter_ao
+dir
+
+filter_dirt
+dir
+
+filter_create
+dir
+
+io_3ds
+dir
+
+filter_csg
+dir
+
+filter_fractal
+dir
+
+filter_select
+dir
+
+filter_autoalign
+dir
+
+filter_aging
+dir
+
+decorate_shadow
+dir
+
+edit_quality
+dir
+
+io_base
+dir
+
+filter_slice
+dir
+
+render_splatting
+dir
+
+edit_texture
+dir
+
+filter_measure
+dir
+
+filter_colorproc
+dir
+
+filter_sampling
+dir
+
+edit_paint
+dir
+
+filter_sdf
+dir
+
+filter_trioptimize
+dir
+
+filter_unsharp
+dir
+
+decorate_background
+dir
+
+io_x3d
+dir
+
+io_expe
+dir
+
+filter_isoparametrization
+dir
+
+filter_camera
+dir
+
+io_bre
+dir
+
+filter_mls
+dir
+
+io_json
+dir
+
+filter_func
+dir
+
+edit_arc3D
+dir
+
+render_radiance_scaling
+dir
+
+filter_mutualinfoxml
+dir
+
+io_ctm
+dir
+

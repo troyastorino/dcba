@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/platform/windows/inf/xbox%20nui%20camera/amd64
+END
+libusb0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/platform/windows/inf/xbox%20nui%20camera/amd64/libusb0.dll
+END
+libusb0.sys
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/platform/windows/inf/xbox%20nui%20camera/amd64/libusb0.sys
+END

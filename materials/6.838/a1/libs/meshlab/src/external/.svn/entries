@@ -1,0 +1,193 @@
+10
+
+dir
+6096
+https://meshlab.svn.sourceforge.net/svnroot/meshlab/trunk/meshlab/src/external
+https://meshlab.svn.sourceforge.net/svnroot/meshlab
+
+
+
+2013-02-08T16:15:07.324763Z
+6067
+granzuglia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+324bb2ba-784c-0410-a299-e66b5c357fcb
+
+external.pro
+file
+
+
+
+
+2013-03-03T21:45:59.000000Z
+b0c88fe845525f244d4e9e13fa3e7b08
+2012-04-06T16:30:55.803758Z
+5696
+granzuglia
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+416
+
+ode-0.11.1
+dir
+
+bzip2-1.0.5
+dir
+
+levmar-2.3
+dir
+
+structuresynth
+dir
+
+CoMISo
+dir
+
+ann_1.1.1
+dir
+
+qtsoap-2.7_1
+dir
+
+GotoBLAS2
+dir
+
+glew-1.5.1
+dir
+
+newuoa
+dir
+
+glew-1.7.0
+dir
+
+openkinect
+dir
+
+ext_common.pri
+file
+
+
+
+
+2013-03-03T21:45:59.000000Z
+65572df02398746c8a9ad865bd3baf29
+2012-04-27T13:14:44.409304Z
+5713
+granzuglia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+510
+
+OpenCTM-1.0.3
+dir
+
+tsai-30b3
+dir
+
+lib
+dir
+
+jhead-2.95
+dir
+
+qhull-2003.1
+dir
+
+muparser_v130
+dir
+
+muparser_v132
+dir
+
+inc
+dir
+
+readme.txt
+file
+
+
+
+
+2013-03-03T21:45:59.000000Z
+5a8fa86736dd1355d71214ee9e64205d
+2010-01-08T14:46:42.564254Z
+3875
+cignoni
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1236
+
+lib3ds-1.3.0
+dir
+

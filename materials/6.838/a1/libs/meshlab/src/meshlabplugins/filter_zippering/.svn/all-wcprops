@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/5969/trunk/meshlab/src/meshlabplugins/filter_zippering
+END
+filter_zippering.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5154/trunk/meshlab/src/meshlabplugins/filter_zippering/filter_zippering.h
+END
+filter_zippering.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/filter_zippering/filter_zippering.pro
+END
+filter_zippering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5969/trunk/meshlab/src/meshlabplugins/filter_zippering/filter_zippering.cpp
+END

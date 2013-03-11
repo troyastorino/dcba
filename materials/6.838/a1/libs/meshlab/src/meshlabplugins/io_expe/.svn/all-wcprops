@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/meshlab/!svn/ver/5524/trunk/meshlab/src/meshlabplugins/io_expe
+END
+export_xyz.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/5524/trunk/meshlab/src/meshlabplugins/io_expe/export_xyz.h
+END
+import_expe.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5153/trunk/meshlab/src/meshlabplugins/io_expe/import_expe.h
+END
+io_expe.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5524/trunk/meshlab/src/meshlabplugins/io_expe/io_expe.pro
+END
+io_expe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5524/trunk/meshlab/src/meshlabplugins/io_expe/io_expe.cpp
+END
+import_xyz.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/5524/trunk/meshlab/src/meshlabplugins/io_expe/import_xyz.h
+END
+import_expe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/2707/trunk/meshlab/src/meshlabplugins/io_expe/import_expe.cpp
+END
+io_expe.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_expe/io_expe.h
+END

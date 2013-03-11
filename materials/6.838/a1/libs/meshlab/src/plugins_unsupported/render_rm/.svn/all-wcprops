@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm
+END
+rmShadowDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/rmShadowDialog.ui
+END
+rmmeshrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/rmmeshrender.h
+END
+glstateholder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/glstateholder.cpp
+END
+rmshaderdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/rmshaderdialog.cpp
+END
+glstateholder.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/glstateholder.h
+END
+rmshaderdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/rmshaderdialog.h
+END
+render_rm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/render_rm.pro
+END
+rmmeshrender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/rmmeshrender.cpp
+END

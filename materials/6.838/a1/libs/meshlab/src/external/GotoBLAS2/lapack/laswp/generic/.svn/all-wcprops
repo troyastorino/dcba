@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/laswp/generic
+END
+laswp_k.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/laswp/generic/laswp_k.c
+END
+laswp_k_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/laswp/generic/laswp_k_1.c
+END
+laswp_k_2.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/laswp/generic/laswp_k_2.c
+END
+laswp_k_4.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/laswp/generic/laswp_k_4.c
+END
+laswp_k_8.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/laswp/generic/laswp_k_8.c
+END
+zlaswp_k.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/laswp/generic/zlaswp_k.c
+END
+zlaswp_k_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/laswp/generic/zlaswp_k_1.c
+END
+zlaswp_k_2.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/laswp/generic/zlaswp_k_2.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/laswp/generic/Makefile
+END
+zlaswp_k_4.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/laswp/generic/zlaswp_k_4.c
+END

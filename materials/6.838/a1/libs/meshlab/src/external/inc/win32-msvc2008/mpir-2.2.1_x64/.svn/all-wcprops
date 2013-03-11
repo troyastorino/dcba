@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5348/trunk/meshlab/src/external/inc/win32-msvc2008/mpir-2.2.1_x64
+END
+gmp-mparam.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5348/trunk/meshlab/src/external/inc/win32-msvc2008/mpir-2.2.1_x64/gmp-mparam.h
+END
+gmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5348/trunk/meshlab/src/external/inc/win32-msvc2008/mpir-2.2.1_x64/gmp.h
+END
+gmpxx.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5348/trunk/meshlab/src/external/inc/win32-msvc2008/mpir-2.2.1_x64/gmpxx.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5348/trunk/meshlab/src/external/inc/win32-msvc2008/mpir-2.2.1_x64/config.h
+END
+mpir.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5348/trunk/meshlab/src/external/inc/win32-msvc2008/mpir-2.2.1_x64/mpir.h
+END
+mpirxx.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5348/trunk/meshlab/src/external/inc/win32-msvc2008/mpir-2.2.1_x64/mpirxx.h
+END

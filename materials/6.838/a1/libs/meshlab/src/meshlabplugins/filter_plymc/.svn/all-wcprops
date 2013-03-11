@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/6031/trunk/meshlab/src/meshlabplugins/filter_plymc
+END
+filter_plymc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/4565/trunk/meshlab/src/meshlabplugins/filter_plymc/filter_plymc.h
+END
+plymc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5283/trunk/meshlab/src/meshlabplugins/filter_plymc/plymc.pro
+END
+voxel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6031/trunk/meshlab/src/meshlabplugins/filter_plymc/voxel.h
+END
+trivial_walker.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/3611/trunk/meshlab/src/meshlabplugins/filter_plymc/trivial_walker.h
+END
+svoxel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3611/trunk/meshlab/src/meshlabplugins/filter_plymc/svoxel.h
+END
+simplemeshprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5761/trunk/meshlab/src/meshlabplugins/filter_plymc/simplemeshprovider.h
+END
+filter_plymc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5159/trunk/meshlab/src/meshlabplugins/filter_plymc/filter_plymc.pro
+END
+plymc_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5283/trunk/meshlab/src/meshlabplugins/filter_plymc/plymc_main.cpp
+END
+tri_edge_collapse_mc.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5278/trunk/meshlab/src/meshlabplugins/filter_plymc/tri_edge_collapse_mc.h
+END
+filter_plymc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6031/trunk/meshlab/src/meshlabplugins/filter_plymc/filter_plymc.cpp
+END
+plymc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6031/trunk/meshlab/src/meshlabplugins/filter_plymc/plymc.h
+END
+volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5699/trunk/meshlab/src/meshlabplugins/filter_plymc/volume.h
+END

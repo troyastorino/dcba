@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/meshlab/!svn/ver/3821/trunk/meshlab/src/sampleplugins/sampleio
+END
+sampleio.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/2753/trunk/meshlab/src/sampleplugins/sampleio/sampleio.h
+END
+sampleio.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3821/trunk/meshlab/src/sampleplugins/sampleio/sampleio.pro
+END
+sampleio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/2753/trunk/meshlab/src/sampleplugins/sampleio/sampleio.cpp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma
+END
+LzHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/LzHash.h
+END
+LzmaEnc.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/LzmaEnc.h
+END
+Alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/Alloc.h
+END
+LzmaDec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/LzmaDec.c
+END
+LzmaLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/LzmaLib.h
+END
+LzmaDec.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/LzmaDec.h
+END
+LzFind.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/LzFind.c
+END
+LzmaEnc.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/LzmaEnc.c
+END
+NameMangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/NameMangle.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/Types.h
+END
+Alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/Alloc.c
+END
+LzmaLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/LzmaLib.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/readme.txt
+END
+LzFind.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/liblzma/LzFind.h
+END

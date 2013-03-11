@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/cmake_modules
+END
+FindOS.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/cmake_modules/FindOS.cmake
+END
+UninstallTarget.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/cmake_modules/UninstallTarget.cmake.in
+END
+Findlibusb-1.0.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/cmake_modules/Findlibusb-1.0.cmake
+END
+SetupDirectories.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/cmake_modules/SetupDirectories.cmake
+END

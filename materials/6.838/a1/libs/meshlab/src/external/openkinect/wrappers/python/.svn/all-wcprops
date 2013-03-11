@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python
+END
+demo_cv_sync.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python/demo_cv_sync.py
+END
+demo_cv_async.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python/demo_cv_async.py
+END
+demo_kill_async.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python/demo_kill_async.py
+END
+demo_mp_sync.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python/demo_mp_sync.py
+END
+demo_mp_async.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python/demo_mp_async.py
+END
+demo_ipython.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python/demo_ipython.py
+END
+demo_tilt.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python/demo_tilt.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python/setup.py
+END
+demo_cv_sync_multi.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python/demo_cv_sync_multi.py
+END
+freenect.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python/freenect.pyx
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/python/README
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/5090/trunk/meshlab/src/meshlabplugins/filter_ao/shaders
+END
+ambient_occlusion4.frag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5090/trunk/meshlab/src/meshlabplugins/filter_ao/shaders/ambient_occlusion4.frag
+END
+ambient_occlusion8.frag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5090/trunk/meshlab/src/meshlabplugins/filter_ao/shaders/ambient_occlusion8.frag
+END
+ambient_occlusion.vert
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5090/trunk/meshlab/src/meshlabplugins/filter_ao/shaders/ambient_occlusion.vert
+END

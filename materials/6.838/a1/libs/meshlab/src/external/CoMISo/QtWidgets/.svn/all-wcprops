@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/QtWidgets
+END
+MISolverDialogUI.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/QtWidgets/MISolverDialogUI.cc
+END
+QtMISolverDialogBaseUI.ui
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/QtWidgets/QtMISolverDialogBaseUI.ui
+END
+MISolverDialogUI.hh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/QtWidgets/MISolverDialogUI.hh
+END

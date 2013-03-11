@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/5652/trunk/meshlab/src/meshlabplugins/render_gdp
+END
+meshrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5645/trunk/meshlab/src/meshlabplugins/render_gdp/meshrender.h
+END
+shaderDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/2954/trunk/meshlab/src/meshlabplugins/render_gdp/shaderDialog.ui
+END
+shaderStructs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/4540/trunk/meshlab/src/meshlabplugins/render_gdp/shaderStructs.h
+END
+textfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/3231/trunk/meshlab/src/meshlabplugins/render_gdp/textfile.cpp
+END
+shaderDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/4540/trunk/meshlab/src/meshlabplugins/render_gdp/shaderDialog.cpp
+END
+render_gdp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3821/trunk/meshlab/src/meshlabplugins/render_gdp/render_gdp.pro
+END
+textfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3231/trunk/meshlab/src/meshlabplugins/render_gdp/textfile.h
+END
+shaderDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3815/trunk/meshlab/src/meshlabplugins/render_gdp/shaderDialog.h
+END
+meshrender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5652/trunk/meshlab/src/meshlabplugins/render_gdp/meshrender.cpp
+END

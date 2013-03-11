@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/getf2
+END
+getf2_k.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/getf2/getf2_k.c
+END
+zgetf2_k.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/getf2/zgetf2_k.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/lapack/getf2/Makefile
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_straightener
+END
+edit_straightener_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_straightener/edit_straightener_factory.h
+END
+editstraightener.ui
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_straightener/editstraightener.ui
+END
+edit_straightener.pro
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_straightener/edit_straightener.pro
+END
+editstraightener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_straightener/editstraightener.cpp
+END
+editstraightenerdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_straightener/editstraightenerdialog.cpp
+END
+editstraightener.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_straightener/editstraightener.qrc
+END
+editstraightener.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_straightener/editstraightener.h
+END
+editstraightenerdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_straightener/editstraightenerdialog.h
+END
+edit_straightener_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_straightener/edit_straightener_factory.cpp
+END

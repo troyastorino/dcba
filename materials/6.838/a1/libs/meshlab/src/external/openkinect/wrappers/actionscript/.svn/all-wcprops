@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/actionscript
+END
+test_depth.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/actionscript/test_depth.as
+END
+test_rgb.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/actionscript/test_rgb.as
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/actionscript/CMakeLists.txt
+END

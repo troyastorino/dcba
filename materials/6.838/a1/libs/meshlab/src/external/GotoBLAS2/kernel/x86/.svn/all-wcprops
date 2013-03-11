@@ -1,0 +1,1391 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86
+END
+zcopy_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zcopy_sse.S
+END
+KERNEL
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL
+END
+gemm_kernel_8x1_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_8x1_sse2.S
+END
+trsm_kernel_RT_4x2_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_RT_4x2_core2.S
+END
+KERNEL.VIAC3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.VIAC3
+END
+trsm_kernel_RT_2x4_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_RT_2x4_sse2.S
+END
+copy_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/copy_sse.S
+END
+ztrsm_kernel_LT_4x1_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LT_4x1_sse.S
+END
+zgemm_kernel_4x1_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_4x1_sse.S
+END
+zscal_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zscal_sse.S
+END
+KERNEL.NEHALEM
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.NEHALEM
+END
+gemm_kernel_2x4_barcelona.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_2x4_barcelona.S
+END
+zgemm_kernel_1x1_atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_1x1_atom.S
+END
+ztrsm_kernel_RT_2x2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_RT_2x2_sse.S
+END
+zgemm3m_kernel_2x2_atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_2x2_atom.S
+END
+zasum_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zasum_sse2.S
+END
+scal_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/scal_sse.S
+END
+gemm_kernel_2x2_atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_2x2_atom.S
+END
+gemm_kernel_8x2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_8x2_sse.S
+END
+qaxpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/qaxpy.S
+END
+trsm_kernel_RT_4x4_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_RT_4x4_sse.S
+END
+KERNEL.OPTERON
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.OPTERON
+END
+ztrsm_kernel_LT_2x1_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LT_2x1_sse2.S
+END
+xtrsm_kernel_LT_1x1.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/xtrsm_kernel_LT_1x1.S
+END
+ztrsm_kernel_LT_1x2_sse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LT_1x2_sse3.S
+END
+dot_sse_opteron.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/dot_sse_opteron.S
+END
+ztrsm_kernel_LT_1x1.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LT_1x1.S
+END
+zasum_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zasum_sse.S
+END
+ztrsm_kernel_RT_1x2_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_RT_1x2_penryn.S
+END
+ztrsm_kernel_RT_1x2_sse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_RT_1x2_sse3.S
+END
+gemm_kernel_2x4_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_2x4_penryn.S
+END
+zswap_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zswap_sse.S
+END
+asum_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/asum_sse.S
+END
+gemm_kernel_2x4_sse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_2x4_sse3.S
+END
+swap_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/swap_sse.S
+END
+dot.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/dot.S
+END
+zrot_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zrot_sse2.S
+END
+gemv_n_atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemv_n_atom.S
+END
+zgemv_t_atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemv_t_atom.S
+END
+ztrsm_kernel_LN_2x2_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LN_2x2_penryn.S
+END
+trsm_kernel_LT_2x2_atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LT_2x2_atom.S
+END
+zasum.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zasum.S
+END
+rot_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/rot_sse2.S
+END
+qgemm_kernel_2x2.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/qgemm_kernel_2x2.S
+END
+rot.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/rot.S
+END
+trsm_kernel_RT_2x2_atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_RT_2x2_atom.S
+END
+trsm_kernel_LN_4x2_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LN_4x2_core2.S
+END
+asum.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/asum.S
+END
+zgemm_kernel_2x1_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_2x1_sse2.S
+END
+trsm_kernel_LN_2x4_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LN_2x4_penryn.S
+END
+zgemm_kernel_1x2_sse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_1x2_sse3.S
+END
+trsm_kernel_LN_4x2_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LN_4x2_sse2.S
+END
+qdot.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/qdot.S
+END
+gemv_n_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemv_n_sse2.S
+END
+zaxpy_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zaxpy_sse2.S
+END
+zgemv_t_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemv_t_sse2.S
+END
+KERNEL.NANO
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.NANO
+END
+trsm_kernel_LT_4x2_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LT_4x2_core2.S
+END
+gemm_kernel_4x2_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_4x2_core2.S
+END
+ztrsm_kernel_LN_2x2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LN_2x2_sse.S
+END
+trsm_kernel_LT_2x4_sse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LT_2x4_sse3.S
+END
+KERNEL.ATOM
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.ATOM
+END
+zgemv_n_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemv_n_sse.S
+END
+gemm_kernel_8x2_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_8x2_core2.S
+END
+zgemm_kernel_2x2_barcelona.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_2x2_barcelona.S
+END
+staticbuffer.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/staticbuffer.S
+END
+KERNEL.PRESCOTT
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.PRESCOTT
+END
+zgemm3m_kernel_2x4_barcelona.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_2x4_barcelona.S
+END
+znrm2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/znrm2_sse.S
+END
+trsm_kernel_RT_2x4_sse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_RT_2x4_sse3.S
+END
+trsm_kernel_RT_4x4_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_RT_4x4_penryn.S
+END
+trsm_kernel_LN_4x4_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LN_4x4_sse.S
+END
+nrm2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/nrm2_sse.S
+END
+KERNEL.CORE2
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.CORE2
+END
+gemm_ncopy_4_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_ncopy_4_sse.S
+END
+zdot_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zdot_sse.S
+END
+gemv_t_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemv_t_sse.S
+END
+qgemv_n.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/qgemv_n.S
+END
+trsm_kernel_LT_8x2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LT_8x2_sse.S
+END
+qtrsm_kernel_LT_2x2.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/qtrsm_kernel_LT_2x2.S
+END
+gemm_tcopy_4_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_tcopy_4_sse.S
+END
+KERNEL.NORTHWOOD
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.NORTHWOOD
+END
+KERNEL.OPTERON_SSE3
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.OPTERON_SSE3
+END
+xgemv_n.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/xgemv_n.S
+END
+zgemm_kernel_2x2_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_2x2_penryn.S
+END
+zgemv_n.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemv_n.S
+END
+copy_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/copy_sse2.S
+END
+xgemm_kernel_1x1.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/xgemm_kernel_1x1.S
+END
+zgemm_kernel_2x2_sse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_2x2_sse3.S
+END
+zgemm_ncopy_2.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_ncopy_2.S
+END
+zrot_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zrot_sse.S
+END
+xaxpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/xaxpy.S
+END
+zgemm3m_kernel_4x4_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_4x4_penryn.S
+END
+zdot_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zdot_sse2.S
+END
+scal_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/scal_sse2.S
+END
+gemm_kernel_4x2_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_4x2_sse2.S
+END
+gemm_ncopy_2.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_ncopy_2.S
+END
+zgemm_tcopy_2.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_tcopy_2.S
+END
+trsm_kernel_LT_2x2.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LT_2x2.S
+END
+KERNEL.COPPERMINE
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.COPPERMINE
+END
+trsm_kernel_LT_1x4.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LT_1x4.S
+END
+gemm_beta.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_beta.S
+END
+zamax.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zamax.S
+END
+gemv_t.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemv_t.S
+END
+gemm_kernel_4x4_sse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_4x4_sse3.S
+END
+dot_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/dot_sse2.S
+END
+zgemm3m_kernel_2x4_opteron.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_2x4_opteron.S
+END
+gemm_tcopy_2.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_tcopy_2.S
+END
+zgemm3m_kernel_4x4_opteron.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_4x4_opteron.S
+END
+amax.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/amax.S
+END
+iamax_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/iamax_sse2.S
+END
+zgemm3m_kernel_2x2_coppermine.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_2x2_coppermine.S
+END
+gemv_t_atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemv_t_atom.S
+END
+KERNEL.DUNNINGTON
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.DUNNINGTON
+END
+KERNEL.BARCELONA
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.BARCELONA
+END
+cpuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/cpuid.S
+END
+zgemm_kernel_4x1_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_4x1_core2.S
+END
+swap_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/swap_sse2.S
+END
+zgemm3m_kernel_4x2_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_4x2_core2.S
+END
+iamax_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/iamax_sse.S
+END
+zgemm3m_kernel_8x2_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_8x2_core2.S
+END
+ztrsm_kernel_RT_2x2_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_RT_2x2_penryn.S
+END
+trsm_kernel_LT_4x2_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LT_4x2_sse2.S
+END
+gemv_t_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemv_t_sse2.S
+END
+ztrsm_kernel_LN_4x1_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LN_4x1_sse.S
+END
+zgemm_kernel_1x2_barcelona.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_1x2_barcelona.S
+END
+trsm_kernel_RT_2x4_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_RT_2x4_penryn.S
+END
+axpy_sse2_opteron.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/axpy_sse2_opteron.S
+END
+trsm_kernel_RT_4x2_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_RT_4x2_sse2.S
+END
+KERNEL.KATMAI
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.KATMAI
+END
+gemm_kernel_4x4_barcelona.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_4x4_barcelona.S
+END
+gemm_kernel_4x4_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_4x4_sse.S
+END
+iamax.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/iamax.S
+END
+zgemm3m_kernel_2x4_prescott.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_2x4_prescott.S
+END
+dot_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/dot_sse.S
+END
+zcopy_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zcopy_sse2.S
+END
+KERNEL.P5
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.P5
+END
+izamax_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/izamax_sse.S
+END
+KERNEL.P6
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.P6
+END
+ztrsm_kernel_LT_1x2_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LT_1x2_penryn.S
+END
+zcopy.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zcopy.S
+END
+trsm_kernel_RT_8x2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_RT_8x2_sse.S
+END
+qtrsm_kernel_RT_2x2.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/qtrsm_kernel_RT_2x2.S
+END
+zgemm3m_kernel_2x4_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_2x4_penryn.S
+END
+xgemm3m_kernel_2x2.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/xgemm3m_kernel_2x2.S
+END
+zgemm_kernel_1x1.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_1x1.S
+END
+zscal_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zscal_sse2.S
+END
+copy.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/copy.S
+END
+zgemm_beta.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_beta.S
+END
+KERNEL.BANIAS
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.BANIAS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/Makefile
+END
+zscal.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zscal.S
+END
+rot_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/rot_sse.S
+END
+xdot.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/xdot.S
+END
+gemm_kernel_2x2.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_2x2.S
+END
+gemm_kernel_1x4.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_1x4.S
+END
+scal.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/scal.S
+END
+amax_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/amax_sse2.S
+END
+trsm_kernel_RT_2x2.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_RT_2x2.S
+END
+trsm_kernel_RT_1x4.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_RT_1x4.S
+END
+izamax.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/izamax.S
+END
+ztrsm_kernel_LN_2x1_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LN_2x1_core2.S
+END
+zswap_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zswap_sse2.S
+END
+zdot_amd.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zdot_amd.S
+END
+ztrsm_kernel_LT_2x1_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LT_2x1_core2.S
+END
+zswap.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zswap.S
+END
+trsm_kernel_LN_2x4_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LN_2x4_sse2.S
+END
+cabs.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/cabs.S
+END
+swap.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/swap.S
+END
+gemm_kernel_2x4_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_2x4_core2.S
+END
+trsm_kernel_LT_4x4_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LT_4x4_penryn.S
+END
+zgemm3m_kernel_1x4_athlon.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_1x4_athlon.S
+END
+qconjg.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/qconjg.S
+END
+ztrsm_kernel_LT_2x2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LT_2x2_sse.S
+END
+zgemm3m_kernel_4x4_barcelona.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_4x4_barcelona.S
+END
+zgemm_kernel_2x2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_2x2_sse.S
+END
+izamax_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/izamax_sse2.S
+END
+gemv_n_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemv_n_sse.S
+END
+zaxpy_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zaxpy_sse.S
+END
+zgemv_t_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemv_t_sse.S
+END
+gemm_ncopy_2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_ncopy_2_sse.S
+END
+trsm_kernel_LN_8x2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LN_8x2_sse.S
+END
+KERNEL.PENRYN
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.PENRYN
+END
+qtrsm_kernel_LN_2x2.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/qtrsm_kernel_LN_2x2.S
+END
+zamax_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zamax_sse.S
+END
+zgemm3m_kernel_8x2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_8x2_sse.S
+END
+axpy_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/axpy_sse.S
+END
+trsm_kernel_LT_4x4_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LT_4x4_sse.S
+END
+gemm_tcopy_2_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_tcopy_2_sse.S
+END
+ztrsm_kernel_LN_2x1_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LN_2x1_sse2.S
+END
+amax_sse.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/amax_sse.S
+END
+lsame.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/lsame.S
+END
+asum_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/asum_sse2.S
+END
+zgemm3m_kernel_4x4_prescott.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_4x4_prescott.S
+END
+qgemv_t.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/qgemv_t.S
+END
+KERNEL.ATHLON
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.ATHLON
+END
+ztrsm_kernel_LT_1x2_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LT_1x2_sse2.S
+END
+znrm2.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/znrm2.S
+END
+trsm_kernel_LN_2x2.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LN_2x2.S
+END
+xgemv_t.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/xgemv_t.S
+END
+zgemm_kernel_1x2.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_1x2.S
+END
+ztrsm_kernel_RT_1x2_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_RT_1x2_sse2.S
+END
+gemv_n.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemv_n.S
+END
+zaxpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zaxpy.S
+END
+zgemv_t.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemv_t.S
+END
+zamax_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zamax_sse2.S
+END
+nrm2.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/nrm2.S
+END
+gemm_kernel_2x4_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_2x4_sse2.S
+END
+gemm_kernel_4x4_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_4x4_penryn.S
+END
+zgemm3m_kernel_4x2_northwood.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm3m_kernel_4x2_northwood.S
+END
+zdot.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zdot.S
+END
+axpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/axpy.S
+END
+zgemm_kernel_1x2_3dnow.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_1x2_3dnow.S
+END
+zgemv_n_atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemv_n_atom.S
+END
+ztrsm_kernel_LT_1x1_atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LT_1x1_atom.S
+END
+dot_sse2_opteron.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/dot_sse2_opteron.S
+END
+trsm_kernel_LN_2x2_atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LN_2x2_atom.S
+END
+KERNEL.YONAH
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/KERNEL.YONAH
+END
+gemm_kernel_2x4_3dnow.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/gemm_kernel_2x4_3dnow.S
+END
+zrot.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zrot.S
+END
+zgemv_n_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemv_n_sse2.S
+END
+zgemm_kernel_2x1_core2.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_2x1_core2.S
+END
+zgemm_kernel_1x2_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_1x2_penryn.S
+END
+ztrsm_kernel_LT_2x2_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/ztrsm_kernel_LT_2x2_penryn.S
+END
+zgemm_kernel_1x2_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/zgemm_kernel_1x2_sse2.S
+END
+dot_amd.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/dot_amd.S
+END
+trsm_kernel_LN_4x4_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LN_4x4_penryn.S
+END
+trsm_kernel_LN_2x4_sse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LN_2x4_sse3.S
+END
+trsm_kernel_LT_2x4_penryn.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LT_2x4_penryn.S
+END
+trsm_kernel_LT_2x4_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/trsm_kernel_LT_2x4_sse2.S
+END
+axpy_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/kernel/x86/axpy_sse2.S
+END

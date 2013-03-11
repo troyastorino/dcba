@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/6034/trunk/meshlab/src/meshlabplugins/decorate_background
+END
+cubemap.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/4673/trunk/meshlab/src/meshlabplugins/decorate_background/cubemap.h
+END
+decorate_background.pro
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/4677/trunk/meshlab/src/meshlabplugins/decorate_background/decorate_background.pro
+END
+decorate_background.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6034/trunk/meshlab/src/meshlabplugins/decorate_background/decorate_background.cpp
+END
+decorate_background.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6034/trunk/meshlab/src/meshlabplugins/decorate_background/decorate_background.h
+END
+cubemap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5815/trunk/meshlab/src/meshlabplugins/decorate_background/cubemap.cpp
+END

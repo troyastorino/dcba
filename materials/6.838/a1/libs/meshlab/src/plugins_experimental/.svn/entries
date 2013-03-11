@@ -1,0 +1,73 @@
+10
+
+dir
+6096
+https://meshlab.svn.sourceforge.net/svnroot/meshlab/trunk/meshlab/src/plugins_experimental
+https://meshlab.svn.sourceforge.net/svnroot/meshlab
+
+
+
+2013-02-14T09:45:35.798068Z
+6074
+corsini
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+324bb2ba-784c-0410-a299-e66b5c357fcb
+
+edit_paint
+dir
+
+filter_3dcoform
+dir
+
+edit_kinect
+dir
+
+filter_ouput_optical_flow
+dir
+
+edit_ocme
+dir
+
+edit_scan
+dir
+
+filter_mutualglobal
+dir
+
+filter_vsa
+dir
+
+filter_info_vmust
+dir
+
+filter_watermark
+dir
+
+io_3dcoform
+dir
+
+edit_vase
+dir
+
+render_splatpyramid
+dir
+
+filter_perceptualmetric
+dir
+
+filter_musical_instruments
+dir
+

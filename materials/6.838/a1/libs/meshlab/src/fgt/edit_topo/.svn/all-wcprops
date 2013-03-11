@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/meshlab/!svn/ver/5157/trunk/meshlab/src/fgt/edit_topo
+END
+edit_topomeshbuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5157/trunk/meshlab/src/fgt/edit_topo/edit_topomeshbuilder.h
+END
+edit_topodialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/2700/trunk/meshlab/src/fgt/edit_topo/edit_topodialog.ui
+END
+edit_topo_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3818/trunk/meshlab/src/fgt/edit_topo/edit_topo_factory.h
+END
+edit_topo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3818/trunk/meshlab/src/fgt/edit_topo/edit_topo.pro
+END
+edit_topo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/5157/trunk/meshlab/src/fgt/edit_topo/edit_topo.cpp
+END
+edit_topodialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/2704/trunk/meshlab/src/fgt/edit_topo/edit_topodialog.cpp
+END
+edit_topo.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/2736/trunk/meshlab/src/fgt/edit_topo/edit_topo.qrc
+END
+edit_topo.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3818/trunk/meshlab/src/fgt/edit_topo/edit_topo.h
+END
+edit_topodialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3818/trunk/meshlab/src/fgt/edit_topo/edit_topodialog.h
+END
+edit_topo_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3775/trunk/meshlab/src/fgt/edit_topo/edit_topo_factory.cpp
+END

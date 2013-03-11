@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/structuresynth/!svn/ver/296/trunk/SyntopiaCore/Math
+END
+Random.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/structuresynth/!svn/ver/289/trunk/SyntopiaCore/Math/Random.cpp
+END
+Random.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/structuresynth/!svn/ver/296/trunk/SyntopiaCore/Math/Random.h
+END
+Vector3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/structuresynth/!svn/ver/121/trunk/SyntopiaCore/Math/Vector3.cpp
+END
+Matrix4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/structuresynth/!svn/ver/121/trunk/SyntopiaCore/Math/Matrix4.cpp
+END
+Vector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/structuresynth/!svn/ver/282/trunk/SyntopiaCore/Math/Vector3.h
+END
+Matrix4.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/structuresynth/!svn/ver/278/trunk/SyntopiaCore/Math/Matrix4.h
+END

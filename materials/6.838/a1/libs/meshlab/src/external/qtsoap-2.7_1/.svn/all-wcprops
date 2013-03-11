@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1
+END
+LICENSE.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/LICENSE.LGPL
+END
+common.pri
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/common.pri
+END
+INSTALL.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/INSTALL.TXT
+END
+LICENSE.GPL3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/LICENSE.GPL3
+END
+configure.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/configure.bat
+END
+qtsoap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/qtsoap.pro
+END
+LGPL_EXCEPTION.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/LGPL_EXCEPTION.txt
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/README.TXT
+END

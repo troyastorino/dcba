@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/5653/trunk/meshlab/src/meshlabplugins/render_rfx
+END
+render_rfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5653/trunk/meshlab/src/meshlabplugins/render_rfx/render_rfx.cpp
+END
+rfx_uniform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_uniform.cpp
+END
+rfx_specialuniform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_specialuniform.cpp
+END
+rfx_state.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_state.cpp
+END
+render_rfx.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/render_rfx.qrc
+END
+render_rfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5645/trunk/meshlab/src/meshlabplugins/render_rfx/render_rfx.h
+END
+rfx_uniform.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_uniform.h
+END
+rfx_specialuniform.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_specialuniform.h
+END
+rfx_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_state.h
+END
+rfx_rendertarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_rendertarget.cpp
+END
+rfx_colorbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_colorbox.cpp
+END
+rfx_textureloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_textureloader.cpp
+END
+rfx_glpass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_glpass.cpp
+END
+rfx_dialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_dialog.ui
+END
+rfx_rendertarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_rendertarget.h
+END
+rfx_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_parser.cpp
+END
+rfx_colorbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_colorbox.h
+END
+rfx_textureloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_textureloader.h
+END
+render_rfx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/render_rfx.pro
+END
+rfx_glpass.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_glpass.h
+END
+rfx_dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5653/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_dialog.cpp
+END
+rfx_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_parser.h
+END
+rfx_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_dialog.h
+END
+rfx_specialattribute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_specialattribute.cpp
+END
+rfx_shader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_shader.cpp
+END
+rfx_specialattribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_specialattribute.h
+END
+rfx_shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/rfx_shader.h
+END

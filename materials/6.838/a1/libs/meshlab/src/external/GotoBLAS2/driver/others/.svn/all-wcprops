@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others
+END
+lamc3.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/lamc3.c
+END
+profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/profile.c
+END
+lsame.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/lsame.c
+END
+memory_qalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/memory_qalloc.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/init.c
+END
+blas_l1_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/blas_l1_thread.c
+END
+abs.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/abs.c
+END
+blas_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/blas_server.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/memory.c
+END
+xerbla.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/xerbla.c
+END
+parameter.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/parameter.c
+END
+blas_server_omp.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/blas_server_omp.c
+END
+lamch.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/lamch.c
+END
+dynamic.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/dynamic.c
+END
+blas_server_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/blas_server_win32.c
+END
+divtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/divtable.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/driver/others/Makefile
+END

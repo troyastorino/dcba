@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/6084/trunk/meshlab/src/meshlabplugins/filter_colorize
+END
+meshcolorize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6084/trunk/meshlab/src/meshlabplugins/filter_colorize/meshcolorize.cpp
+END
+meshcolorize.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6084/trunk/meshlab/src/meshlabplugins/filter_colorize/meshcolorize.h
+END
+filter_colorize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/3815/trunk/meshlab/src/meshlabplugins/filter_colorize/filter_colorize.pro
+END

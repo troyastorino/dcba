@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality
+END
+qualitymapper.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/qualitymapper.qrc
+END
+handle.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/handle.h
+END
+qualitymapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/qualitymapper.h
+END
+TO DO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/TO%20DO.txt
+END
+qualitymapperdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/qualitymapperdialog.ui
+END
+edit_quality.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/edit_quality.pro
+END
+qualitymapperdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/qualitymapperdialog.cpp
+END
+eqhandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/eqhandle.cpp
+END
+qualitymapperdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/qualitymapperdialog.h
+END
+edit_quality_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/edit_quality_factory.cpp
+END
+tfhandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/tfhandle.cpp
+END
+eqhandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/eqhandle.h
+END
+edit_quality_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/edit_quality_factory.h
+END
+tfhandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/tfhandle.h
+END
+handle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/handle.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/.cvsignore
+END
+qualitymapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/qualitymapper.cpp
+END

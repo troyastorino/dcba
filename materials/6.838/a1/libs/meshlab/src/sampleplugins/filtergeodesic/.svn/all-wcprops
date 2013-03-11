@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/6008/trunk/meshlab/src/sampleplugins/filtergeodesic
+END
+filtergeodesic.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/3821/trunk/meshlab/src/sampleplugins/filtergeodesic/filtergeodesic.pro
+END
+filtergeodesic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6008/trunk/meshlab/src/sampleplugins/filtergeodesic/filtergeodesic.cpp
+END
+filtergeodesic.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5152/trunk/meshlab/src/sampleplugins/filtergeodesic/filtergeodesic.h
+END

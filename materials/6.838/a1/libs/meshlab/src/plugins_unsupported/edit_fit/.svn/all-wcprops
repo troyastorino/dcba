@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit
+END
+cylinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/cylinder.h
+END
+edit_fit_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/edit_fit_factory.cpp
+END
+fittoolbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/fittoolbox.h
+END
+edit_fit_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/edit_fit_factory.h
+END
+fittoolbox.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/fittoolbox.ui
+END
+edit_fit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/edit_fit.pro
+END
+editfit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/editfit.cpp
+END
+primitive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/primitive.cpp
+END
+fittoolbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/fittoolbox.cpp
+END
+box.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/box.h
+END
+editfit.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/editfit.h
+END
+primitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/edit_fit/primitive.h
+END

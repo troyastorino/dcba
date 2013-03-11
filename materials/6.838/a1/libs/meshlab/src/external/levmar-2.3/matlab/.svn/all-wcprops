@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab
+END
+levmar.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/levmar.m
+END
+bt3.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/bt3.m
+END
+jachs01.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/jachs01.m
+END
+Makefile.w32
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/Makefile.w32
+END
+mods235.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/mods235.m
+END
+jacmodhs52.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/jacmodhs52.m
+END
+jacmeyer.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/jacmeyer.m
+END
+expfit.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/expfit.m
+END
+jacbt3.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/jacbt3.m
+END
+hs01.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/hs01.m
+END
+levmar.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/levmar.c
+END
+lmdemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/lmdemo.m
+END
+jacexpfit.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/jacexpfit.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/README.txt
+END
+modhs52.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/modhs52.m
+END
+meyer.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/meyer.m
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/matlab/Makefile
+END

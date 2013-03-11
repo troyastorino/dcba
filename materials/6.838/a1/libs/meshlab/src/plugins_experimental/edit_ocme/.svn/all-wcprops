@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/plugins_experimental/edit_ocme
+END
+ocme.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/ocme.ui
+END
+edit_ocme_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/edit_ocme_factory.cpp
+END
+ocme_widget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/ocme_widget.ui
+END
+edit_ocme_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/edit_ocme_factory.h
+END
+edit_ocme.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/edit_ocme.pro
+END
+edit_ocme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/plugins_experimental/edit_ocme/edit_ocme.cpp
+END
+edit_ocme.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/edit_ocme.qrc
+END
+edit_ocme.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/edit_ocme.h
+END

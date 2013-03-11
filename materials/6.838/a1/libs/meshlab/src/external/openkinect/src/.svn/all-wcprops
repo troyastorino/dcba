@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/src
+END
+usb_libusb10.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/src/usb_libusb10.h
+END
+libfreenect.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/src/libfreenect.pc.in
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/src/core.c
+END
+usb_libusb10.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/src/usb_libusb10.c
+END
+cameras.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/src/cameras.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/src/CMakeLists.txt
+END
+freenect_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/src/freenect_internal.h
+END
+tilt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/src/tilt.c
+END

@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest
+END
+c_c2chke.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_c2chke.c
+END
+zin2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/zin2
+END
+c_c3chke.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_c3chke.c
+END
+c_zblat1.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_zblat1.f
+END
+zin3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/zin3
+END
+c_zblat2.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_zblat2.f
+END
+c_zblat3.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_zblat3.f
+END
+auxiliary.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/auxiliary.c
+END
+c_dblas1.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_dblas1.c
+END
+c_dblas2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_dblas2.c
+END
+c_dblas3.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_dblas3.c
+END
+cin2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/cin2
+END
+c_cblat1.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_cblat1.f
+END
+cin3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/cin3
+END
+c_cblat2.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_cblat2.f
+END
+c_cblat3.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_cblat3.f
+END
+c_s2chke.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_s2chke.c
+END
+c_s3chke.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_s3chke.c
+END
+cblas_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/cblas_test.h
+END
+constant.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/constant.c
+END
+sin2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/sin2
+END
+c_sblat1.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_sblat1.f
+END
+sin3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/sin3
+END
+c_sblat2.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_sblat2.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/Makefile
+END
+c_sblat3.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_sblat3.f
+END
+c_zblas1.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_zblas1.c
+END
+c_zblas2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_zblas2.c
+END
+c_zblas3.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_zblas3.c
+END
+c_d2chke.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_d2chke.c
+END
+c_d3chke.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_d3chke.c
+END
+c_cblas1.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_cblas1.c
+END
+c_cblas2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_cblas2.c
+END
+c_cblas3.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_cblas3.c
+END
+din2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/din2
+END
+c_dblat1.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_dblat1.f
+END
+din3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/din3
+END
+c_dblat2.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_dblat2.f
+END
+c_dblat3.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_dblat3.f
+END
+c_xerbla.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_xerbla.c
+END
+c_sblas1.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_sblas1.c
+END
+c_z2chke.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_z2chke.c
+END
+c_sblas2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_sblas2.c
+END
+c_z3chke.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_z3chke.c
+END
+c_sblas3.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6067/trunk/meshlab/src/external/GotoBLAS2/ctest/c_sblas3.c
+END

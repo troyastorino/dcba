@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/6040/trunk/meshlab/src/meshlabplugins/decorate_shadow
+END
+decorate_shadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6040/trunk/meshlab/src/meshlabplugins/decorate_shadow/decorate_shadow.h
+END
+noise.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/4675/trunk/meshlab/src/meshlabplugins/decorate_shadow/noise.qrc
+END
+shadow_mapping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5638/trunk/meshlab/src/meshlabplugins/decorate_shadow/shadow_mapping.cpp
+END
+decorate_shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5669/trunk/meshlab/src/meshlabplugins/decorate_shadow/decorate_shader.h
+END
+variance_shadow_mapping_blur.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/4675/trunk/meshlab/src/meshlabplugins/decorate_shadow/variance_shadow_mapping_blur.h
+END
+shadow_mapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/4687/trunk/meshlab/src/meshlabplugins/decorate_shadow/shadow_mapping.h
+END
+ssao.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5638/trunk/meshlab/src/meshlabplugins/decorate_shadow/ssao.cpp
+END
+rand.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/4675/trunk/meshlab/src/meshlabplugins/decorate_shadow/rand.png
+END
+variance_shadow_mapping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5638/trunk/meshlab/src/meshlabplugins/decorate_shadow/variance_shadow_mapping.cpp
+END
+decorate_shadow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/4675/trunk/meshlab/src/meshlabplugins/decorate_shadow/decorate_shadow.pro
+END
+ssao.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/4687/trunk/meshlab/src/meshlabplugins/decorate_shadow/ssao.h
+END
+decorate_shadow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6034/trunk/meshlab/src/meshlabplugins/decorate_shadow/decorate_shadow.cpp
+END
+variance_shadow_mapping_blur.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/5638/trunk/meshlab/src/meshlabplugins/decorate_shadow/variance_shadow_mapping_blur.cpp
+END
+variance_shadow_mapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/4675/trunk/meshlab/src/meshlabplugins/decorate_shadow/variance_shadow_mapping.h
+END

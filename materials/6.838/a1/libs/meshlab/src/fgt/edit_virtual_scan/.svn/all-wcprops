@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/5157/trunk/meshlab/src/fgt/edit_virtual_scan
+END
+my_gl_widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/4988/trunk/meshlab/src/fgt/edit_virtual_scan/my_gl_widget.h
+END
+edit_vs_widget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/edit_vs_widget.cpp
+END
+edit_virtual_scan.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/edit_virtual_scan.qrc
+END
+edit_virtual_scan_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/edit_virtual_scan_plugin.h
+END
+edit_vs_widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/edit_vs_widget.h
+END
+edit_virtual_scan_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/edit_virtual_scan_factory.cpp
+END
+edit_virtual_scan_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/edit_virtual_scan_factory.h
+END
+edit_virtual_scan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/edit_virtual_scan.pro
+END
+edit_virtual_scan_plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/edit_virtual_scan_plugin.cpp
+END

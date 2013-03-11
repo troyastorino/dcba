@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src
+END
+glew_str_wgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_str_wgl.c
+END
+glew_str_tail.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_str_tail.c
+END
+glew_str_glx.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_str_glx.c
+END
+visualinfo.rc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/visualinfo.rc
+END
+glew_init_gl.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_init_gl.c
+END
+wglew_tail.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/wglew_tail.h
+END
+glxew_tail.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glxew_tail.h
+END
+glew_license.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_license.h
+END
+glew_str_head.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_str_head.c
+END
+wglew_head.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/wglew_head.h
+END
+glew_tail.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_tail.h
+END
+glxew_head.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glxew_head.h
+END
+glew_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_utils.c
+END
+glew_head.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_head.c
+END
+glew.rc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew.rc
+END
+glew_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_utils.h
+END
+glewinfo_tail.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glewinfo_tail.c
+END
+glewinfo_wgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glewinfo_wgl.c
+END
+glew_head.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_head.h
+END
+glewinfo_glx.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glewinfo_glx.c
+END
+glew_init_wgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_init_wgl.c
+END
+glew_init_tail.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_init_tail.c
+END
+khronos_license.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/khronos_license.h
+END
+glew_init_glx.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glew_init_glx.c
+END
+glewinfo_head.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glewinfo_head.c
+END
+glewinfo.rc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glewinfo.rc
+END
+glewinfo_gl.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/glewinfo_gl.c
+END
+mesa_license.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/mesa_license.h
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/src/template.html
+END

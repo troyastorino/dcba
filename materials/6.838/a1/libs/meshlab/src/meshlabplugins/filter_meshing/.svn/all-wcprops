@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6054/trunk/meshlab/src/meshlabplugins/filter_meshing
+END
+quadric_simp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5312/trunk/meshlab/src/meshlabplugins/filter_meshing/quadric_simp.cpp
+END
+quadric_tex_simp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5952/trunk/meshlab/src/meshlabplugins/filter_meshing/quadric_tex_simp.cpp
+END
+meshfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6054/trunk/meshlab/src/meshlabplugins/filter_meshing/meshfilter.cpp
+END
+quadric_simp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5266/trunk/meshlab/src/meshlabplugins/filter_meshing/quadric_simp.h
+END
+quadric_tex_simp.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5267/trunk/meshlab/src/meshlabplugins/filter_meshing/quadric_tex_simp.h
+END
+meshfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5846/trunk/meshlab/src/meshlabplugins/filter_meshing/meshfilter.h
+END
+filter_meshing.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5155/trunk/meshlab/src/meshlabplugins/filter_meshing/filter_meshing.pro
+END

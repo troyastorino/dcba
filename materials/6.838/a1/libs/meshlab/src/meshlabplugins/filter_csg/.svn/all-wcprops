@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/6029/trunk/meshlab/src/meshlabplugins/filter_csg
+END
+filter_csg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5397/trunk/meshlab/src/meshlabplugins/filter_csg/filter_csg.pro
+END
+filter_csg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5990/trunk/meshlab/src/meshlabplugins/filter_csg/filter_csg.cpp
+END
+intercept.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6029/trunk/meshlab/src/meshlabplugins/filter_csg/intercept.h
+END
+gmpfrac.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/5180/trunk/meshlab/src/meshlabplugins/filter_csg/gmpfrac.h
+END
+filter_csg.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5876/trunk/meshlab/src/meshlabplugins/filter_csg/filter_csg.h
+END

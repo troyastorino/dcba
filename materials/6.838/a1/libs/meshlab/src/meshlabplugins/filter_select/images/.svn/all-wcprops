@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/4047/trunk/meshlab/src/meshlabplugins/filter_select/images
+END
+delete_face.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/2940/trunk/meshlab/src/meshlabplugins/filter_select/images/delete_face.png
+END
+delete_facevert.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/2940/trunk/meshlab/src/meshlabplugins/filter_select/images/delete_facevert.png
+END
+delete_vert.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/4047/trunk/meshlab/src/meshlabplugins/filter_select/images/delete_vert.png
+END

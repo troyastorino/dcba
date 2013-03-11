@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/4063/trunk/meshlab/src/distrib/render_template/topViewLight/Shaders
+END
+MOSAIClight.sl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/4063/trunk/meshlab/src/distrib/render_template/topViewLight/Shaders/MOSAIClight.sl
+END
+MOSAICsurface.sl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/4063/trunk/meshlab/src/distrib/render_template/topViewLight/Shaders/MOSAICsurface.sl
+END
+MOSAICfog.sl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/4063/trunk/meshlab/src/distrib/render_template/topViewLight/Shaders/MOSAICfog.sl
+END
+MOSAICbackground.sl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/4063/trunk/meshlab/src/distrib/render_template/topViewLight/Shaders/MOSAICbackground.sl
+END
+MOSAICfunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/4063/trunk/meshlab/src/distrib/render_template/topViewLight/Shaders/MOSAICfunctions.h
+END
+MOSAICdisplace.sl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/4063/trunk/meshlab/src/distrib/render_template/topViewLight/Shaders/MOSAICdisplace.sl
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/5971/trunk/meshlab/src/meshlabplugins/io_collada
+END
+io_collada.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_collada/io_collada.pro
+END
+io_collada.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5971/trunk/meshlab/src/meshlabplugins/io_collada/io_collada.cpp
+END
+io_collada.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_collada/io_collada.h
+END

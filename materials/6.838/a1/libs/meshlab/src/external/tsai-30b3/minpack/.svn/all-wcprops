@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack
+END
+lmdif.f
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/lmdif.f
+END
+qrfac.f
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/qrfac.f
+END
+dpmar.f
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/dpmar.f
+END
+f2c.ps
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/f2c.ps
+END
+lmpar.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/lmpar.c
+END
+lmpar.f
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/lmpar.f
+END
+f2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/f2c.h
+END
+enorm.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/enorm.c
+END
+enorm.f
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/enorm.f
+END
+dpmpar.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/dpmpar.c
+END
+qrsolv.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/qrsolv.c
+END
+qrsolv.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/qrsolv.f
+END
+fdjac2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/fdjac2.c
+END
+lmdif.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/lmdif.c
+END
+qrfac.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/qrfac.c
+END
+fdjac2.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpack/fdjac2.f
+END

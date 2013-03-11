@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/filter_perceptualmetric
+END
+perceptualmetrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/filter_perceptualmetric/perceptualmetrics.h
+END
+filter_perceptualmetric.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/filter_perceptualmetric/filter_perceptualmetric.h
+END
+filter_perceptualmetric.pro
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/filter_perceptualmetric/filter_perceptualmetric.pro
+END
+filter_perceptualmetric.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/filter_perceptualmetric/filter_perceptualmetric.cpp
+END

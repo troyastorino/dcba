@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Config
+END
+CoMISoDefines.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Config/CoMISoDefines.hh
+END
+config.hh.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Config/config.hh.in
+END

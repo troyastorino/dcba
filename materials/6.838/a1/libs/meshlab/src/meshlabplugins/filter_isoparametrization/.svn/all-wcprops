@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/filter_isoparametrization
+END
+filter_isoparametrization.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/meshlab/!svn/ver/4427/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/filter_isoparametrization.h
+END
+mesh_operators.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6021/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/mesh_operators.h
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3422/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/statistics.h
+END
+texcoord_optimization.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5619/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/texcoord_optimization.h
+END
+iso_transfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5982/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/iso_transfer.h
+END
+diamond_sampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5982/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/diamond_sampler.h
+END
+uv_grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5256/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/uv_grid.h
+END
+local_optimization.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/5271/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/local_optimization.h
+END
+filter_isoparametrization.pro
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/meshlab/!svn/ver/5397/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/filter_isoparametrization.pro
+END
+diam_parametrization.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/5982/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/diam_parametrization.h
+END
+parametrizator.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/5982/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/parametrizator.h
+END
+diam_topology.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5155/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/diam_topology.h
+END
+param_flip.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5271/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/param_flip.h
+END
+tangent_space.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5155/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/tangent_space.h
+END
+param_mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5982/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/param_mesh.h
+END
+stat_remeshing.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6021/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/stat_remeshing.h
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/4035/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/defines.h
+END
+opt_patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5371/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/opt_patch.h
+END
+dual_coord_optimization.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/5982/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/dual_coord_optimization.h
+END
+param_collapse.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/5271/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/param_collapse.h
+END
+local_parametrization.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/local_parametrization.h
+END
+iso_parametrization.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/6021/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/iso_parametrization.h
+END
+filter_isoparametrization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/filter_isoparametrization/filter_isoparametrization.cpp
+END

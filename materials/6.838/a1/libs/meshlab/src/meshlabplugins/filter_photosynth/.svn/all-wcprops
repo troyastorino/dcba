@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/6016/trunk/meshlab/src/meshlabplugins/filter_photosynth
+END
+downloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/filter_photosynth/downloader.cpp
+END
+filter_photosynth.pro
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/filter_photosynth/filter_photosynth.pro
+END
+filter_photosynth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6016/trunk/meshlab/src/meshlabplugins/filter_photosynth/filter_photosynth.cpp
+END
+synthData.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/filter_photosynth/synthData.h
+END
+filter_photosynth.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/filter_photosynth/filter_photosynth.h
+END

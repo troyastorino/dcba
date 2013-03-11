@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/platform/osx/homebrew
+END
+libfreenect.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/platform/osx/homebrew/libfreenect.rb
+END
+libusb-freenect.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/platform/osx/homebrew/libusb-freenect.rb
+END

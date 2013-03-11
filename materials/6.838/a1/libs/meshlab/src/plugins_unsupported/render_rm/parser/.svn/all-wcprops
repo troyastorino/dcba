@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/parser
+END
+RmEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/parser/RmEffect.h
+END
+RmXmlParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/parser/RmXmlParser.h
+END
+RmPass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/parser/RmPass.cpp
+END
+GlState.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/parser/GlState.h
+END
+UniformVar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/parser/UniformVar.cpp
+END
+RmPass.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/parser/RmPass.h
+END
+RmXmlParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/parser/RmXmlParser.cpp
+END
+UniformVar.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/render_rm/parser/UniformVar.h
+END

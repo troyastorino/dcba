@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/structuresynth/!svn/ver/276/trunk/SyntopiaCore/Misc
+END
+MiniParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/structuresynth/!svn/ver/276/trunk/SyntopiaCore/Misc/MiniParser.h
+END
+ColorUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/structuresynth/!svn/ver/81/trunk/SyntopiaCore/Misc/ColorUtils.cpp
+END
+ColorUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/structuresynth/!svn/ver/78/trunk/SyntopiaCore/Misc/ColorUtils.h
+END
+Persistence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/structuresynth/!svn/ver/230/trunk/SyntopiaCore/Misc/Persistence.cpp
+END
+Version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/structuresynth/!svn/ver/82/trunk/SyntopiaCore/Misc/Version.cpp
+END
+MiniParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/structuresynth/!svn/ver/276/trunk/SyntopiaCore/Misc/MiniParser.cpp
+END
+Persistence.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/structuresynth/!svn/ver/228/trunk/SyntopiaCore/Misc/Persistence.h
+END
+Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/structuresynth/!svn/ver/78/trunk/SyntopiaCore/Misc/Version.h
+END

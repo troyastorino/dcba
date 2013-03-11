@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/4495/trunk/meshlab/src/distrib/shaders/decorate_shadow/vsm
+END
+depthVSM.frag
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/4092/trunk/meshlab/src/distrib/shaders/decorate_shadow/vsm/depthVSM.frag
+END
+depthVSM.vert
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/4092/trunk/meshlab/src/distrib/shaders/decorate_shadow/vsm/depthVSM.vert
+END
+objectVSM.frag
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/4495/trunk/meshlab/src/distrib/shaders/decorate_shadow/vsm/objectVSM.frag
+END
+objectVSM.vert
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/4092/trunk/meshlab/src/distrib/shaders/decorate_shadow/vsm/objectVSM.vert
+END

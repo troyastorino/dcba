@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6048/trunk/meshlab/src/plugins_experimental/filter_mutualglobal
+END
+shutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/shutils.h
+END
+filter_mutualglobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/6048/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/filter_mutualglobal.h
+END
+parameters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6043/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/parameters.cpp
+END
+alignset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/6048/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/alignset.cpp
+END
+mutual.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/mutual.cpp
+END
+parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/6043/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/parameters.h
+END
+levmarmethods.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/levmarmethods.cpp
+END
+solver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/solver.cpp
+END
+filter_mutualglobal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/filter_mutualglobal.pro
+END
+alignset.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6048/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/alignset.h
+END
+alignGlobal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/alignGlobal.cpp
+END
+mutual.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/mutual.h
+END
+levmarmethods.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/levmarmethods.h
+END
+solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/solver.h
+END
+alignGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/alignGlobal.h
+END
+pointCorrespondence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/pointCorrespondence.cpp
+END
+pointOnLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/pointOnLayer.h
+END
+pointCorrespondence.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/5682/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/pointCorrespondence.h
+END
+filter_mutualglobal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/6048/trunk/meshlab/src/plugins_experimental/filter_mutualglobal/filter_mutualglobal.cpp
+END

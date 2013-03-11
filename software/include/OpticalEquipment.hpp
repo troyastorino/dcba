@@ -28,18 +28,20 @@ protected:
 
 public:
   OpticalEquipment();
+
 };
 
 class Camera : OpticalEquipment {
     
 };
 
-enum ProjectorType {
-  DLP,
-  STATIC_LED
-};
-
 class Projector : OpticalEquipment {
+public:
+  enum ProjectorType {
+    DLP,
+    STATIC_LED
+  };
+
 protected:
   ProjectorType type;
 };

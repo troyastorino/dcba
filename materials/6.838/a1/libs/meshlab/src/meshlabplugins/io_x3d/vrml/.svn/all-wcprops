@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3467/trunk/meshlab/src/meshlabplugins/io_x3d/vrml
+END
+Scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3467/trunk/meshlab/src/meshlabplugins/io_x3d/vrml/Scanner.h
+END
+Parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3467/trunk/meshlab/src/meshlabplugins/io_x3d/vrml/Parser.h
+END
+Scanner.frame
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/2194/trunk/meshlab/src/meshlabplugins/io_x3d/vrml/Scanner.frame
+END
+VrmlTranslator.atg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/3467/trunk/meshlab/src/meshlabplugins/io_x3d/vrml/VrmlTranslator.atg
+END
+Parser.frame
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/2194/trunk/meshlab/src/meshlabplugins/io_x3d/vrml/Parser.frame
+END
+Scanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/3467/trunk/meshlab/src/meshlabplugins/io_x3d/vrml/Scanner.cpp
+END
+Parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3467/trunk/meshlab/src/meshlabplugins/io_x3d/vrml/Parser.cpp
+END

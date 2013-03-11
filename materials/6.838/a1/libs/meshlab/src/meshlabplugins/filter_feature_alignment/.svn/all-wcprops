@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/filter_feature_alignment
+END
+feature_alignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/filter_feature_alignment/feature_alignment.h
+END
+filter_feature_alignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/meshlab/!svn/ver/3778/trunk/meshlab/src/meshlabplugins/filter_feature_alignment/filter_feature_alignment.cpp
+END
+feature_msc.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5156/trunk/meshlab/src/meshlabplugins/filter_feature_alignment/feature_msc.h
+END
+filter_feature_alignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/3778/trunk/meshlab/src/meshlabplugins/filter_feature_alignment/filter_feature_alignment.h
+END
+feature_rgb.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5156/trunk/meshlab/src/meshlabplugins/filter_feature_alignment/feature_rgb.h
+END
+filter_feature_alignment.pro
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/meshlab/!svn/ver/3820/trunk/meshlab/src/meshlabplugins/filter_feature_alignment/filter_feature_alignment.pro
+END

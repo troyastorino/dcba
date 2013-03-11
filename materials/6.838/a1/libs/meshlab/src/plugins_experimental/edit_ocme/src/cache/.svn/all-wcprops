@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/readme.html
+END
+mapmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/mapmain.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/main.cpp
+END
+cache_gl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/cache_gl.cpp
+END
+mapcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/mapcache.h
+END
+mapcontroller.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/mapcontroller.h
+END
+moc_my_widget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/moc_my_widget.cpp
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/cache.h
+END
+door.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/door.h
+END
+controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/controller.h
+END
+iheap.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/iheap.h
+END
+mapmy_widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/mapmy_widget.h
+END
+heaptest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/heaptest.cpp
+END
+my_widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/cache/my_widget.h
+END

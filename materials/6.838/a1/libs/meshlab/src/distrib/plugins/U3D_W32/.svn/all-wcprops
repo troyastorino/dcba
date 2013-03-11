@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/plugins/U3D_W32
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/plugins/U3D_W32/License.txt
+END
+IFXCore.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/plugins/U3D_W32/IFXCore.dll
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/plugins/U3D_W32/readme.txt
+END
+LicensesAdditional.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/plugins/U3D_W32/LicensesAdditional.txt
+END
+IDTFConverter.exe
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/plugins/U3D_W32/IDTFConverter.exe
+END

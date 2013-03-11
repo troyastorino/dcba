@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/EigenSolver
+END
+ArpackSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/EigenSolver/ArpackSolver.cc
+END
+EigenArpackMatrixT.hh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/EigenSolver/EigenArpackMatrixT.hh
+END
+EigenArpackMatrixT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/EigenSolver/EigenArpackMatrixT.cc
+END
+ArpackSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/EigenSolver/ArpackSolver.hh
+END

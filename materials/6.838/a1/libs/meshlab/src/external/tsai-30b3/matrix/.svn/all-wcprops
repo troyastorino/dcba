@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/matrix
+END
+matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/matrix/matrix.c
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/matrix/matrix.h
+END

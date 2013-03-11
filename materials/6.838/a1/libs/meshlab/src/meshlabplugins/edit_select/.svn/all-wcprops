@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_select
+END
+edit_select_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/4051/trunk/meshlab/src/meshlabplugins/edit_select/edit_select_factory.h
+END
+edit_select.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/3820/trunk/meshlab/src/meshlabplugins/edit_select/edit_select.pro
+END
+edit_select.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_select/edit_select.cpp
+END
+edit_select.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/3140/trunk/meshlab/src/meshlabplugins/edit_select/edit_select.qrc
+END
+edit_select.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/4051/trunk/meshlab/src/meshlabplugins/edit_select/edit_select.h
+END
+edit_select_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/4076/trunk/meshlab/src/meshlabplugins/edit_select/edit_select_factory.cpp
+END

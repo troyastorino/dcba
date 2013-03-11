@@ -1,0 +1,9 @@
+K 13
+svn:externals
+V 430
+https://structuresynth.svn.sourceforge.net/svnroot/structuresynth/trunk/StructureSynth/Model StructureSynth/Model
+https://structuresynth.svn.sourceforge.net/svnroot/structuresynth/trunk/StructureSynth/Parser StructureSynth/Parser
+https://structuresynth.svn.sourceforge.net/svnroot/structuresynth/trunk/SyntopiaCore SyntopiaCore
+https://structuresynth.svn.sourceforge.net/svnroot/structuresynth/trunk/ThirdPartyCode ThirdPartyCode
+
+END

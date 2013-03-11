@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/filter_rangemap
+END
+filter_rangemap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/filter_rangemap/filter_rangemap.cpp
+END
+filter_rangemap.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/filter_rangemap/filter_rangemap.h
+END
+filter_rangemap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/filter_rangemap/filter_rangemap.pro
+END

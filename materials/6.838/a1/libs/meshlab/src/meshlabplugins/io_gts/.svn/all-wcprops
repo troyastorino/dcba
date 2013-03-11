@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/5972/trunk/meshlab/src/meshlabplugins/io_gts
+END
+io_gts.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_gts/io_gts.pro
+END
+io_gts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/5972/trunk/meshlab/src/meshlabplugins/io_gts/io_gts.cpp
+END
+io_gts.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_gts/io_gts.h
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/meshlab/!svn/ver/6089/trunk/meshlab/src/meshlab
+END
+mainwindow_Init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/mainwindow_Init.cpp
+END
+layerDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/6079/trunk/meshlab/src/meshlab/layerDialog.h
+END
+saveSnapshotDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/4425/trunk/meshlab/src/meshlab/saveSnapshotDialog.h
+END
+xmlstdpardialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/6051/trunk/meshlab/src/meshlab/xmlstdpardialog.h
+END
+savemaskexporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/savemaskexporter.h
+END
+changetexturename.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/4425/trunk/meshlab/src/meshlab/changetexturename.h
+END
+meshlab.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/meshlab/!svn/ver/5860/trunk/meshlab/src/meshlab/meshlab.qrc
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/mainwindow.h
+END
+xmlgeneratorgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/xmlgeneratorgui.h
+END
+additionalgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/additionalgui.h
+END
+filterthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/meshlab/!svn/ver/5672/trunk/meshlab/src/meshlab/filterthread.h
+END
+stdpardialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/meshlab/!svn/ver/6053/trunk/meshlab/src/meshlab/stdpardialog.h
+END
+plugindialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/meshlab/!svn/ver/4425/trunk/meshlab/src/meshlab/plugindialog.h
+END
+multiViewer_Container.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/5655/trunk/meshlab/src/meshlab/multiViewer_Container.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/meshlab/!svn/ver/5920/trunk/meshlab/src/meshlab/main.cpp
+END
+glarea_setting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/6005/trunk/meshlab/src/meshlab/glarea_setting.cpp
+END
+meshlab.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/meshlab.pro
+END
+meshlabeditdockwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3215/trunk/meshlab/src/meshlab/meshlabeditdockwidget.h
+END
+layerDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/layerDialog.cpp
+END
+alnParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/meshlab/!svn/ver/5094/trunk/meshlab/src/meshlab/alnParser.h
+END
+meshlab.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/meshlab/!svn/ver/3830/trunk/meshlab/src/meshlab/meshlab.rc
+END
+saveSnapshotDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/5709/trunk/meshlab/src/meshlab/saveSnapshotDialog.cpp
+END
+xmlstdpardialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/xmlstdpardialog.cpp
+END
+customDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/meshlab/!svn/ver/5914/trunk/meshlab/src/meshlab/customDialog.h
+END
+filterScriptDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/5512/trunk/meshlab/src/meshlab/filterScriptDialog.h
+END
+glarea.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/meshlab/!svn/ver/6089/trunk/meshlab/src/meshlab/glarea.h
+END
+savemaskexporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/savemaskexporter.cpp
+END
+changetexturename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/changetexturename.cpp
+END
+xmlgeneratorgui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/xmlgeneratorgui.cpp
+END
+stdpardialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/stdpardialog.cpp
+END
+additionalgui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/additionalgui.cpp
+END
+filterthread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/5720/trunk/meshlab/src/meshlab/filterthread.cpp
+END
+plugindialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/plugindialog.cpp
+END
+multiViewer_Container.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/5655/trunk/meshlab/src/meshlab/multiViewer_Container.cpp
+END
+mainwindow_RunTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/mainwindow_RunTime.cpp
+END
+customDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab/customDialog.cpp
+END
+filterScriptDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/6046/trunk/meshlab/src/meshlab/filterScriptDialog.cpp
+END
+glarea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/meshlab/!svn/ver/6089/trunk/meshlab/src/meshlab/glarea.cpp
+END
+glarea_setting.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/6005/trunk/meshlab/src/meshlab/glarea_setting.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/meshlab/!svn/ver/6023/trunk/meshlab/src/fgt/filter_scan_merging
+END
+filter_scan_merging.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5907/trunk/meshlab/src/fgt/filter_scan_merging/filter_scan_merging.pro
+END
+filter_scan_merging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6023/trunk/meshlab/src/fgt/filter_scan_merging/filter_scan_merging.cpp
+END
+filter_scan_merging.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6011/trunk/meshlab/src/fgt/filter_scan_merging/filter_scan_merging.h
+END

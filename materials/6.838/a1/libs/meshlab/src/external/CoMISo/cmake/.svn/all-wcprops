@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake
+END
+FindMUMPS.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindMUMPS.cmake
+END
+CGAL_GeneratorSpecificSettings.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/CGAL_GeneratorSpecificSettings.cmake
+END
+CoMISoExample.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/CoMISoExample.cmake
+END
+FindCGAL.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindCGAL.cmake
+END
+FindQt4.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindQt4.cmake
+END
+ResolveCompilerPaths.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/ResolveCompilerPaths.cmake
+END
+CGAL_Macros.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/CGAL_Macros.cmake
+END
+FindEIGEN3.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindEIGEN3.cmake
+END
+FindPETSC.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindPETSC.cmake
+END
+FindTaucs.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindTaucs.cmake
+END
+FindGMM.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindGMM.cmake
+END
+FindMETIS.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindMETIS.cmake
+END
+FindTAO.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindTAO.cmake
+END
+FindGMP.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindGMP.cmake
+END
+ACGCompiler.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/ACGCompiler.cmake
+END
+FindGUROBI.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindGUROBI.cmake
+END
+FindCoMISo.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindCoMISo.cmake
+END
+FindIPOPT.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindIPOPT.cmake
+END
+FindARPACK.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindARPACK.cmake
+END
+ACGCommon.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/ACGCommon.cmake
+END
+FindPackageHandleStandardArgs.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindPackageHandleStandardArgs.cmake
+END
+FindSUITESPARSE.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindSUITESPARSE.cmake
+END
+CheckCSourceRuns.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/CheckCSourceRuns.cmake
+END
+ACGOutput.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/ACGOutput.cmake
+END
+FindCPLEX.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindCPLEX.cmake
+END
+CGAL_Locate_CGAL_TAUCS.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/CGAL_Locate_CGAL_TAUCS.cmake
+END
+FindBLAS.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindBLAS.cmake
+END
+FindADOLC.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindADOLC.cmake
+END
+FindMPI.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindMPI.cmake
+END
+FindLAPACK.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindLAPACK.cmake
+END
+CGAL_FindPackageHandleStandardArgs.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/CGAL_FindPackageHandleStandardArgs.cmake
+END
+FindPackageMultipass.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/cmake/FindPackageMultipass.cmake
+END

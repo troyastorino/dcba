@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Examples/small_cplex_soc
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Examples/small_cplex_soc/main.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Examples/small_cplex_soc/CMakeLists.txt
+END

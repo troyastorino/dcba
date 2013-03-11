@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect
+END
+edit_kinect_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/edit_kinect_factory.h
+END
+edit_kinect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/edit_kinect.pro
+END
+freenect.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/freenect.h
+END
+glarea.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/glarea.h
+END
+edit_kinect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/edit_kinect.cpp
+END
+calibration_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/calibration_data.h
+END
+edit_kinect.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/edit_kinect.qrc
+END
+calibration_load.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/calibration_load.cpp
+END
+edit_kinect.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/edit_kinect.h
+END
+kinect.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/kinect.ui
+END
+edit_kinect_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/edit_kinect_factory.cpp
+END
+freenect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/freenect.cpp
+END
+glarea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/glarea.cpp
+END
+shader_basic.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_kinect/shader_basic.h
+END

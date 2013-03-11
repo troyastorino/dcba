@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/meshlab/!svn/ver/6096/trunk/meshlab/src
+END
+shared.pri
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/shared.pri
+END
+meshlab_mini.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/meshlab/!svn/ver/6081/trunk/meshlab/src/meshlab_mini.pro
+END
+general.pri
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/meshlab/!svn/ver/5397/trunk/meshlab/src/general.pri
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/meshlab/!svn/ver/4758/trunk/meshlab/src/README.txt
+END
+meshlab_full.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/meshlab/!svn/ver/5814/trunk/meshlab/src/meshlab_full.pro
+END

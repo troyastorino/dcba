@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/5933/trunk/meshlab/src/meshlabplugins/io_u3d
+END
+io_u3d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_u3d/io_u3d.pro
+END
+io_u3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/5933/trunk/meshlab/src/meshlabplugins/io_u3d/io_u3d.cpp
+END
+io_u3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_u3d/io_u3d.h
+END

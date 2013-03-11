@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Utils
+END
+MutablePriorityQueueT.hh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Utils/MutablePriorityQueueT.hh
+END
+SmartPointer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Utils/SmartPointer.hh
+END
+StopWatch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Utils/StopWatch.hh
+END
+VSToolsT.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Utils/VSToolsT.hh
+END

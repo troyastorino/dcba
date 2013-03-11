@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/5968/trunk/meshlab/src/meshlabplugins/filter_trioptimize
+END
+curvdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5270/trunk/meshlab/src/meshlabplugins/filter_trioptimize/curvdata.h
+END
+filter_trioptimize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5180/trunk/meshlab/src/meshlabplugins/filter_trioptimize/filter_trioptimize.pro
+END
+curvedgeflip.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5968/trunk/meshlab/src/meshlabplugins/filter_trioptimize/curvedgeflip.h
+END
+filter_trioptimize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5968/trunk/meshlab/src/meshlabplugins/filter_trioptimize/filter_trioptimize.cpp
+END
+filter_trioptimize.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5382/trunk/meshlab/src/meshlabplugins/filter_trioptimize/filter_trioptimize.h
+END

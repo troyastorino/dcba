@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5487/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/shaders
+END
+01_buffer.fs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/5487/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/shaders/01_buffer.fs
+END
+01_buffer.vs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/5487/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/shaders/01_buffer.vs
+END
+02_rs.fs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5487/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/shaders/02_rs.fs
+END
+02_rs.vs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/shaders/02_rs.vs
+END

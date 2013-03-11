@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/meshlab/!svn/ver/5713/trunk/meshlab/src/external/levmar-2.3
+END
+lmblec.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/lmblec.c
+END
+expfit.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/expfit.c
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/misc.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/LICENSE
+END
+Makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/Makefile.vc
+END
+misc_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/misc_core.c
+END
+levmar-2.3.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5713/trunk/meshlab/src/external/levmar-2.3/levmar-2.3.pro
+END
+lmlec_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/lmlec_core.c
+END
+lmblec_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/lmblec_core.c
+END
+lm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/lm.c
+END
+Axb.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/Axb.c
+END
+lmbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/lmbc.c
+END
+lm.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/3414/trunk/meshlab/src/external/levmar-2.3/lm.h
+END
+lmdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/lmdemo.c
+END
+compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/compiler.h
+END
+lm_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/lm_core.c
+END
+Axb_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/Axb_core.c
+END
+lmbc_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/lmbc_core.c
+END
+Makefile.icc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/Makefile.icc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/README.txt
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/misc.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/CMakeLists.txt
+END
+lmlec.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3398/trunk/meshlab/src/external/levmar-2.3/lmlec.c
+END

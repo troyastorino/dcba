@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/msvc8
+END
+3dsdump.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/msvc8/3dsdump.vcproj
+END
+3dsplay.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/msvc8/3dsplay.vcproj
+END
+lib3ds.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/msvc8/lib3ds.vcproj
+END
+lib3ds.rc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/msvc8/lib3ds.rc
+END
+lib3ds.sln
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/msvc8/lib3ds.sln
+END

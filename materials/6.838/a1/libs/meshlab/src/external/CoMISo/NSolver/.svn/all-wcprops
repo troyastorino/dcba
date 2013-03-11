@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver
+END
+GUROBISolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/GUROBISolver.hh
+END
+LeastSquaresProblem.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/LeastSquaresProblem.cc
+END
+COMISOSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/COMISOSolver.hh
+END
+NPDerivativeChecker.hh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NPDerivativeChecker.hh
+END
+NProblemInterface.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NProblemInterface.cc
+END
+GurobiHelper.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/GurobiHelper.hh
+END
+ConeConstraint.hh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/ConeConstraint.hh
+END
+TapeIDSingleton.hh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/TapeIDSingleton.hh
+END
+NewtonSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NewtonSolver.cc
+END
+LinearConstraintHandlerElimination.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/LinearConstraintHandlerElimination.cc
+END
+CPLEXSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/CPLEXSolver.cc
+END
+NProblemInterfaceAD.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NProblemInterfaceAD.hpp
+END
+NPLinearConstraints.hh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NPLinearConstraints.hh
+END
+NProblemGmmInterface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NProblemGmmInterface.hh
+END
+GUROBISolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/GUROBISolver.cc
+END
+NPLinearConstraintsT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NPLinearConstraintsT.cc
+END
+LinearConstraintHandlerPenalty.hh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/LinearConstraintHandlerPenalty.hh
+END
+COMISOSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/COMISOSolver.cc
+END
+BoundConstraint.hh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/BoundConstraint.hh
+END
+GurobiHelper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/GurobiHelper.cc
+END
+TAOSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/TAOSolver.hh
+END
+LinearConstraint.hh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/LinearConstraint.hh
+END
+ConeConstraint.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/ConeConstraint.cc
+END
+TapeIDSingleton.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/TapeIDSingleton.cc
+END
+NConstraintInterface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NConstraintInterface.hh
+END
+LinearConstraintHandlerPenaltyT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/LinearConstraintHandlerPenaltyT.cc
+END
+NPTiming.hh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NPTiming.hh
+END
+SuperSparseMatrixT.hh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/SuperSparseMatrixT.hh
+END
+NPLinearConstraints.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NPLinearConstraints.cc
+END
+IPOPTSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/IPOPTSolver.hh
+END
+VariableType.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/VariableType.hh
+END
+LeastSquaresProblem.hh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/LeastSquaresProblem.hh
+END
+NProblemInterface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NProblemInterface.hh
+END
+LinearConstraintHandlerPenalty.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/LinearConstraintHandlerPenalty.cc
+END
+TestInterface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/TestInterface.hh
+END
+BoundConstraint.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/BoundConstraint.cc
+END
+TAOSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/TAOSolver.cc
+END
+LinearConstraint.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/LinearConstraint.cc
+END
+NewtonSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NewtonSolver.hh
+END
+LinearConstraintHandlerElimination.hh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/LinearConstraintHandlerElimination.hh
+END
+CPLEXSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/CPLEXSolver.hh
+END
+NPTiming.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NPTiming.cc
+END
+SuperSparseMatrixT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/SuperSparseMatrixT.cc
+END
+IPOPTSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/IPOPTSolver.cc
+END
+NConstraintInterfaceAD.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/NConstraintInterfaceAD.hpp
+END
+LinearConstraintHandlerEliminationT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/LinearConstraintHandlerEliminationT.cc
+END
+CPLEXSolverT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/NSolver/CPLEXSolverT.cc
+END

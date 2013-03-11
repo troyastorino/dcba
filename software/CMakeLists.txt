@@ -12,5 +12,5 @@ include_directories(${CMAKE_SOURCE_DIR}/lib/vecmath/include)
 # source directory
 add_subdirectory(src)
 
-# compiler flags
-set(CMAKE_CXX_FLAGS "-std=gnu++11 -stdlib=libc++ -g3 -Wall -O0")
+# add opencv
+find_package(OpenCV REQUIRED)

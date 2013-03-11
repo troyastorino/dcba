@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/5995/trunk/meshlab/src/meshlabplugins/io_pdb
+END
+io_pdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_pdb/io_pdb.h
+END
+io_pdb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_pdb/io_pdb.pro
+END
+io_pdb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/5995/trunk/meshlab/src/meshlabplugins/io_pdb/io_pdb.cpp
+END

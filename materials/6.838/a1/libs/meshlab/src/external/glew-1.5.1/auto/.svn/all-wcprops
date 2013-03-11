@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto
+END
+blacklist
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/blacklist
+END
+custom.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/custom.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/Makefile
+END

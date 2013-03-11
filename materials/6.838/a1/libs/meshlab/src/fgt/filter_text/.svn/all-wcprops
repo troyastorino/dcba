@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/meshlab/!svn/ver/5156/trunk/meshlab/src/fgt/filter_text
+END
+filter_text.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3777/trunk/meshlab/src/fgt/filter_text/filter_text.h
+END
+filter_text.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3819/trunk/meshlab/src/fgt/filter_text/filter_text.pro
+END
+filter_text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/5156/trunk/meshlab/src/fgt/filter_text/filter_text.cpp
+END

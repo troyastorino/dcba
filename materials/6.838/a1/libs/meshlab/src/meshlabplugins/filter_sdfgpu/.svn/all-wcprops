@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/5993/trunk/meshlab/src/meshlabplugins/filter_sdfgpu
+END
+filter_sdfgpu.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_sdfgpu/filter_sdfgpu.qrc
+END
+filter_sdfgpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5757/trunk/meshlab/src/meshlabplugins/filter_sdfgpu/filter_sdfgpu.h
+END
+filter_sdfgpu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_sdfgpu/filter_sdfgpu.pro
+END
+filterinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_sdfgpu/filterinterface.h
+END
+filter_sdfgpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5993/trunk/meshlab/src/meshlabplugins/filter_sdfgpu/filter_sdfgpu.cpp
+END

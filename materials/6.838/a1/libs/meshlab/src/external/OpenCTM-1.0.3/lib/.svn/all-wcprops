@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib
+END
+compressMG1.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/compressMG1.c
+END
+compressMG2.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/compressMG2.c
+END
+Makefile.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/Makefile.msvc
+END
+openctm.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/openctm.c
+END
+compressRAW.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/compressRAW.c
+END
+openctmpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/openctmpp.h
+END
+openctm.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/openctm.h
+END
+Makefile.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/Makefile.mingw
+END
+openctm-mingw1.def
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/openctm-mingw1.def
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/internal.h
+END
+openctm-mingw2.def
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/openctm-mingw2.def
+END
+Makefile.macosx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/Makefile.macosx
+END
+openctm.rc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/openctm.rc
+END
+openctm-msvc.def
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/openctm-msvc.def
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/Makefile.linux
+END
+stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/5338/trunk/meshlab/src/external/OpenCTM-1.0.3/lib/stream.c
+END

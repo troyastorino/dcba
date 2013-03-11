@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri
+END
+rgbt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/rgbt.cpp
+END
+controlPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/controlPoint.h
+END
+editrgbtri.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/editrgbtri.qrc
+END
+widgetRgbT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/widgetRgbT.cpp
+END
+rgbt.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/rgbt.h
+END
+subDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/subDialog.ui
+END
+widgetRgbT.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/widgetRgbT.h
+END
+subDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/subDialog.cpp
+END
+editrgbtri.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/editrgbtri.pro
+END
+subDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/subDialog.h
+END
+modButterfly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/modButterfly.cpp
+END
+topologicalOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/topologicalOp.h
+END
+interactiveEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/interactiveEdit.cpp
+END
+edit_rgbtri_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/edit_rgbtri_factory.cpp
+END
+modButterfly.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/modButterfly.h
+END
+rgbPrimitives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/rgbPrimitives.cpp
+END
+interactiveEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/interactiveEdit.h
+END
+edit_rgbtri_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/edit_rgbtri_factory.h
+END
+controlPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/controlPoint.cpp
+END
+rgbPrimitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/rgbPrimitives.h
+END
+rgbInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/rgbInfo.h
+END
+widgetRgbT.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/editrgbtri/widgetRgbT.ui
+END

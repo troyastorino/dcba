@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/structuresynth/!svn/ver/261/trunk/SyntopiaCore/Logging
+END
+ListWidgetLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/structuresynth/!svn/ver/241/trunk/SyntopiaCore/Logging/ListWidgetLogger.cpp
+END
+ListWidgetLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/structuresynth/!svn/ver/78/trunk/SyntopiaCore/Logging/ListWidgetLogger.h
+END
+Logging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/structuresynth/!svn/ver/261/trunk/SyntopiaCore/Logging/Logging.cpp
+END
+Logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/structuresynth/!svn/ver/241/trunk/SyntopiaCore/Logging/Logging.h
+END

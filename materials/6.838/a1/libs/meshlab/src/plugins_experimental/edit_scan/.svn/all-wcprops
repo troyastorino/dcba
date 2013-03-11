@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_scan
+END
+edit_scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_scan/edit_scan.h
+END
+meshlab.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_scan/meshlab.qrc
+END
+widget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_scan/widget.ui
+END
+edit_scan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_scan/edit_scan.pro
+END
+widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_scan/widget.h
+END
+edit_scan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_scan/edit_scan.cpp
+END
+rabbit.obj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_scan/rabbit.obj
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/meshlab/!svn/ver/5903/trunk/meshlab/src/install
+END
+build_src_archive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3287/trunk/meshlab/src/install/build_src_archive.sh
+END
+build_allinc_src_archive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/5899/trunk/meshlab/src/install/build_allinc_src_archive.sh
+END
+meshlab.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/meshlab/!svn/ver/5903/trunk/meshlab/src/install/meshlab.nsi
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/meshlab/!svn/ver/4895/trunk/meshlab/src/install/Info.plist
+END
+building_meshlab.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/1811/trunk/meshlab/src/install/building_meshlab.txt
+END
+macinstall_v11.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3020/trunk/meshlab/src/install/macinstall_v11.sh
+END
+macinstall_v12.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/4421/trunk/meshlab/src/install/macinstall_v12.sh
+END
+mkdmg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/meshlab/!svn/ver/4101/trunk/meshlab/src/install/mkdmg.sh
+END
+qt.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/meshlab/!svn/ver/4305/trunk/meshlab/src/install/qt.conf
+END
+macinstall_v13.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/5898/trunk/meshlab/src/install/macinstall_v13.sh
+END
+meshlab-64bit.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/5898/trunk/meshlab/src/install/meshlab-64bit.nsi
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/meshlab/!svn/ver/938/trunk/meshlab/src/install/readme.txt
+END

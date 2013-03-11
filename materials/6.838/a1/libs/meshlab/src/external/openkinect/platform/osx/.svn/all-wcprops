@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/platform/osx
+END
+libusb-osx-kinect.diff
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/platform/osx/libusb-osx-kinect.diff
+END

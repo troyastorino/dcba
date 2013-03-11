@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/5161/trunk/meshlab/src/meshlabplugins/filter_bnpts
+END
+filter_bnpts.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5076/trunk/meshlab/src/meshlabplugins/filter_bnpts/filter_bnpts.h
+END
+filter_bnpts.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5076/trunk/meshlab/src/meshlabplugins/filter_bnpts/filter_bnpts.pro
+END
+filter_bnpts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5156/trunk/meshlab/src/meshlabplugins/filter_bnpts/filter_bnpts.cpp
+END

@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/meshlab/!svn/ver/5808/trunk/meshlab/src/distrib/shaders
+END
+depthmap.frag
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/depthmap.frag
+END
+depthmap.vert
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/depthmap.vert
+END
+dimple.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/dimple.gdp
+END
+Cook-Torrance.frag
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5490/trunk/meshlab/src/distrib/shaders/Cook-Torrance.frag
+END
+phong.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/phong.gdp
+END
+Oren-Nayar.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/Oren-Nayar.gdp
+END
+Cook-Torrance.vert
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5490/trunk/meshlab/src/distrib/shaders/Cook-Torrance.vert
+END
+minnaert.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/minnaert.gdp
+END
+slicingplane.frag
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/4880/trunk/meshlab/src/distrib/shaders/slicingplane.frag
+END
+slicingplane.vert
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/4880/trunk/meshlab/src/distrib/shaders/slicingplane.vert
+END
+toon.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/toon.gdp
+END
+Oren-Nayar.frag
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/Oren-Nayar.frag
+END
+phong.frag
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/phong.frag
+END
+Oren-Nayar.vert
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/Oren-Nayar.vert
+END
+phong.vert
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/phong.vert
+END
+minnaert.frag
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/minnaert.frag
+END
+minnaert.vert
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/minnaert.vert
+END
+xray.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/4961/trunk/meshlab/src/distrib/shaders/xray.gdp
+END
+toon.frag
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/toon.frag
+END
+lattice.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/lattice.gdp
+END
+reflexion_lines.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/4538/trunk/meshlab/src/distrib/shaders/reflexion_lines.gdp
+END
+toon.vert
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/toon.vert
+END
+normalmap.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/normalmap.gdp
+END
+Hatch.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/Hatch.gdp
+END
+xray.frag
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/4961/trunk/meshlab/src/distrib/shaders/xray.frag
+END
+xray.vert
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/xray.vert
+END
+SEM.frag
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/SEM.frag
+END
+SEM.vert
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/SEM.vert
+END
+lattice.frag
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/lattice.frag
+END
+reflexion_lines.frag
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/4540/trunk/meshlab/src/distrib/shaders/reflexion_lines.frag
+END
+lattice.vert
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/lattice.vert
+END
+reflexion_lines.vert
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/reflexion_lines.vert
+END
+envmap.frag
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/envmap.frag
+END
+envmap.vert
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/envmap.vert
+END
+Hatch.frag
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/Hatch.frag
+END
+3Dlabs-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/3Dlabs-license.txt
+END
+Hatch.vert
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/Hatch.vert
+END
+depthmap.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/depthmap.gdp
+END
+Cook-Torrance.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/Cook-Torrance.gdp
+END
+slicingplane.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/4880/trunk/meshlab/src/distrib/shaders/slicingplane.gdp
+END
+glass.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/glass.gdp
+END
+polkadot3d.frag
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/polkadot3d.frag
+END
+polkadot3d.vert
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/polkadot3d.vert
+END
+stripes2.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/stripes2.gdp
+END
+electronic microscope.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/electronic%20microscope.gdp
+END
+glass.frag
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/glass.frag
+END
+glass.vert
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/glass.vert
+END
+dimple.frag
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/dimple.frag
+END
+dimple.vert
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/dimple.vert
+END
+stripes2.frag
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/stripes2.frag
+END
+stripes2.vert
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/stripes2.vert
+END
+ambient_occlusion4.frag
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/ambient_occlusion4.frag
+END
+envmap.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/5650/trunk/meshlab/src/distrib/shaders/envmap.gdp
+END
+LightworkDesign-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/LightworkDesign-license.txt
+END
+ambient_occlusion8.frag
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/4162/trunk/meshlab/src/distrib/shaders/ambient_occlusion8.frag
+END
+normalmap.frag
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/normalmap.frag
+END
+normalmap.vert
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/normalmap.vert
+END
+gooch.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/gooch.gdp
+END
+ambient_occlusion.vert
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/ambient_occlusion.vert
+END
+polkadot3d.gdp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/polkadot3d.gdp
+END
+gooch.frag
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/gooch.frag
+END
+gooch.vert
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/gooch.vert
+END

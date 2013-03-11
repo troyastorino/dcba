@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/5986/trunk/meshlab/src/meshlabplugins/filter_qhull
+END
+filter_qhull.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5180/trunk/meshlab/src/meshlabplugins/filter_qhull/filter_qhull.h
+END
+qhull_tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5986/trunk/meshlab/src/meshlabplugins/filter_qhull/qhull_tools.cpp
+END
+filter_qhull.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5180/trunk/meshlab/src/meshlabplugins/filter_qhull/filter_qhull.pro
+END
+filter_qhull.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5963/trunk/meshlab/src/meshlabplugins/filter_qhull/filter_qhull.cpp
+END
+qhull_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5180/trunk/meshlab/src/meshlabplugins/filter_qhull/qhull_tools.h
+END

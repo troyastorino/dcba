@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/plugins
+END
+rfx_dds.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/plugins/rfx_dds.h
+END
+rfx_tga.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/plugins/rfx_tga.h
+END
+rfx_qimage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/plugins/rfx_qimage.cpp
+END
+rfx_qimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/plugins/rfx_qimage.h
+END
+rfx_dds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/plugins/rfx_dds.cpp
+END
+rfx_tga.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/meshlabplugins/render_rfx/plugins/rfx_tga.cpp
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/meshlab/!svn/ver/5578/trunk/meshlab/src/fgt/io_renderman
+END
+io_renderman.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/4207/trunk/meshlab/src/fgt/io_renderman/io_renderman.pro
+END
+RibFileStack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/4207/trunk/meshlab/src/fgt/io_renderman/RibFileStack.cpp
+END
+export_rib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/5156/trunk/meshlab/src/fgt/io_renderman/export_rib.h
+END
+io_renderman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/5578/trunk/meshlab/src/fgt/io_renderman/io_renderman.cpp
+END
+utilities_hqrender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/4207/trunk/meshlab/src/fgt/io_renderman/utilities_hqrender.cpp
+END
+RibFileStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/4207/trunk/meshlab/src/fgt/io_renderman/RibFileStack.h
+END
+io_renderman.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/4207/trunk/meshlab/src/fgt/io_renderman/io_renderman.h
+END
+parser_rib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/5578/trunk/meshlab/src/fgt/io_renderman/parser_rib.cpp
+END
+utilities_hqrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/4207/trunk/meshlab/src/fgt/io_renderman/utilities_hqrender.h
+END
+ribProcedure.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/4207/trunk/meshlab/src/fgt/io_renderman/ribProcedure.h
+END

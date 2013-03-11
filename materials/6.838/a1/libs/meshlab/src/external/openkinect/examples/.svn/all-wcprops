@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/examples
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/examples/CMakeLists.txt
+END
+glpclview.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/examples/glpclview.c
+END
+cppview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/examples/cppview.cpp
+END
+glview.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/examples/glview.c
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch
+END
+fillImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/fillImage.h
+END
+maskRenderWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/maskRenderWidget.cpp
+END
+maskImageWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/maskImageWidget.cpp
+END
+io_epoch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/io_epoch.pro
+END
+maskRenderWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/maskRenderWidget.h
+END
+epoch_reconstruction.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/epoch_reconstruction.h
+END
+epoch_camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/epoch_camera.cpp
+END
+scalar_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/scalar_image.cpp
+END
+maskImageWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/maskImageWidget.h
+END
+v3dImportDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/v3dImportDialog.cpp
+END
+radial_distortion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/radial_distortion.cpp
+END
+epoch_camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/epoch_camera.h
+END
+scalar_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/scalar_image.h
+END
+v3dImportDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/v3dImportDialog.h
+END
+radial_distortion.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/radial_distortion.h
+END
+reconstruction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/reconstruction.cpp
+END
+epoch_io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/epoch_io.cpp
+END
+fillImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/fillImage.cpp
+END
+epoch_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5604/trunk/meshlab/src/plugins_unsupported/io_epoch/epoch_io.h
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/meshlab/!svn/ver/5744/trunk/meshlab/src/external/jhead-2.95
+END
+iptc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/iptc.c
+END
+make.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/make.bat
+END
+exif.pri
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/5691/trunk/meshlab/src/external/jhead-2.95/exif.pri
+END
+gpsinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/gpsinfo.c
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/changes.txt
+END
+jhead.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/5692/trunk/meshlab/src/external/jhead-2.95/jhead.c
+END
+paths.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/paths.c
+END
+jpgfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/5713/trunk/meshlab/src/external/jhead-2.95/jpgfile.c
+END
+jhead.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/jhead.h
+END
+readme_changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5693/trunk/meshlab/src/external/jhead-2.95/readme_changes.txt
+END
+jhead.spec
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/jhead.spec
+END
+jhead-2.95.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5744/trunk/meshlab/src/external/jhead-2.95/jhead-2.95.pro
+END
+makernote.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/makernote.c
+END
+usage.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/usage.html
+END
+myglob.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/myglob.c
+END
+jhead.1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/jhead.1
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/readme.txt
+END
+exif.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/exif.c
+END
+makefile-win32
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/makefile-win32
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/5690/trunk/meshlab/src/external/jhead-2.95/makefile
+END

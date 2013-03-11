@@ -1,0 +1,70 @@
+10
+
+dir
+6096
+https://meshlab.svn.sourceforge.net/svnroot/meshlab/trunk/meshlab/src/plugins_unsupported
+https://meshlab.svn.sourceforge.net/svnroot/meshlab
+
+
+
+2012-11-07T11:17:53.395226Z
+6009
+cignoni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+324bb2ba-784c-0410-a299-e66b5c357fcb
+
+editrgbtri
+dir
+
+filter_rangemap
+dir
+
+editpaint
+dir
+
+filter_curvature_from_sliding
+dir
+
+filterborder
+dir
+
+edit_straightener
+dir
+
+io_epoch
+dir
+
+edit_fit
+dir
+
+edit_phototexturing
+dir
+
+editsegment
+dir
+
+filter_mutualinfo
+dir
+
+shaders
+dir
+
+render_rm
+dir
+
+samplefilterdoc
+dir
+

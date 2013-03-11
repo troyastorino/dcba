@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/sample
+END
+query.pts
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/sample/query.pts
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/sample/Makefile
+END
+ann_sample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/sample/ann_sample.cpp
+END
+data.pts
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/sample/data.pts
+END
+sample.save
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/sample/sample.save
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/filter_curvature_from_sliding
+END
+filter_curvature_from_sliding.pro
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/filter_curvature_from_sliding/filter_curvature_from_sliding.pro
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/filter_curvature_from_sliding/frame.h
+END
+curvature_from_sliding.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/filter_curvature_from_sliding/curvature_from_sliding.h
+END
+filter_curvature_from_sliding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/filter_curvature_from_sliding/filter_curvature_from_sliding.cpp
+END
+filter_curvature_from_sliding.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/meshlab/!svn/ver/5163/trunk/meshlab/src/plugins_unsupported/filter_curvature_from_sliding/filter_curvature_from_sliding.h
+END

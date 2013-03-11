@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/5713/trunk/meshlab/src/external/muparser_v132/src
+END
+muParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/4356/trunk/meshlab/src/external/muparser_v132/src/muParser.cpp
+END
+muParserTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/4356/trunk/meshlab/src/external/muparser_v132/src/muParserTest.cpp
+END
+muParserTokenReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/4356/trunk/meshlab/src/external/muparser_v132/src/muParserTokenReader.cpp
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5713/trunk/meshlab/src/external/muparser_v132/src/src.pro
+END
+muParserComplex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/4356/trunk/meshlab/src/external/muparser_v132/src/muParserComplex.cpp
+END
+muParserError.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/4356/trunk/meshlab/src/external/muparser_v132/src/muParserError.cpp
+END
+muParserBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/4356/trunk/meshlab/src/external/muparser_v132/src/muParserBase.cpp
+END
+muParserInt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/4356/trunk/meshlab/src/external/muparser_v132/src/muParserInt.cpp
+END
+muParserDLL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/4356/trunk/meshlab/src/external/muparser_v132/src/muParserDLL.cpp
+END
+muParserCallback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/4356/trunk/meshlab/src/external/muparser_v132/src/muParserCallback.cpp
+END
+muParserBytecode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/4356/trunk/meshlab/src/external/muparser_v132/src/muParserBytecode.cpp
+END

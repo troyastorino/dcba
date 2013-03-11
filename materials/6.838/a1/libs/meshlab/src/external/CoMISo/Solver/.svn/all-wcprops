@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver
+END
+SparseQRSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/SparseQRSolver.cc
+END
+UMFPACKSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/UMFPACKSolver.hh
+END
+TaucsSolverT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/TaucsSolverT.cc
+END
+MISolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/MISolver.cc
+END
+GMM_Tools.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/GMM_Tools.cc
+END
+EigenLDLTSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/EigenLDLTSolver.cc
+END
+ConstrainedSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/ConstrainedSolver.cc
+END
+CholmodSolverT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/CholmodSolverT.cc
+END
+SparseQRSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/SparseQRSolver.hh
+END
+UMFPACKSolverT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/UMFPACKSolverT.cc
+END
+Eigen_Tools.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/Eigen_Tools.cc
+END
+GMM_Tools.hh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/GMM_Tools.hh
+END
+MISolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/MISolver.hh
+END
+TaucsSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/TaucsSolver.cc
+END
+IterativeSolverT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/IterativeSolverT.cc
+END
+EigenLDLTSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/EigenLDLTSolver.hh
+END
+ConstrainedSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/ConstrainedSolver.hh
+END
+SparseQRSolverT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/SparseQRSolverT.cc
+END
+CholmodSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/CholmodSolver.cc
+END
+Eigen_Tools.hh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/Eigen_Tools.hh
+END
+UMFPACKSolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/UMFPACKSolver.cc
+END
+MISolverT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/MISolverT.cc
+END
+TaucsSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/TaucsSolver.hh
+END
+IterativeSolverT.hh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/IterativeSolverT.hh
+END
+EigenLDLTSolverT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/EigenLDLTSolverT.cc
+END
+ConstrainedSolverT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/ConstrainedSolverT.cc
+END
+CholmodSolver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Solver/CholmodSolver.hh
+END

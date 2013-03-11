@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_paint
+END
+colorframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5168/trunk/meshlab/src/meshlabplugins/edit_paint/colorframe.h
+END
+edit_paint.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5172/trunk/meshlab/src/meshlabplugins/edit_paint/edit_paint.pro
+END
+paintbox.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5896/trunk/meshlab/src/meshlabplugins/edit_paint/paintbox.ui
+END
+cloneview.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5168/trunk/meshlab/src/meshlabplugins/edit_paint/cloneview.h
+END
+edit_paint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_paint/edit_paint.cpp
+END
+edit_paint.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5171/trunk/meshlab/src/meshlabplugins/edit_paint/edit_paint.qrc
+END
+paintbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5168/trunk/meshlab/src/meshlabplugins/edit_paint/paintbox.cpp
+END
+edit_paint.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_paint/edit_paint.h
+END
+edit_paint_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5172/trunk/meshlab/src/meshlabplugins/edit_paint/edit_paint_factory.cpp
+END
+paintbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5168/trunk/meshlab/src/meshlabplugins/edit_paint/paintbox.h
+END
+edit_paint_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5168/trunk/meshlab/src/meshlabplugins/edit_paint/edit_paint_factory.h
+END

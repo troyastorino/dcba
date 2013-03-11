@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/5157/trunk/meshlab/src/fgt/edit_topo/filter_topo
+END
+filter_topo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3818/trunk/meshlab/src/fgt/edit_topo/filter_topo/filter_topo.pro
+END
+filter_topo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5157/trunk/meshlab/src/fgt/edit_topo/filter_topo/filter_topo.cpp
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/2704/trunk/meshlab/src/fgt/edit_topo/filter_topo/Readme.txt
+END
+filter_topo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/3777/trunk/meshlab/src/fgt/edit_topo/filter_topo/filter_topo.h
+END

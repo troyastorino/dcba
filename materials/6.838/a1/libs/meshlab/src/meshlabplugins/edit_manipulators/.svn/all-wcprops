@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_manipulators
+END
+edit_manipulators_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/5259/trunk/meshlab/src/meshlabplugins/edit_manipulators/edit_manipulators_factory.h
+END
+edit_manipulators.pro
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5413/trunk/meshlab/src/meshlabplugins/edit_manipulators/edit_manipulators.pro
+END
+edit_manipulators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_manipulators/edit_manipulators.cpp
+END
+edit_manipulators.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5259/trunk/meshlab/src/meshlabplugins/edit_manipulators/edit_manipulators.qrc
+END
+edit_manipulators.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5462/trunk/meshlab/src/meshlabplugins/edit_manipulators/edit_manipulators.h
+END
+edit_manipulators_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/5259/trunk/meshlab/src/meshlabplugins/edit_manipulators/edit_manipulators_factory.cpp
+END

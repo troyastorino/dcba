@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3328/trunk/meshlab/src/external/ann_1.1.1/include/ANN
+END
+ANNperf.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/include/ANN/ANNperf.h
+END
+ANN.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3328/trunk/meshlab/src/external/ann_1.1.1/include/ANN/ANN.h
+END
+ANNx.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3293/trunk/meshlab/src/external/ann_1.1.1/include/ANN/ANNx.h
+END

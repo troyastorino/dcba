@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/6014/trunk/meshlab/src/plugins_experimental/io_3dcoform
+END
+coformimportdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/io_3dcoform/coformimportdialog.cpp
+END
+io_3dcoform.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6014/trunk/meshlab/src/plugins_experimental/io_3dcoform/io_3dcoform.pro
+END
+io_3dcoform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6014/trunk/meshlab/src/plugins_experimental/io_3dcoform/io_3dcoform.cpp
+END
+coformimportdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/io_3dcoform/coformimportdialog.h
+END
+metadatafile_generator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/6014/trunk/meshlab/src/plugins_experimental/io_3dcoform/metadatafile_generator.cpp
+END
+io_3dcoform.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/6014/trunk/meshlab/src/plugins_experimental/io_3dcoform/io_3dcoform.h
+END
+metadatafile_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/6014/trunk/meshlab/src/plugins_experimental/io_3dcoform/metadatafile_generator.h
+END

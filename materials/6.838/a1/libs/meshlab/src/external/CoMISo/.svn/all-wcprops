@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/VERSION
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/CHANGELOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/COPYING
+END
+CoMISo.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/CoMISo.cmake
+END
+how_to_compile_with_vs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/how_to_compile_with_vs.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/README.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/CMakeLists.txt
+END

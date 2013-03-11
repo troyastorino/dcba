@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/ocme/simpledb
+END
+ocme_simpledb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/ocme/simpledb/ocme_simpledb.cpp
+END
+chain_mem_simpledb.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/ocme/simpledb/chain_mem_simpledb.h
+END
+ocme_kcdb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/ocme/simpledb/ocme_kcdb.cpp
+END

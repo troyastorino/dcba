@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Examples/small_quadratic_resolve_example
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Examples/small_quadratic_resolve_example/main.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/meshlab/!svn/ver/6066/trunk/meshlab/src/external/CoMISo/Examples/small_quadratic_resolve_example/CMakeLists.txt
+END

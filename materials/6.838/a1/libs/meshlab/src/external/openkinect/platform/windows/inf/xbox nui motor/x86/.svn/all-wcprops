@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/platform/windows/inf/xbox%20nui%20motor/x86
+END
+libusb0_x86.dll
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/platform/windows/inf/xbox%20nui%20motor/x86/libusb0_x86.dll
+END
+libusb0.sys
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/platform/windows/inf/xbox%20nui%20motor/x86/libusb0.sys
+END

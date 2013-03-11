@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_tri
+END
+io_tri.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_tri/io_tri.pro
+END
+io_tri.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3505/trunk/meshlab/src/meshlabplugins/io_tri/io_tri.cpp
+END
+io_tri.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_tri/io_tri.h
+END

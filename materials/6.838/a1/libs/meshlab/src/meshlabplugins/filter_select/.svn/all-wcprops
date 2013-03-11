@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/5951/trunk/meshlab/src/meshlabplugins/filter_select
+END
+meshlab.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/4051/trunk/meshlab/src/meshlabplugins/filter_select/meshlab.qrc
+END
+meshselect.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5162/trunk/meshlab/src/meshlabplugins/filter_select/meshselect.h
+END
+filter_select.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5154/trunk/meshlab/src/meshlabplugins/filter_select/filter_select.pro
+END
+meshselect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5951/trunk/meshlab/src/meshlabplugins/filter_select/meshselect.cpp
+END

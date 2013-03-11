@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/meshlab/!svn/ver/4607/trunk/meshlab/docs/dox
+END
+header.tex
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/meshlab/!svn/ver/4607/trunk/meshlab/docs/dox/header.tex
+END
+doxygen.sty
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/meshlab/!svn/ver/4607/trunk/meshlab/docs/dox/doxygen.sty
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/meshlab/!svn/ver/4607/trunk/meshlab/docs/dox/readme.txt
+END
+filter.dox
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/meshlab/!svn/ver/4607/trunk/meshlab/docs/dox/filter.dox
+END

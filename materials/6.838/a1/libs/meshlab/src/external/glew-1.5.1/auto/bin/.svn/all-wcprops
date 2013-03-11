@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin
+END
+make_str.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make_str.pl
+END
+make_list.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make_list.pl
+END
+update_registry.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/update_registry.sh
+END
+make.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make.pl
+END
+make_info_list.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make_info_list.pl
+END
+parse_spec.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/parse_spec.pl
+END
+make_header.pl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make_header.pl
+END
+make_info.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make_info.pl
+END
+fix_OML_sync_control.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/fix_OML_sync_control.sh
+END
+make_struct_var.pl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make_struct_var.pl
+END
+make_struct_fun.pl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make_struct_fun.pl
+END
+make_init.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make_init.pl
+END
+update_ext.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/update_ext.sh
+END
+make_html.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make_html.pl
+END
+make_def_var.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make_def_var.pl
+END
+make_def_fun.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/bin/make_def_fun.pl
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/4092/trunk/meshlab/src/distrib/shaders/decorate_shadow/ssao
+END
+blur.frag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/4092/trunk/meshlab/src/distrib/shaders/decorate_shadow/ssao/blur.frag
+END
+blur.vert
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/4092/trunk/meshlab/src/distrib/shaders/decorate_shadow/ssao/blur.vert
+END
+ssao.frag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/4092/trunk/meshlab/src/distrib/shaders/decorate_shadow/ssao/ssao.frag
+END
+normalMap.frag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/4092/trunk/meshlab/src/distrib/shaders/decorate_shadow/ssao/normalMap.frag
+END
+ssao.vert
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/4092/trunk/meshlab/src/distrib/shaders/decorate_shadow/ssao/ssao.vert
+END
+normalMap.vert
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/4092/trunk/meshlab/src/distrib/shaders/decorate_shadow/ssao/normalMap.vert
+END

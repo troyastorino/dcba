@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/meshlab/!svn/ver/5153/trunk/meshlab/src/meshlabplugins/io_json
+END
+io_json.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/4308/trunk/meshlab/src/meshlabplugins/io_json/io_json.pro
+END
+io_json.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5153/trunk/meshlab/src/meshlabplugins/io_json/io_json.cpp
+END
+io_json.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/4308/trunk/meshlab/src/meshlabplugins/io_json/io_json.h
+END

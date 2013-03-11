@@ -1,0 +1,43 @@
+10
+
+dir
+6096
+https://meshlab.svn.sourceforge.net/svnroot/meshlab/trunk/meshlab/src/distrib
+https://meshlab.svn.sourceforge.net/svnroot/meshlab
+
+
+
+2012-07-09T11:11:39.618669Z
+5808
+laruef
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+324bb2ba-784c-0410-a299-e66b5c357fcb
+
+plugins
+dir
+
+sample
+dir
+
+textures
+dir
+
+shaders
+dir
+
+render_template
+dir
+

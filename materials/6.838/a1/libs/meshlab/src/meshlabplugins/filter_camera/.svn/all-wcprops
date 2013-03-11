@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/5989/trunk/meshlab/src/meshlabplugins/filter_camera
+END
+filter_camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5307/trunk/meshlab/src/meshlabplugins/filter_camera/filter_camera.h
+END
+filter_camera.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/4751/trunk/meshlab/src/meshlabplugins/filter_camera/filter_camera.pro
+END
+filter_camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5989/trunk/meshlab/src/meshlabplugins/filter_camera/filter_camera.cpp
+END

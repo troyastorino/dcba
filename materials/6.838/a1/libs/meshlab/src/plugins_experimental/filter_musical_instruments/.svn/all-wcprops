@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5680/trunk/meshlab/src/plugins_experimental/filter_musical_instruments
+END
+filter_musical_instruments.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/meshlab/!svn/ver/5680/trunk/meshlab/src/plugins_experimental/filter_musical_instruments/filter_musical_instruments.h
+END
+filter_musical_instruments.pro
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/meshlab/!svn/ver/5680/trunk/meshlab/src/plugins_experimental/filter_musical_instruments/filter_musical_instruments.pro
+END
+filter_musical_instruments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/meshlab/!svn/ver/5680/trunk/meshlab/src/plugins_experimental/filter_musical_instruments/filter_musical_instruments.cpp
+END

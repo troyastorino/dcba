@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/ooc_vector/io
+END
+ooc_chunks_kcdb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/ooc_vector/io/ooc_chunks_kcdb.cpp
+END
+ooc_chains.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/ooc_vector/io/ooc_chains.hpp
+END
+ooc_chunks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/ooc_vector/io/ooc_chunks.cpp
+END
+ooc_chains_kcdb.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/meshlab/!svn/ver/5681/trunk/meshlab/src/plugins_experimental/edit_ocme/src/ooc_vector/io/ooc_chains_kcdb.hpp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/5991/trunk/meshlab/src/meshlabplugins/filter_dirt
+END
+dirt_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5991/trunk/meshlab/src/meshlabplugins/filter_dirt/dirt_utils.cpp
+END
+filter_dirt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5369/trunk/meshlab/src/meshlabplugins/filter_dirt/filter_dirt.pro
+END
+dirt_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_dirt/dirt_utils.h
+END
+filter_dirt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5578/trunk/meshlab/src/meshlabplugins/filter_dirt/filter_dirt.cpp
+END
+dustparticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_dirt/dustparticle.h
+END
+dustsampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_dirt/dustsampler.h
+END
+particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_dirt/particle.h
+END
+filter_dirt.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_dirt/filter_dirt.h
+END

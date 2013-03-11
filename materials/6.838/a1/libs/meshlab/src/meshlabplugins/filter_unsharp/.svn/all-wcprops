@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/filter_unsharp
+END
+filter_unsharp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5154/trunk/meshlab/src/meshlabplugins/filter_unsharp/filter_unsharp.pro
+END
+filter_unsharp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/filter_unsharp/filter_unsharp.cpp
+END
+filter_unsharp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5884/trunk/meshlab/src/meshlabplugins/filter_unsharp/filter_unsharp.h
+END

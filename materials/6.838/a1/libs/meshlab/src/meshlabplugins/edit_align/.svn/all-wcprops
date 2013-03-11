@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/6096/trunk/meshlab/src/meshlabplugins/edit_align
+END
+edit_align.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6095/trunk/meshlab/src/meshlabplugins/edit_align/edit_align.cpp
+END
+edit_align.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5169/trunk/meshlab/src/meshlabplugins/edit_align/edit_align.qrc
+END
+edit_align.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6095/trunk/meshlab/src/meshlabplugins/edit_align/edit_align.h
+END
+alignDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6095/trunk/meshlab/src/meshlabplugins/edit_align/alignDialog.ui
+END
+alignDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6091/trunk/meshlab/src/meshlabplugins/edit_align/alignDialog.cpp
+END
+AlignPairWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6091/trunk/meshlab/src/meshlabplugins/edit_align/AlignPairWidget.cpp
+END
+point_matching_scale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6087/trunk/meshlab/src/meshlabplugins/edit_align/point_matching_scale.cpp
+END
+meshtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6096/trunk/meshlab/src/meshlabplugins/edit_align/meshtree.cpp
+END
+edit_align.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6091/trunk/meshlab/src/meshlabplugins/edit_align/edit_align.pro
+END
+alignDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6091/trunk/meshlab/src/meshlabplugins/edit_align/alignDialog.h
+END
+AlignPairWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5820/trunk/meshlab/src/meshlabplugins/edit_align/AlignPairWidget.h
+END
+point_matching_scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6087/trunk/meshlab/src/meshlabplugins/edit_align/point_matching_scale.h
+END
+meshtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6095/trunk/meshlab/src/meshlabplugins/edit_align/meshtree.h
+END
+edit_align_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/6088/trunk/meshlab/src/meshlabplugins/edit_align/edit_align_factory.cpp
+END
+AlignPairDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5820/trunk/meshlab/src/meshlabplugins/edit_align/AlignPairDialog.h
+END
+edit_align_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_align/edit_align_factory.h
+END

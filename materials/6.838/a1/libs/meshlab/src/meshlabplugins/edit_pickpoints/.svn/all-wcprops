@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/edit_pickpoints
+END
+editpickpoints.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/4658/trunk/meshlab/src/meshlabplugins/edit_pickpoints/editpickpoints.h
+END
+pickpointsDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5832/trunk/meshlab/src/meshlabplugins/edit_pickpoints/pickpointsDialog.ui
+END
+edit_pickpoints_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3775/trunk/meshlab/src/meshlabplugins/edit_pickpoints/edit_pickpoints_factory.cpp
+END
+pickPointsTemplate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/4390/trunk/meshlab/src/meshlabplugins/edit_pickpoints/pickPointsTemplate.cpp
+END
+pickedPoints.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/3820/trunk/meshlab/src/meshlabplugins/edit_pickpoints/pickedPoints.h
+END
+pickpointsDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/edit_pickpoints/pickpointsDialog.cpp
+END
+edit_pickpoints_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3820/trunk/meshlab/src/meshlabplugins/edit_pickpoints/edit_pickpoints_factory.h
+END
+pickPointsTemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/3218/trunk/meshlab/src/meshlabplugins/edit_pickpoints/pickPointsTemplate.h
+END
+edit_pickpoints.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/3820/trunk/meshlab/src/meshlabplugins/edit_pickpoints/edit_pickpoints.pro
+END
+pickpointsDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/3820/trunk/meshlab/src/meshlabplugins/edit_pickpoints/pickpointsDialog.h
+END
+editpickpoints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/4658/trunk/meshlab/src/meshlabplugins/edit_pickpoints/editpickpoints.cpp
+END
+editpickpoints.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/2286/trunk/meshlab/src/meshlabplugins/edit_pickpoints/editpickpoints.qrc
+END
+pickedPoints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/4013/trunk/meshlab/src/meshlabplugins/edit_pickpoints/pickedPoints.cpp
+END

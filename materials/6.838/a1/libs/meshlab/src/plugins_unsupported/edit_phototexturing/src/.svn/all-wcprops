@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src
+END
+photo_texture_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/photo_texture_tools.h
+END
+CameraCalibrationData.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/CameraCalibrationData.h
+END
+UVFaceTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/UVFaceTexture.h
+END
+CameraCalibration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/CameraCalibration.cpp
+END
+PhotoTexturer.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/PhotoTexturer.h
+END
+TextureMerger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/TextureMerger.cpp
+END
+CameraCalibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/CameraCalibration.h
+END
+WinnerTakesAllTextureMerger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/WinnerTakesAllTextureMerger.cpp
+END
+TextureMerger.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/TextureMerger.h
+END
+TextureFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/TextureFilter.h
+END
+WinnerTakesAllTextureMerger.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/WinnerTakesAllTextureMerger.h
+END
+SmartBlendTextureMerger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/SmartBlendTextureMerger.cpp
+END
+SmartBlendTextureMerger.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/SmartBlendTextureMerger.h
+END
+CameraSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/CameraSensor.h
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/Camera.cpp
+END
+UVFaceTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/UVFaceTexture.cpp
+END
+PhotoTexturer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/PhotoTexturer.cpp
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/src/Camera.h
+END

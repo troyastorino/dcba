@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_arc3D
+END
+fillImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/fillImage.h
+END
+maskRenderWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/maskRenderWidget.cpp
+END
+edit_arc3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_arc3D/edit_arc3D.cpp
+END
+maskImageWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/maskImageWidget.cpp
+END
+arc3D_reconstruction.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/arc3D_reconstruction.h
+END
+maskRenderWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/maskRenderWidget.h
+END
+edit_arc3D.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/edit_arc3D.qrc
+END
+arc3D_camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/arc3D_camera.cpp
+END
+edit_arc3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5926/trunk/meshlab/src/meshlabplugins/edit_arc3D/edit_arc3D.h
+END
+maskImageWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/maskImageWidget.h
+END
+scalar_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/scalar_image.cpp
+END
+v3dImportDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5926/trunk/meshlab/src/meshlabplugins/edit_arc3D/v3dImportDialog.cpp
+END
+arc3D_camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/arc3D_camera.h
+END
+radial_distortion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/radial_distortion.cpp
+END
+scalar_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5699/trunk/meshlab/src/meshlabplugins/edit_arc3D/scalar_image.h
+END
+v3dImportDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5926/trunk/meshlab/src/meshlabplugins/edit_arc3D/v3dImportDialog.h
+END
+resource1.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/resource1.h
+END
+edit_arc3D.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/edit_arc3D.pro
+END
+radial_distortion.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/radial_distortion.h
+END
+pushpull.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/pushpull.h
+END
+reconstruction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/reconstruction.cpp
+END
+edit_arc3D_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/edit_arc3D_factory.cpp
+END
+fillImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/fillImage.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/resource.h
+END
+edit_arc3D_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5600/trunk/meshlab/src/meshlabplugins/edit_arc3D/edit_arc3D_factory.h
+END

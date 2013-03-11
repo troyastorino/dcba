@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/5970/trunk/meshlab/src/meshlabplugins/io_3ds
+END
+io_3ds.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/5397/trunk/meshlab/src/meshlabplugins/io_3ds/io_3ds.pro
+END
+meshio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/5970/trunk/meshlab/src/meshlabplugins/io_3ds/meshio.cpp
+END
+io_3ds.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/2932/trunk/meshlab/src/meshlabplugins/io_3ds/io_3ds.h
+END
+import_3ds.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5153/trunk/meshlab/src/meshlabplugins/io_3ds/import_3ds.h
+END
+meshio.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/4084/trunk/meshlab/src/meshlabplugins/io_3ds/meshio.h
+END

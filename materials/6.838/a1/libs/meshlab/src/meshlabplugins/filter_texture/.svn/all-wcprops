@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/6030/trunk/meshlab/src/meshlabplugins/filter_texture
+END
+rect_packer_old.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/3585/trunk/meshlab/src/meshlabplugins/filter_texture/rect_packer_old.cpp
+END
+filter_texture_old.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3732/trunk/meshlab/src/meshlabplugins/filter_texture/filter_texture_old.pro
+END
+pushpull.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3717/trunk/meshlab/src/meshlabplugins/filter_texture/pushpull.h
+END
+filter_texture.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5782/trunk/meshlab/src/meshlabplugins/filter_texture/filter_texture.pro
+END
+filter_texture_old.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5154/trunk/meshlab/src/meshlabplugins/filter_texture/filter_texture_old.cpp
+END
+rastering.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/6030/trunk/meshlab/src/meshlabplugins/filter_texture/rastering.h
+END
+filter_texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5994/trunk/meshlab/src/meshlabplugins/filter_texture/filter_texture.cpp
+END
+rect_packer_old.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/3585/trunk/meshlab/src/meshlabplugins/filter_texture/rect_packer_old.h
+END
+filter_texture_old.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/3585/trunk/meshlab/src/meshlabplugins/filter_texture/filter_texture_old.h
+END
+filter_texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5782/trunk/meshlab/src/meshlabplugins/filter_texture/filter_texture.h
+END

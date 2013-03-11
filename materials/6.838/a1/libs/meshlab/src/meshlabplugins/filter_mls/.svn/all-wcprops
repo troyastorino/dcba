@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/6028/trunk/meshlab/src/meshlabplugins/filter_mls
+END
+balltree.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5611/trunk/meshlab/src/meshlabplugins/filter_mls/balltree.h
+END
+implicits.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6026/trunk/meshlab/src/meshlabplugins/filter_mls/implicits.h
+END
+apss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3823/trunk/meshlab/src/meshlabplugins/filter_mls/apss.cpp
+END
+smallcomponentselection.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5790/trunk/meshlab/src/meshlabplugins/filter_mls/smallcomponentselection.h
+END
+rimls.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/5611/trunk/meshlab/src/meshlabplugins/filter_mls/rimls.tpp
+END
+mlsmarchingcube.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5611/trunk/meshlab/src/meshlabplugins/filter_mls/mlsmarchingcube.h
+END
+mlssurface.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6028/trunk/meshlab/src/meshlabplugins/filter_mls/mlssurface.h
+END
+mlsplugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/6026/trunk/meshlab/src/meshlabplugins/filter_mls/mlsplugin.cpp
+END
+apss.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/2944/trunk/meshlab/src/meshlabplugins/filter_mls/apss.h
+END
+filter_mls.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5611/trunk/meshlab/src/meshlabplugins/filter_mls/filter_mls.pro
+END
+mlsplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/4084/trunk/meshlab/src/meshlabplugins/filter_mls/mlsplugin.h
+END
+mlssurface.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5611/trunk/meshlab/src/meshlabplugins/filter_mls/mlssurface.tpp
+END
+rimls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3823/trunk/meshlab/src/meshlabplugins/filter_mls/rimls.cpp
+END
+apss.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5611/trunk/meshlab/src/meshlabplugins/filter_mls/apss.tpp
+END
+balltree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5611/trunk/meshlab/src/meshlabplugins/filter_mls/balltree.cpp
+END
+rimls.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/2994/trunk/meshlab/src/meshlabplugins/filter_mls/rimls.h
+END
+priorityqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/2944/trunk/meshlab/src/meshlabplugins/filter_mls/priorityqueue.h
+END

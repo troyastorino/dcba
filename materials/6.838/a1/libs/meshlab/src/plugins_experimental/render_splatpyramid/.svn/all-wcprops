@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid
+END
+dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/dialog.cpp
+END
+pyramid_point_renderer_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/pyramid_point_renderer_base.cc
+END
+shaderStructs.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/shaderStructs.h
+END
+pyramid_point_renderer_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/pyramid_point_renderer_base.h
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/dialog.h
+END
+pyramid_point_renderer_color.cc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/pyramid_point_renderer_color.cc
+END
+surfel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/surfel.hpp
+END
+pyramid_point_renderer_color.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/pyramid_point_renderer_color.h
+END
+pyramid_point_renderer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/pyramid_point_renderer.cc
+END
+pyramid_point_renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/pyramid_point_renderer.h
+END
+object.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/object.cc
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/object.h
+END
+splat_pyramid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/splat_pyramid.cc
+END
+splat_pyramid.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/splat_pyramid.h
+END
+point_based_renderer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/point_based_renderer.cc
+END
+point_based_renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/point_based_renderer.h
+END
+render_splatpyramid.pro
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/render_splatpyramid.pro
+END
+materials.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/materials.h
+END
+dialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5174/trunk/meshlab/src/plugins_experimental/render_splatpyramid/dialog.ui
+END

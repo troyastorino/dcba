@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/6025/trunk/meshlab/src/meshlabplugins/filter_clean
+END
+align_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5177/trunk/meshlab/src/meshlabplugins/filter_clean/align_tools.h
+END
+parameter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/2936/trunk/meshlab/src/meshlabplugins/filter_clean/parameter.cpp
+END
+filter_clean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5066/trunk/meshlab/src/meshlabplugins/filter_clean/filter_clean.pro
+END
+parameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/2936/trunk/meshlab/src/meshlabplugins/filter_clean/parameter.h
+END
+cleanfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6025/trunk/meshlab/src/meshlabplugins/filter_clean/cleanfilter.cpp
+END
+align_tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5946/trunk/meshlab/src/meshlabplugins/filter_clean/align_tools.cpp
+END
+cleanfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5902/trunk/meshlab/src/meshlabplugins/filter_clean/cleanfilter.h
+END

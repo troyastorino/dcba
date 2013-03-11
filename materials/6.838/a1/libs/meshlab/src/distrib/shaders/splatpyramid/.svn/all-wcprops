@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid
+END
+shader_phong.frag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_phong.frag
+END
+shader_copy.vert
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_copy.vert
+END
+shader_phong.vert
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_phong.vert
+END
+shader_analysis_color.frag
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_analysis_color.frag
+END
+shader_analysis_color.vert
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_analysis_color.vert
+END
+shader_point_projection_color.frag
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_point_projection_color.frag
+END
+shader_analysis.frag
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_analysis.frag
+END
+shader_point_projection_color.vert
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_point_projection_color.vert
+END
+shader_analysis.vert
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_analysis.vert
+END
+shader_point_projection.frag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_point_projection.frag
+END
+shader_point_projection.vert
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_point_projection.vert
+END
+shader_synthesis_color.frag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_synthesis_color.frag
+END
+shader_synthesis_color.vert
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_synthesis_color.vert
+END
+shader_synthesis.frag
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_synthesis.frag
+END
+shader_synthesis.vert
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_synthesis.vert
+END
+shader_copy_color.frag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_copy_color.frag
+END
+shader_phong_color.frag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_phong_color.frag
+END
+shader_copy_color.vert
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_copy_color.vert
+END
+shader_phong_color.vert
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_phong_color.vert
+END
+shader_copy.frag
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/3937/trunk/meshlab/src/distrib/shaders/splatpyramid/shader_copy.frag
+END

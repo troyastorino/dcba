@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/actionscript/org/libfreenect
+END
+libfreenect.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/actionscript/org/libfreenect/libfreenect.as
+END
+libfreenectMotor.as
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/actionscript/org/libfreenect/libfreenectMotor.as
+END
+libfreenectCamera.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/actionscript/org/libfreenect/libfreenectCamera.as
+END
+libfreenectMic.as
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/actionscript/org/libfreenect/libfreenectMic.as
+END
+libfreenectSocket.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/actionscript/org/libfreenect/libfreenectSocket.as
+END
+libfreenectData.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/actionscript/org/libfreenect/libfreenectData.as
+END

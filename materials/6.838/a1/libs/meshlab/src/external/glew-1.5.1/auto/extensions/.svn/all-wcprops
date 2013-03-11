@@ -1,0 +1,2405 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions
+END
+GL_EXT_texture_integer
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_integer
+END
+GL_EXT_texture_buffer_object
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_buffer_object
+END
+GL_PGI_misc_hints
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_PGI_misc_hints
+END
+GL_EXT_texture_env_add
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_env_add
+END
+GLX_SGIX_swap_barrier
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGIX_swap_barrier
+END
+GL_SGIX_resample
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_resample
+END
+GLX_SUN_get_transparent_index
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SUN_get_transparent_index
+END
+GLX_SGI_make_current_read
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGI_make_current_read
+END
+GL_SGIS_fog_function
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_fog_function
+END
+GL_EXT_light_texture
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_light_texture
+END
+GLX_SGIS_color_range
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGIS_color_range
+END
+GL_INTEL_parallel_arrays
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_INTEL_parallel_arrays
+END
+GLX_ARB_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_ARB_multisample
+END
+GL_EXT_cull_vertex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_cull_vertex
+END
+GL_ARB_fragment_program
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_fragment_program
+END
+GL_EXT_color_subtable
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_color_subtable
+END
+WGL_I3D_swap_frame_lock
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_I3D_swap_frame_lock
+END
+GL_NV_fence
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_fence
+END
+GL_EXT_geometry_shader4
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_geometry_shader4
+END
+GL_SGIX_vertex_preclip
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_vertex_preclip
+END
+GL_NV_vertex_program2
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_vertex_program2
+END
+GL_EXT_framebuffer_object
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_framebuffer_object
+END
+GL_NV_vertex_program3
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_vertex_program3
+END
+WGL_3DL_stereo_control
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_3DL_stereo_control
+END
+GL_NV_vertex_program4
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_vertex_program4
+END
+GL_SGIX_flush_raster
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_flush_raster
+END
+GL_ARB_draw_buffers
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_draw_buffers
+END
+WGL_I3D_swap_frame_usage
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_I3D_swap_frame_usage
+END
+GL_SGIS_point_line_texgen
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_point_line_texgen
+END
+GL_SGIX_texture_scale_bias
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_texture_scale_bias
+END
+GL_ARB_texture_env_add
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_env_add
+END
+GL_ARB_texture_compression
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_compression
+END
+GL_SGI_texture_color_table
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGI_texture_color_table
+END
+GL_NV_geometry_program4
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_geometry_program4
+END
+GL_WIN_swap_hint
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_WIN_swap_hint
+END
+GL_NV_texture_expand_normal
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_texture_expand_normal
+END
+WGL_OML_sync_control
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_OML_sync_control
+END
+GL_EXT_blend_minmax
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_blend_minmax
+END
+GL_ARB_instanced_arrays
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_instanced_arrays
+END
+GL_OML_interlace
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_OML_interlace
+END
+GL_3DFX_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_3DFX_multisample
+END
+GL_ARB_vertex_buffer_object
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_vertex_buffer_object
+END
+GL_EXT_framebuffer_sRGB
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_framebuffer_sRGB
+END
+GLX_NV_vertex_array_range
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_NV_vertex_array_range
+END
+GL_ARB_fragment_program_shadow
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_fragment_program_shadow
+END
+GL_SGIS_texture_lod
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_texture_lod
+END
+GL_EXT_cmyka
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_cmyka
+END
+GL_NV_depth_buffer_float
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_depth_buffer_float
+END
+GL_ATIX_point_sprites
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATIX_point_sprites
+END
+GL_SGIX_framezoom
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_framezoom
+END
+GL_EXT_bgra
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_bgra
+END
+GL_EXT_texture_compression_s3tc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_compression_s3tc
+END
+GL_EXT_blend_equation_separate
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_blend_equation_separate
+END
+WGL_EXT_pbuffer
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_EXT_pbuffer
+END
+WGL_EXT_pixel_format
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_EXT_pixel_format
+END
+GL_NV_half_float
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_half_float
+END
+GL_EXT_secondary_color
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_secondary_color
+END
+GL_ARB_shadow_ambient
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_shadow_ambient
+END
+GL_SGIX_texture_add_env
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_texture_add_env
+END
+GL_SUN_read_video_pixels
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SUN_read_video_pixels
+END
+GL_NV_depth_range_unclamped
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_depth_range_unclamped
+END
+GL_EXT_blend_subtract
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_blend_subtract
+END
+GL_EXT_packed_depth_stencil
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_packed_depth_stencil
+END
+GL_EXT_histogram
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_histogram
+END
+GL_ARB_fragment_shader
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_fragment_shader
+END
+GL_SGIS_color_range
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_color_range
+END
+GLX_MESA_set_3dfx_mode
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_MESA_set_3dfx_mode
+END
+WGL_NV_swap_group
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_NV_swap_group
+END
+WGL_NV_video_output
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_NV_video_output
+END
+GLX_EXT_fbconfig_packed_float
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_EXT_fbconfig_packed_float
+END
+GL_S3_s3tc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_S3_s3tc
+END
+GL_EXT_shared_texture_palette
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_shared_texture_palette
+END
+GL_EXT_draw_range_elements
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_draw_range_elements
+END
+GL_EXT_vertex_array_bgra
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_vertex_array_bgra
+END
+GL_APPLE_pixel_buffer
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_pixel_buffer
+END
+GLX_SGI_video_sync
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGI_video_sync
+END
+GL_EXT_texture_sRGB
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_sRGB
+END
+GL_ATI_vertex_array_object
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_vertex_array_object
+END
+GLX_SGIX_fbconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGIX_fbconfig
+END
+GL_ARB_multitexture
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_multitexture
+END
+GL_SUNX_constant_data
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SUNX_constant_data
+END
+GL_EXT_pixel_transform_color_table
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_pixel_transform_color_table
+END
+GL_APPLE_fence
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_fence
+END
+GL_OML_subsample
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_OML_subsample
+END
+GL_ARB_shader_objects
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_shader_objects
+END
+WGL_ARB_pbuffer
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ARB_pbuffer
+END
+GLX_EXT_scene_marker
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_EXT_scene_marker
+END
+GL_SGIX_texture_range
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_texture_range
+END
+GL_EXT_texture3D
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture3D
+END
+GL_ARB_depth_texture
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_depth_texture
+END
+GL_APPLE_element_array
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_element_array
+END
+GL_ATI_vertex_streams
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_vertex_streams
+END
+GLX_OML_swap_method
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_OML_swap_method
+END
+GL_EXT_bindable_uniform
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_bindable_uniform
+END
+GL_EXT_coordinate_frame
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_coordinate_frame
+END
+WGL_EXT_display_color_table
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_EXT_display_color_table
+END
+GL_ATI_separate_stencil
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_separate_stencil
+END
+GL_ATI_texture_env_combine3
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_texture_env_combine3
+END
+GL_EXT_gpu_program_parameters
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_gpu_program_parameters
+END
+GL_OES_read_format
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_OES_read_format
+END
+GL_EXT_packed_float
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_packed_float
+END
+GL_SGIX_ycrcb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_ycrcb
+END
+GLX_ATI_pixel_format_float
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_ATI_pixel_format_float
+END
+GL_ARB_vertex_blend
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_vertex_blend
+END
+GL_APPLE_vertex_array_range
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_vertex_array_range
+END
+GLX_ARB_framebuffer_sRGB
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_ARB_framebuffer_sRGB
+END
+GL_NV_framebuffer_multisample_coverage
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_framebuffer_multisample_coverage
+END
+GL_EXT_blend_logic_op
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_blend_logic_op
+END
+GL_ARB_texture_cube_map
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_cube_map
+END
+GL_EXT_texture_env_dot3
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_env_dot3
+END
+GL_APPLE_specular_vector
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_specular_vector
+END
+GL_SGIS_generate_mipmap
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_generate_mipmap
+END
+GLX_ARB_create_context
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_ARB_create_context
+END
+GL_SGIX_async_histogram
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_async_histogram
+END
+GL_ATI_fragment_shader
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_fragment_shader
+END
+GL_EXT_texture_env
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_env
+END
+WGL_EXT_pixel_format_packed_float
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_EXT_pixel_format_packed_float
+END
+GL_NV_float_buffer
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_float_buffer
+END
+GL_EXT_vertex_weighting
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_vertex_weighting
+END
+GL_EXT_index_func
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_index_func
+END
+GL_EXT_shadow_funcs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_shadow_funcs
+END
+GL_ARB_point_sprite
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_point_sprite
+END
+GL_NV_vertex_program
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_vertex_program
+END
+GL_EXT_multi_draw_arrays
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_multi_draw_arrays
+END
+WGL_EXT_framebuffer_sRGB
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_EXT_framebuffer_sRGB
+END
+GLX_SGIS_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGIS_multisample
+END
+GL_EXT_422_pixels
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_422_pixels
+END
+GL_SGIX_fog_offset
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_fog_offset
+END
+GL_EXT_stencil_two_side
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_stencil_two_side
+END
+GL_EXT_scene_marker
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_scene_marker
+END
+GLX_ARB_fbconfig_float
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_ARB_fbconfig_float
+END
+WGL_NV_gpu_affinity
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_NV_gpu_affinity
+END
+GLX_NV_swap_group
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_NV_swap_group
+END
+GL_APPLE_vertex_array_object
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_vertex_array_object
+END
+GL_IBM_cull_vertex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_IBM_cull_vertex
+END
+GL_HP_occlusion_test
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_HP_occlusion_test
+END
+GLX_EXT_import_context
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_EXT_import_context
+END
+GL_ARB_texture_mirrored_repeat
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_mirrored_repeat
+END
+GL_ARB_vertex_shader
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_vertex_shader
+END
+WGL_NV_float_buffer
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_NV_float_buffer
+END
+GL_ARB_geometry_shader4
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_geometry_shader4
+END
+GL_SUN_global_alpha
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SUN_global_alpha
+END
+GL_NV_texture_env_combine4
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_texture_env_combine4
+END
+GL_NV_fragment_program
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_fragment_program
+END
+WGL_ARB_extensions_string
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ARB_extensions_string
+END
+WGL_NV_present_video
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_NV_present_video
+END
+WGL_I3D_image_buffer
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_I3D_image_buffer
+END
+GL_EXT_paletted_texture
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_paletted_texture
+END
+GL_ARB_occlusion_query
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_occlusion_query
+END
+GL_ARB_texture_rectangle
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_rectangle
+END
+GL_ARB_texture_rg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_rg
+END
+WGL_NV_render_depth_texture
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_NV_render_depth_texture
+END
+GL_EXT_texture_array
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_array
+END
+GL_EXT_texture_edge_clamp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_edge_clamp
+END
+GL_EXT_texture
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture
+END
+WGL_EXT_make_current_read
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_EXT_make_current_read
+END
+WGL_NV_vertex_array_range
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_NV_vertex_array_range
+END
+GL_GREMEDY_string_marker
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_GREMEDY_string_marker
+END
+GL_IBM_multimode_draw_arrays
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_IBM_multimode_draw_arrays
+END
+GL_EXT_texture_env_combine
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_env_combine
+END
+GL_ARB_shading_language_100
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_shading_language_100
+END
+GL_ARB_framebuffer_sRGB
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_framebuffer_sRGB
+END
+GL_EXT_texture_mirror_clamp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_mirror_clamp
+END
+GL_MESA_ycbcr_texture
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_MESA_ycbcr_texture
+END
+GL_NV_fog_distance
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_fog_distance
+END
+GL_EXT_point_parameters
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_point_parameters
+END
+GL_EXT_depth_bounds_test
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_depth_bounds_test
+END
+GL_EXT_Cg_shader
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_Cg_shader
+END
+GL_INTEL_texture_scissor
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_INTEL_texture_scissor
+END
+GLX_SGIX_visual_select_group
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGIX_visual_select_group
+END
+GL_NV_copy_depth_to_color
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_copy_depth_to_color
+END
+GLX_SGI_swap_control
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGI_swap_control
+END
+WGL_ARB_pixel_format
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ARB_pixel_format
+END
+GL_SGIX_reference_plane
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_reference_plane
+END
+GL_GREMEDY_frame_terminator
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_GREMEDY_frame_terminator
+END
+GLX_OML_sync_control
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_OML_sync_control
+END
+GL_EXT_polygon_offset
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_polygon_offset
+END
+GL_SGIX_texture_coordinate_clamp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_texture_coordinate_clamp
+END
+GL_EXT_framebuffer_blit
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_framebuffer_blit
+END
+GL_NV_fragment_program2
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_fragment_program2
+END
+GL_IBM_rasterpos_clip
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_IBM_rasterpos_clip
+END
+GL_ARB_half_float_vertex
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_half_float_vertex
+END
+GL_NV_fragment_program4
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_fragment_program4
+END
+GLX_NV_video_output
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_NV_video_output
+END
+GL_SGIS_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_multisample
+END
+GL_NV_depth_clamp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_depth_clamp
+END
+GL_SGIS_texture_edge_clamp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_texture_edge_clamp
+END
+GL_SGIS_pixel_texture
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_pixel_texture
+END
+GL_ARB_texture_env_combine
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_env_combine
+END
+GL_HP_convolution_border_modes
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_HP_convolution_border_modes
+END
+GL_EXT_subtexture
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_subtexture
+END
+GL_EXT_packed_pixels
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_packed_pixels
+END
+GL_ARB_texture_border_clamp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_border_clamp
+END
+GL_SGIX_texture_multi_buffer
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_texture_multi_buffer
+END
+GL_NV_parameter_buffer_object
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_parameter_buffer_object
+END
+WGL_ATI_pixel_format_float
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ATI_pixel_format_float
+END
+GL_ATI_draw_buffers
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_draw_buffers
+END
+GL_SGIS_detail_texture
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_detail_texture
+END
+GL_SGIX_async_pixel
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_async_pixel
+END
+GL_APPLE_ycbcr_422
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_ycbcr_422
+END
+GL_HP_texture_lighting
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_HP_texture_lighting
+END
+GL_SGIS_texture4D
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_texture4D
+END
+GL_SGIX_depth_texture
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_depth_texture
+END
+GLX_EXT_visual_rating
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_EXT_visual_rating
+END
+GL_SGIX_shadow
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_shadow
+END
+GL_SUN_mesh_array
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SUN_mesh_array
+END
+GL_EXT_texture_compression_rgtc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_compression_rgtc
+END
+GL_EXT_separate_specular_color
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_separate_specular_color
+END
+GL_SGIX_fragment_specular_lighting
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_fragment_specular_lighting
+END
+GL_ATI_element_array
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_element_array
+END
+GLX_MESA_pixmap_colormap
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_MESA_pixmap_colormap
+END
+WGL_ARB_buffer_region
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ARB_buffer_region
+END
+GL_NV_pixel_data_range
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_pixel_data_range
+END
+GL_ARB_texture_env_crossbar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_env_crossbar
+END
+GL_APPLE_texture_range
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_texture_range
+END
+GL_EXT_convolution
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_convolution
+END
+GLX_SGIS_shared_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGIS_shared_multisample
+END
+GL_NV_packed_depth_stencil
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_packed_depth_stencil
+END
+GL_SGIX_interlace
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_interlace
+END
+WGL_EXT_depth_float
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_EXT_depth_float
+END
+GL_SUN_vertex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SUN_vertex
+END
+GL_EXT_blend_func_separate
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_blend_func_separate
+END
+GL_ARB_texture_buffer_object
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_buffer_object
+END
+GL_HP_image_transform
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_HP_image_transform
+END
+WGL_3DFX_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_3DFX_multisample
+END
+WGL_I3D_gamma
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_I3D_gamma
+END
+GL_INGR_color_clamp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_INGR_color_clamp
+END
+GL_EXT_copy_texture
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_copy_texture
+END
+GLX_MESA_agp_offset
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_MESA_agp_offset
+END
+GL_NV_register_combiners2
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_register_combiners2
+END
+GL_EXT_draw_buffers2
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_draw_buffers2
+END
+GL_ATIX_texture_env_route
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATIX_texture_env_route
+END
+GL_EXT_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_multisample
+END
+GL_IBM_vertex_array_lists
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_IBM_vertex_array_lists
+END
+GL_EXT_pixel_buffer_object
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_pixel_buffer_object
+END
+GL_EXT_framebuffer_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_framebuffer_multisample
+END
+GL_MESA_resize_buffers
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_MESA_resize_buffers
+END
+GL_ATI_pn_triangles
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_pn_triangles
+END
+GL_ARB_half_float_pixel
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_half_float_pixel
+END
+GL_ARB_texture_env_dot3
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_env_dot3
+END
+GL_SGIX_fog_texture
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_fog_texture
+END
+GL_SGIX_texture_lod_bias
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_texture_lod_bias
+END
+GL_ARB_texture_non_power_of_two
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_non_power_of_two
+END
+GL_ATI_map_object_buffer
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_map_object_buffer
+END
+WGL_I3D_digital_video_control
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_I3D_digital_video_control
+END
+GL_EXT_texture_perturb_normal
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_perturb_normal
+END
+GL_EXT_abgr
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_abgr
+END
+GL_SGIX_tag_sample_buffer
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_tag_sample_buffer
+END
+GL_NV_explicit_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_explicit_multisample
+END
+GL_NV_texture_compression_vtc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_texture_compression_vtc
+END
+WGL_EXT_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_EXT_multisample
+END
+GL_EXT_texture_compression_latc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_compression_latc
+END
+GL_EXT_texture_object
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_object
+END
+GL_SGIX_list_priority
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_list_priority
+END
+GL_EXT_texture_swizzle
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_swizzle
+END
+GL_EXT_index_texture
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_index_texture
+END
+WGL_ATI_render_texture_rectangle
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ATI_render_texture_rectangle
+END
+GL_NV_vertex_program1_1
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_vertex_program1_1
+END
+WGL_I3D_genlock
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_I3D_genlock
+END
+GL_EXT_stencil_wrap
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_stencil_wrap
+END
+GL_NV_vertex_array_range2
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_vertex_array_range2
+END
+WGL_ARB_framebuffer_sRGB
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ARB_framebuffer_sRGB
+END
+GL_ARB_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_multisample
+END
+GL_ATI_shader_texture_lod
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_shader_texture_lod
+END
+GL_MESAX_texture_stack
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_MESAX_texture_stack
+END
+GL_APPLE_client_storage
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_client_storage
+END
+GL_ARB_pixel_buffer_object
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_pixel_buffer_object
+END
+GLX_EXT_visual_info
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_EXT_visual_info
+END
+GL_ARB_transpose_matrix
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_transpose_matrix
+END
+GL_WIN_specular_fog
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_WIN_specular_fog
+END
+GL_NV_texture_rectangle
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_texture_rectangle
+END
+GL_NV_evaluators
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_evaluators
+END
+GLX_NV_float_buffer
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_NV_float_buffer
+END
+WGL_ARB_pixel_format_float
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ARB_pixel_format_float
+END
+GL_EXT_vertex_array
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_vertex_array
+END
+GL_EXT_pixel_transform
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_pixel_transform
+END
+GL_EXT_misc_attribute
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_misc_attribute
+END
+GL_SGIX_sprite
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_sprite
+END
+GL_ATI_envmap_bumpmap
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_envmap_bumpmap
+END
+GL_NV_conditional_render
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_conditional_render
+END
+GL_ARB_map_buffer_range
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_map_buffer_range
+END
+WGL_ARB_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ARB_multisample
+END
+GL_NV_geometry_shader4
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_geometry_shader4
+END
+GL_ARB_draw_instanced
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_draw_instanced
+END
+GL_ARB_texture_float
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_float
+END
+GL_APPLE_float_pixels
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_float_pixels
+END
+GL_SGIS_texture_filter4
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_texture_filter4
+END
+GL_OML_resample
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_OML_resample
+END
+GL_SGIX_clipmap
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_clipmap
+END
+GL_REND_screen_coordinates
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_REND_screen_coordinates
+END
+GL_EXT_stencil_clear_tag
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_stencil_clear_tag
+END
+GL_ATI_texture_float
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_texture_float
+END
+GL_SGIX_convolution_accuracy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_convolution_accuracy
+END
+GL_SUN_triangle_list
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SUN_triangle_list
+END
+GL_SGI_color_table
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGI_color_table
+END
+GL_NV_vertex_array_range
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_vertex_array_range
+END
+GL_ATI_texture_mirror_once
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_texture_mirror_once
+END
+GL_ARB_point_parameters
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_point_parameters
+END
+GLX_NV_present_video
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_NV_present_video
+END
+GL_OES_byte_coordinates
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_OES_byte_coordinates
+END
+GL_NV_texgen_emboss
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_texgen_emboss
+END
+GL_NV_blend_square
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_blend_square
+END
+GL_APPLE_flush_buffer_range
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_flush_buffer_range
+END
+GL_EXT_fragment_lighting
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_fragment_lighting
+END
+GLX_MESA_copy_sub_buffer
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_MESA_copy_sub_buffer
+END
+WGL_ARB_render_texture
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ARB_render_texture
+END
+GL_ATIX_vertex_shader_output_point_size
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATIX_vertex_shader_output_point_size
+END
+GL_SGIX_pixel_texture_bits
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_pixel_texture_bits
+END
+GL_EXT_clip_volume_hint
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_clip_volume_hint
+END
+WGL_EXT_swap_control
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_EXT_swap_control
+END
+WGL_ARB_create_context
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ARB_create_context
+END
+GL_EXT_vertex_shader
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_vertex_shader
+END
+GL_EXT_timer_query
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_timer_query
+END
+GL_EXT_gpu_shader4
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_gpu_shader4
+END
+GL_ARB_vertex_array_object
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_vertex_array_object
+END
+GL_NV_occlusion_query
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_occlusion_query
+END
+GL_NV_register_combiners
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_register_combiners
+END
+GL_SGIX_blend_alpha_minmax
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_blend_alpha_minmax
+END
+WGL_EXT_extensions_string
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_EXT_extensions_string
+END
+GL_ARB_imaging
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_imaging
+END
+GL_KTX_buffer_region
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_KTX_buffer_region
+END
+GLX_SGI_cushion
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGI_cushion
+END
+GL_EXT_texture_rectangle
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_rectangle
+END
+GLX_SUN_video_resize
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SUN_video_resize
+END
+GL_SGI_color_matrix
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGI_color_matrix
+END
+GL_SGIS_sharpen_texture
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_sharpen_texture
+END
+GL_ATI_texture_compression_3dc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_texture_compression_3dc
+END
+GL_SGIX_async
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_async
+END
+GL_SGIX_vertex_preclip_hint
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_vertex_preclip_hint
+END
+GLX_SGIX_swap_group
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGIX_swap_group
+END
+GL_ARB_shadow
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_shadow
+END
+GLX_SGIX_pbuffer
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGIX_pbuffer
+END
+GLX_SGIS_blended_overlay
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGIS_blended_overlay
+END
+GL_NV_texture_shader2
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_texture_shader2
+END
+GL_EXT_texture_lod_bias
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_lod_bias
+END
+GL_NV_texture_shader3
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_texture_shader3
+END
+WGL_NV_render_texture_rectangle
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_NV_render_texture_rectangle
+END
+GL_SGIX_shadow_ambient
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_shadow_ambient
+END
+GL_INGR_interlace_read
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_INGR_interlace_read
+END
+GL_ARB_color_buffer_float
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_color_buffer_float
+END
+GL_EXT_fog_coord
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_fog_coord
+END
+GL_3DFX_tbuffer
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_3DFX_tbuffer
+END
+GLX_ATI_render_texture
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_ATI_render_texture
+END
+GL_ARB_texture_compression_rgtc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_texture_compression_rgtc
+END
+GL_SGIS_texture_select
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_texture_select
+END
+GL_WIN_phong_shading
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_WIN_phong_shading
+END
+GLX_SGIX_hyperpipe
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGIX_hyperpipe
+END
+GL_ARB_vertex_program
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_vertex_program
+END
+GL_SUN_convolution_border_modes
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SUN_convolution_border_modes
+END
+GL_IBM_texture_mirrored_repeat
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_IBM_texture_mirrored_repeat
+END
+GL_SGIX_pixel_texture
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_pixel_texture
+END
+GL_SUN_slice_accum
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SUN_slice_accum
+END
+GL_MESA_window_pos
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_MESA_window_pos
+END
+GL_ARB_framebuffer_object
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_framebuffer_object
+END
+GL_SGIS_texture_border_clamp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIS_texture_border_clamp
+END
+GL_EXT_transform_feedback
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_transform_feedback
+END
+GL_EXT_texture_filter_anisotropic
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_filter_anisotropic
+END
+GL_EXT_blend_color
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_blend_color
+END
+GL_OES_single_precision
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_OES_single_precision
+END
+GL_ATI_vertex_attrib_array_object
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_vertex_attrib_array_object
+END
+GL_EXT_index_material
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_index_material
+END
+GL_EXT_draw_instanced
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_draw_instanced
+END
+GL_ARB_depth_buffer_float
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_depth_buffer_float
+END
+GL_ARB_matrix_palette
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_matrix_palette
+END
+GL_3DFX_texture_compression_FXT1
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_3DFX_texture_compression_FXT1
+END
+GL_NV_gpu_program4
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_gpu_program4
+END
+GL_NV_present_video
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_present_video
+END
+GL_MESA_pack_invert
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_MESA_pack_invert
+END
+GL_ARB_window_pos
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ARB_window_pos
+END
+GL_ATIX_texture_env_combine3
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATIX_texture_env_combine3
+END
+GL_OES_compressed_paletted_texture
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_OES_compressed_paletted_texture
+END
+GL_EXT_index_array_formats
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_index_array_formats
+END
+GL_NV_vertex_program2_option
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_vertex_program2_option
+END
+GL_PGI_vertex_hints
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_PGI_vertex_hints
+END
+GL_NV_point_sprite
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_point_sprite
+END
+GL_NV_transform_feedback
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_transform_feedback
+END
+GLX_ARB_get_proc_address
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_ARB_get_proc_address
+END
+GL_NV_multisample_filter_hint
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_multisample_filter_hint
+END
+.dummy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/.dummy
+END
+GLX_MESA_release_buffers
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_MESA_release_buffers
+END
+GL_NV_light_max_exponent
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_light_max_exponent
+END
+GL_EXT_texture_compression_dxt1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_compression_dxt1
+END
+GL_EXT_rescale_normal
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_rescale_normal
+END
+GL_IBM_static_data
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_IBM_static_data
+END
+GL_EXT_compiled_vertex_array
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_compiled_vertex_array
+END
+GL_NV_texgen_reflection
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_texgen_reflection
+END
+GLX_3DFX_multisample
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_3DFX_multisample
+END
+GLX_SGIX_video_resize
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_SGIX_video_resize
+END
+GLX_EXT_texture_from_pixmap
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_EXT_texture_from_pixmap
+END
+GLX_EXT_framebuffer_sRGB
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GLX_EXT_framebuffer_sRGB
+END
+GL_EXT_texture_cube_map
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_cube_map
+END
+GL_EXT_direct_state_access
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_direct_state_access
+END
+GL_SGIX_ir_instrument1
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_SGIX_ir_instrument1
+END
+GL_APPLE_transform_hint
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_APPLE_transform_hint
+END
+GL_NV_primitive_restart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_primitive_restart
+END
+GL_NV_fragment_program_option
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_fragment_program_option
+END
+WGL_ARB_make_current_read
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/WGL_ARB_make_current_read
+END
+GL_EXT_texture_shared_exponent
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_EXT_texture_shared_exponent
+END
+GL_NV_texture_shader
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_NV_texture_shader
+END
+GL_ATI_text_fragment_shader
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/3172/trunk/meshlab/src/external/glew-1.5.1/auto/extensions/GL_ATI_text_fragment_shader
+END

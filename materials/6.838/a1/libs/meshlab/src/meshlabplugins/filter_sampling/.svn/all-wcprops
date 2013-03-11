@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/6094/trunk/meshlab/src/meshlabplugins/filter_sampling
+END
+filter_sampling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6094/trunk/meshlab/src/meshlabplugins/filter_sampling/filter_sampling.cpp
+END
+filter_sampling.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5325/trunk/meshlab/src/meshlabplugins/filter_sampling/filter_sampling.h
+END
+filter_sampling.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5154/trunk/meshlab/src/meshlabplugins/filter_sampling/filter_sampling.pro
+END

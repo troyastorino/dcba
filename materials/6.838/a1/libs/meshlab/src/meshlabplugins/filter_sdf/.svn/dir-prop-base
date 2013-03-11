@@ -1,0 +1,7 @@
+K 10
+svn:ignore
+V 29
+filter_sdf.pro.user
+Makefile
+
+END

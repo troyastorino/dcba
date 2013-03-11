@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/shaders
+END
+reproj.frag
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/shaders/reproj.frag
+END
+weight_gen.vert
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/shaders/weight_gen.vert
+END
+reproj.vert
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/shaders/reproj.vert
+END
+visibility_check.frag
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/shaders/visibility_check.frag
+END
+visibility_check.vert
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/shaders/visibility_check.vert
+END
+weight_gen.frag
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/shaders/weight_gen.frag
+END

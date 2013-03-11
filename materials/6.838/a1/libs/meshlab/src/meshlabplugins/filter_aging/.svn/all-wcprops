@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/filter_aging
+END
+filter_aging.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5788/trunk/meshlab/src/meshlabplugins/filter_aging/filter_aging.h
+END
+edgepred.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5956/trunk/meshlab/src/meshlabplugins/filter_aging/edgepred.h
+END
+filter_aging.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5180/trunk/meshlab/src/meshlabplugins/filter_aging/filter_aging.pro
+END
+filter_aging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/filter_aging/filter_aging.cpp
+END

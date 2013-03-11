@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/5797/trunk/meshlab/src/meshlabplugins/filter_poisson
+END
+filter_poisson.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5797/trunk/meshlab/src/meshlabplugins/filter_poisson/filter_poisson.cpp
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/1608/trunk/meshlab/src/meshlabplugins/filter_poisson/license.txt
+END
+filter_poisson.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/4084/trunk/meshlab/src/meshlabplugins/filter_poisson/filter_poisson.h
+END
+filter_poisson.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/3823/trunk/meshlab/src/meshlabplugins/filter_poisson/filter_poisson.pro
+END

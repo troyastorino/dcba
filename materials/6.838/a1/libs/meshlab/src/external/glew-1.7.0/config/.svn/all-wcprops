@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config
+END
+Makefile.solaris-gcc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.solaris-gcc
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/version
+END
+Makefile.freebsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.freebsd
+END
+Makefile.irix
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.irix
+END
+Makefile.solaris
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.solaris
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/config.guess
+END
+Makefile.darwin-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.darwin-x86_64
+END
+Makefile.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.mingw
+END
+Makefile.linux-mingw32
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.linux-mingw32
+END
+Makefile.darwin
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.darwin
+END
+Makefile.kfreebsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.kfreebsd
+END
+Makefile.linux-mingw64
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.linux-mingw64
+END
+Makefile.gnu
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.gnu
+END
+Makefile.cygming
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.cygming
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.linux
+END
+Makefile.cygwin
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5395/trunk/meshlab/src/external/glew-1.7.0/config/Makefile.cygwin
+END

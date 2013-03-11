@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/meshlab/!svn/ver/5110/trunk/meshlab/src/meshlab/images/cursors
+END
+sel_rect.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/1253/trunk/meshlab/src/meshlab/images/cursors/sel_rect.png
+END
+plain_pan.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/1232/trunk/meshlab/src/meshlab/images/cursors/plain_pan.png
+END
+plain_trackball.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/1232/trunk/meshlab/src/meshlab/images/cursors/plain_trackball.png
+END
+plain.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/1232/trunk/meshlab/src/meshlab/images/cursors/plain.png
+END
+sel_rect_plus.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/1232/trunk/meshlab/src/meshlab/images/cursors/sel_rect_plus.png
+END
+plain_eye.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/1232/trunk/meshlab/src/meshlab/images/cursors/plain_eye.png
+END
+plain_zoom.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/1232/trunk/meshlab/src/meshlab/images/cursors/plain_zoom.png
+END
+plain_pick.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5110/trunk/meshlab/src/meshlab/images/cursors/plain_pick.png
+END
+paint.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/1232/trunk/meshlab/src/meshlab/images/cursors/paint.png
+END
+sel_rect_minus.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/1232/trunk/meshlab/src/meshlab/images/cursors/sel_rect_minus.png
+END

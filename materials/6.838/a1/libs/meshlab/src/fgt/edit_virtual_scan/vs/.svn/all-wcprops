@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/5157/trunk/meshlab/src/fgt/edit_virtual_scan/vs
+END
+resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/vs/resources.h
+END
+povs_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/vs/povs_generator.h
+END
+simple_renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5157/trunk/meshlab/src/fgt/edit_virtual_scan/vs/simple_renderer.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/vs/utils.h
+END
+sampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5157/trunk/meshlab/src/fgt/edit_virtual_scan/vs/sampler.h
+END
+stages.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/4641/trunk/meshlab/src/fgt/edit_virtual_scan/vs/stages.h
+END

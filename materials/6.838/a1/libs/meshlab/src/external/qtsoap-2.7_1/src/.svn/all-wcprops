@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src
+END
+QtSoapTypeConstructor
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapTypeConstructor
+END
+QtSoapArrayIterator
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapArrayIterator
+END
+QtSoapSimpleType
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapSimpleType
+END
+QtSoapHttpTransport
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapHttpTransport
+END
+QtSoapStructIterator
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapStructIterator
+END
+qtsoap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/qtsoap.cpp
+END
+QtSoapQName
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapQName
+END
+qtsoap.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/qtsoap.h
+END
+qtsoap.pri
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/qtsoap.pri
+END
+QtSoapTypeFactory
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapTypeFactory
+END
+QtSoapArray
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapArray
+END
+QtSoapNamespaces
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapNamespaces
+END
+QtSoapType
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapType
+END
+QtSoapTypeConstructorBase
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapTypeConstructorBase
+END
+QtSoapStruct
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapStruct
+END
+QtSoapMessage
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/4715/trunk/meshlab/src/external/qtsoap-2.7_1/src/QtSoapMessage
+END

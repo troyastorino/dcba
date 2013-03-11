@@ -1,0 +1,73 @@
+10
+
+dir
+6096
+https://meshlab.svn.sourceforge.net/svnroot/meshlab/trunk/meshlab/src/fgt
+https://meshlab.svn.sourceforge.net/svnroot/meshlab
+
+
+
+2012-11-22T23:34:36.356106Z
+6023
+sabbadin89
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+324bb2ba-784c-0410-a299-e66b5c357fcb
+
+io_generative
+dir
+
+edit_topo
+dir
+
+filter_physics
+dir
+
+filter_text
+dir
+
+filter_break
+dir
+
+filter_geom
+dir
+
+edit_virtual_scan
+dir
+
+io_custom
+dir
+
+filter_scan_merging
+dir
+
+io_renderman
+dir
+
+edit_slice
+dir
+
+filter_shape
+dir
+
+filter_gears
+dir
+
+filter_waffle
+dir
+
+filter_hqrender
+dir
+

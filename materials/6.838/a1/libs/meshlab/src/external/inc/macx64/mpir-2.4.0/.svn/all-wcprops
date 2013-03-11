@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/5366/trunk/meshlab/src/external/inc/macx64/mpir-2.4.0
+END
+mpir.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5366/trunk/meshlab/src/external/inc/macx64/mpir-2.4.0/mpir.h
+END
+mpirxx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5366/trunk/meshlab/src/external/inc/macx64/mpir-2.4.0/mpirxx.h
+END

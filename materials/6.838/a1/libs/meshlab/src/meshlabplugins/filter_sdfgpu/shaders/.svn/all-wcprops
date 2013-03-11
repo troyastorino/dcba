@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_sdfgpu/shaders
+END
+vertexShaderDepthPeeling.vs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_sdfgpu/shaders/vertexShaderDepthPeeling.vs
+END
+obscurances.frag
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_sdfgpu/shaders/obscurances.frag
+END
+shaderDepthPeeling.fs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_sdfgpu/shaders/shaderDepthPeeling.fs
+END
+calculateSdf.frag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5316/trunk/meshlab/src/meshlabplugins/filter_sdfgpu/shaders/calculateSdf.frag
+END

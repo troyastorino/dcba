@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing
+END
+photoTexturing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/photoTexturing.cpp
+END
+edit_phototex_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/edit_phototex_factory.cpp
+END
+edit_phototexturing.pro
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/edit_phototexturing.pro
+END
+PhotoTexturingWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/PhotoTexturingWidget.cpp
+END
+photoTexturing.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/photoTexturing.h
+END
+edit_phototex_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/edit_phototex_factory.h
+END
+edit_phototexturing.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/edit_phototexturing.qrc
+END
+PhotoTexturingWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/PhotoTexturingWidget.h
+END

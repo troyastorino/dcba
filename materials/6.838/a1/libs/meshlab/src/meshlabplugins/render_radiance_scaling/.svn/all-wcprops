@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5645/trunk/meshlab/src/meshlabplugins/render_radiance_scaling
+END
+radianceScalingRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/5645/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/radianceScalingRenderer.cpp
+END
+radianceScalingRenderer.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/radianceScalingRenderer.qrc
+END
+radianceScalingRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5645/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/radianceScalingRenderer.h
+END
+textureParams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/textureParams.cpp
+END
+textureFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/textureFormat.cpp
+END
+textureParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/4394/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/textureParams.h
+END
+framebufferObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/framebufferObject.cpp
+END
+textureFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/4394/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/textureFormat.h
+END
+gpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/gpl.txt
+END
+framebufferObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/framebufferObject.h
+END
+shaderDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/shaderDialog.ui
+END
+gpuShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/gpuShader.cpp
+END
+render_radiance_scaling.pro
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/render_radiance_scaling.pro
+END
+gpuProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/gpuProgram.cpp
+END
+shaderDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/4555/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/shaderDialog.cpp
+END
+gpuShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/gpuShader.h
+END
+gpuProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5097/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/gpuProgram.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/readme.txt
+END
+shaderDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/4392/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/shaderDialog.h
+END
+texture2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/4394/trunk/meshlab/src/meshlabplugins/render_radiance_scaling/texture2D.h
+END

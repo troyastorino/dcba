@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/5941/trunk/meshlab/src/sampleplugins/sample_pclfilter
+END
+sample_pclfilter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5941/trunk/meshlab/src/sampleplugins/sample_pclfilter/sample_pclfilter.pro
+END
+sample_pclfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/5941/trunk/meshlab/src/sampleplugins/sample_pclfilter/sample_pclfilter.cpp
+END
+sample_pclfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5941/trunk/meshlab/src/sampleplugins/sample_pclfilter/sample_pclfilter.h
+END

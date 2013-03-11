@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/5415/trunk/meshlab/src/meshlabplugins/io_ctm
+END
+io_ctm.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/5339/trunk/meshlab/src/meshlabplugins/io_ctm/io_ctm.h
+END
+io_ctm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/5397/trunk/meshlab/src/meshlabplugins/io_ctm/io_ctm.pro
+END
+io_ctm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/5415/trunk/meshlab/src/meshlabplugins/io_ctm/io_ctm.cpp
+END

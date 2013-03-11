@@ -1,0 +1,40 @@
+10
+
+dir
+6096
+https://meshlab.svn.sourceforge.net/svnroot/meshlab/trunk/meshlab/src/external/inc
+https://meshlab.svn.sourceforge.net/svnroot/meshlab
+
+
+
+2011-09-16T12:04:53.356066Z
+5366
+cignoni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+324bb2ba-784c-0410-a299-e66b5c357fcb
+
+macx64
+dir
+
+win32-msvc2008
+dir
+
+macx
+dir
+
+win32-gcc
+dir
+

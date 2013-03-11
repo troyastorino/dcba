@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/5713/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds
+END
+lib3ds.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5713/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/lib3ds.pro
+END
+mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/mesh.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/Makefile.in
+END
+types.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/types.txt
+END
+light.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/light.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/io.c
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/types.h
+END
+quat.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/quat.c
+END
+light.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/light.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/io.h
+END
+quat.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/quat.h
+END
+background.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/background.c
+END
+background.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/background.h
+END
+tracks.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/tracks.c
+END
+tracks.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/tracks.h
+END
+material.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/material.c
+END
+vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/vector.c
+END
+material.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/material.h
+END
+matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/matrix.c
+END
+atmosphere.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/atmosphere.c
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/vector.h
+END
+chunk.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/chunk.c
+END
+tcb.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/tcb.c
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/matrix.h
+END
+chunktable.sed
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/chunktable.sed
+END
+atmosphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/atmosphere.h
+END
+chunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/chunk.h
+END
+ease.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/ease.c
+END
+tcb.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/tcb.h
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/file.c
+END
+viewport.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/viewport.c
+END
+ease.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/ease.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/file.h
+END
+viewport.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/viewport.h
+END
+shadow.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/shadow.c
+END
+node.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/node.c
+END
+chunktable.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/chunktable.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/Makefile.am
+END
+camera.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/camera.c
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/node.h
+END
+shadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/shadow.h
+END
+mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/mesh.c
+END
+camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3080/trunk/meshlab/src/external/lib3ds-1.3.0/lib3ds/camera.h
+END

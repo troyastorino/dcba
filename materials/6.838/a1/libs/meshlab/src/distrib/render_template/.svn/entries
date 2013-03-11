@@ -1,0 +1,58 @@
+10
+
+dir
+6096
+https://meshlab.svn.sourceforge.net/svnroot/meshlab/trunk/meshlab/src/distrib/render_template
+https://meshlab.svn.sourceforge.net/svnroot/meshlab
+
+
+
+2010-03-25T11:42:10.742417Z
+4118
+cignoni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+324bb2ba-784c-0410-a299-e66b5c357fcb
+
+default
+dir
+
+meshScale
+dir
+
+topViewLight
+dir
+
+lightRotation
+dir
+
+cameraRotation
+dir
+
+museum
+dir
+
+meshRotation
+dir
+
+room
+dir
+
+topView
+dir
+
+onlyMesh
+dir
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_hole
+END
+edit_hole.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_hole/edit_hole.qrc
+END
+edit_hole.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_hole/edit_hole.h
+END
+fgtBridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_hole/fgtBridge.h
+END
+fillerDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_hole/fillerDialog.h
+END
+edit_hole_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_hole/edit_hole_factory.cpp
+END
+holeSetManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5886/trunk/meshlab/src/meshlabplugins/edit_hole/holeSetManager.h
+END
+holeListModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5834/trunk/meshlab/src/meshlabplugins/edit_hole/holeListModel.cpp
+END
+edit_hole.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5804/trunk/meshlab/src/meshlabplugins/edit_hole/edit_hole.ui
+END
+edit_hole_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_hole/edit_hole_factory.h
+END
+holeListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5834/trunk/meshlab/src/meshlabplugins/edit_hole/holeListModel.h
+END
+edit_hole.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_hole/edit_hole.pro
+END
+edit_hole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_hole/edit_hole.cpp
+END
+fgtHole.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5886/trunk/meshlab/src/meshlabplugins/edit_hole/fgtHole.h
+END
+fillerDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_hole/fillerDialog.cpp
+END

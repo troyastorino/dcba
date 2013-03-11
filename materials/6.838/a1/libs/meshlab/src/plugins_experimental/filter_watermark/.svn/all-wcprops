@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5179/trunk/meshlab/src/plugins_experimental/filter_watermark
+END
+utilsWatermark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5179/trunk/meshlab/src/plugins_experimental/filter_watermark/utilsWatermark.cpp
+END
+filter_watermark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5179/trunk/meshlab/src/plugins_experimental/filter_watermark/filter_watermark.pro
+END
+ERF.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5179/trunk/meshlab/src/plugins_experimental/filter_watermark/ERF.h
+END
+filter_watermark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5179/trunk/meshlab/src/plugins_experimental/filter_watermark/filter_watermark.cpp
+END
+utilsWatermark.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5179/trunk/meshlab/src/plugins_experimental/filter_watermark/utilsWatermark.h
+END
+filter_watermark.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5179/trunk/meshlab/src/plugins_experimental/filter_watermark/filter_watermark.h
+END

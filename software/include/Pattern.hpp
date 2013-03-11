@@ -7,30 +7,29 @@
 
 class Pattern {
 protected:
-  const ProjectorType type;
-private:
-  Pattern();
+  const Projector::ProjectorType type;
+  Pattern(const Projector::ProjectorType type) : type(type) {};
 };
 
 class StaticPattern : Pattern {
 public:
-  StaticPattern() : type(ProjectorType::STATIC_LED);
+  StaticPattern() : Pattern(Projector::STATIC_LED) {};
 };
 
 class DLPPattern : Pattern {
 protected:
   const cv::Mat* image;
 public:
-  DLPPattern(const cv::Mat* img) : type(ProjectorType::DLP), image(img);
+  DLPPattern(const cv::Mat* img) : Pattern(Projector::DLP), image(img) {};
   ~DLPPattern();
 };
 
-class GeneratedPattern : Pattern {
+class GeneratedPattern {
 protected:
   const cv::Mat* image;
   const vector<Projector*> projectors;
 public:
-  GeneratedPattern(const cv::Mat* img, const vector<Projector*> p) : image(img), projectors(p);
+  GeneratedPattern(const cv::Mat* img, const vector<Projector*> p) : image(img), projectors(p) {};
 };
 
 #endif

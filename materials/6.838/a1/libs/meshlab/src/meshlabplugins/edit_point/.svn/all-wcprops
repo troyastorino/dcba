@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/edit_point
+END
+edit_point.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_point/edit_point.cpp
+END
+edit_point.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5660/trunk/meshlab/src/meshlabplugins/edit_point/edit_point.qrc
+END
+edit_point.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5678/trunk/meshlab/src/meshlabplugins/edit_point/edit_point.h
+END
+edit_point_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5660/trunk/meshlab/src/meshlabplugins/edit_point/edit_point_factory.cpp
+END
+connectedComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/edit_point/connectedComponent.h
+END
+edit_point_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5660/trunk/meshlab/src/meshlabplugins/edit_point/edit_point_factory.h
+END
+edit_point.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5660/trunk/meshlab/src/meshlabplugins/edit_point/edit_point.pro
+END
+knnGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/6064/trunk/meshlab/src/meshlabplugins/edit_point/knnGraph.h
+END

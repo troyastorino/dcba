@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/meshlab/!svn/ver/5292/trunk/meshlab/src/fgt/filter_waffle
+END
+filter_waffle.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/5292/trunk/meshlab/src/fgt/filter_waffle/filter_waffle.h
+END
+filter_waffle_functors.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5224/trunk/meshlab/src/fgt/filter_waffle/filter_waffle_functors.h
+END
+export_svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/5286/trunk/meshlab/src/fgt/filter_waffle/export_svg.h
+END
+filter_waffle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/5286/trunk/meshlab/src/fgt/filter_waffle/filter_waffle.pro
+END
+filter_waffle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/5292/trunk/meshlab/src/fgt/filter_waffle/filter_waffle.cpp
+END

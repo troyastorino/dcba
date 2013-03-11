@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/5542/trunk/meshlab/src/meshlabplugins/filter_sdf
+END
+filter_sdf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/4300/trunk/meshlab/src/meshlabplugins/filter_sdf/filter_sdf.pro
+END
+filter_sdf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5542/trunk/meshlab/src/meshlabplugins/filter_sdf/filter_sdf.cpp
+END
+mysampling.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/4300/trunk/meshlab/src/meshlabplugins/filter_sdf/mysampling.h
+END
+filter_sdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/4291/trunk/meshlab/src/meshlabplugins/filter_sdf/filter_sdf.h
+END
+horse.obj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/4273/trunk/meshlab/src/meshlabplugins/filter_sdf/horse.obj
+END
+filterinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/4291/trunk/meshlab/src/meshlabplugins/filter_sdf/filterinterface.h
+END
+filter_sdf+.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5154/trunk/meshlab/src/meshlabplugins/filter_sdf/filter_sdf+.cpp
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_texture
+END
+meshlab.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/edit_texture/meshlab.qrc
+END
+edit_texture_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/edit_texture/edit_texture_factory.h
+END
+textureeditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/edit_texture/textureeditor.ui
+END
+edit_texture.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/edit_texture/edit_texture.pro
+END
+edittexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6033/trunk/meshlab/src/meshlabplugins/edit_texture/edittexture.cpp
+END
+textureeditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/edit_texture/textureeditor.cpp
+END
+renderarea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5812/trunk/meshlab/src/meshlabplugins/edit_texture/renderarea.cpp
+END
+edittexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/edit_texture/edittexture.h
+END
+edit_texture_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/edit_texture/edit_texture_factory.cpp
+END
+textureeditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5578/trunk/meshlab/src/meshlabplugins/edit_texture/textureeditor.h
+END
+renderarea.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5184/trunk/meshlab/src/meshlabplugins/edit_texture/renderarea.h
+END

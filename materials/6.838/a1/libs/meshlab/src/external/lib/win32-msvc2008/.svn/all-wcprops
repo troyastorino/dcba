@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/5349/trunk/meshlab/src/external/lib/win32-msvc2008
+END
+mpir.lib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5349/trunk/meshlab/src/external/lib/win32-msvc2008/mpir.lib
+END
+mpirxx.lib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/5349/trunk/meshlab/src/external/lib/win32-msvc2008/mpirxx.lib
+END

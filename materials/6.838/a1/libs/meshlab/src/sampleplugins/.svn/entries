@@ -1,0 +1,58 @@
+10
+
+dir
+6096
+https://meshlab.svn.sourceforge.net/svnroot/meshlab/trunk/meshlab/src/sampleplugins
+https://meshlab.svn.sourceforge.net/svnroot/meshlab
+
+
+
+2012-11-28T09:45:07.378838Z
+6030
+cignoni
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+324bb2ba-784c-0410-a299-e66b5c357fcb
+
+sample_filtergpu
+dir
+
+samplefilterdyn
+dir
+
+io_m
+dir
+
+filtercreateiso
+dir
+
+sample_pclfilter
+dir
+
+sample_xmlfilter
+dir
+
+sampleedit
+dir
+
+samplefilter
+dir
+
+filtergeodesic
+dir
+
+sampleio
+dir
+

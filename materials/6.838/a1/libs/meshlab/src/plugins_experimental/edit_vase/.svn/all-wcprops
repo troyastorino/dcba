@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase
+END
+gridaccell.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/gridaccell.h
+END
+edit_vase_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/edit_vase_factory.h
+END
+vasewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/vasewidget.cpp
+END
+edit_vase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/edit_vase.cpp
+END
+vasewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/vasewidget.h
+END
+volume.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/volume.cpp
+END
+edit_vase.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/edit_vase.h
+END
+sphere.ply
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/sphere.ply
+END
+volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/volume.h
+END
+meshlab.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/meshlab.qrc
+END
+vase_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/vase_utils.cpp
+END
+edit_vase.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/edit_vase.pro
+END
+OLD.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/OLD.h
+END
+vase_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/vase_utils.h
+END
+balloon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/balloon.cpp
+END
+fieldinterpolator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/fieldinterpolator.cpp
+END
+myheap.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/myheap.h
+END
+gridaccell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/gridaccell.cpp
+END
+edit_vase_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/edit_vase_factory.cpp
+END
+cube_raytest_radial30.ply
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/cube_raytest_radial30.ply
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/README.txt
+END
+fieldinterpolator.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/fieldinterpolator.h
+END
+balloon.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/balloon.h
+END
+output_sphere_36_iters(no sliver removed).ply
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/output_sphere_36_iters(no%20sliver%20removed).ply
+END
+spheres.ply
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/spheres.ply
+END
+vasewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/5183/trunk/meshlab/src/plugins_experimental/edit_vase/vasewidget.ui
+END

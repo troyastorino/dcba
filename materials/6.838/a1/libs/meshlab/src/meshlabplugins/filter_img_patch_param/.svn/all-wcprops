@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/6029/trunk/meshlab/src/meshlabplugins/filter_img_patch_param
+END
+VisibleSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5715/trunk/meshlab/src/meshlabplugins/filter_img_patch_param/VisibleSet.h
+END
+filter_img_patch_param.pro
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5717/trunk/meshlab/src/meshlabplugins/filter_img_patch_param/filter_img_patch_param.pro
+END
+filter_img_patch_param.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5962/trunk/meshlab/src/meshlabplugins/filter_img_patch_param/filter_img_patch_param.cpp
+END
+TexturePainter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5733/trunk/meshlab/src/meshlabplugins/filter_img_patch_param/TexturePainter.cpp
+END
+Patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5516/trunk/meshlab/src/meshlabplugins/filter_img_patch_param/Patch.h
+END
+VisibilityCheck.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/5733/trunk/meshlab/src/meshlabplugins/filter_img_patch_param/VisibilityCheck.cpp
+END
+filter_img_patch_param.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/5717/trunk/meshlab/src/meshlabplugins/filter_img_patch_param/filter_img_patch_param.h
+END
+TexturePainter.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5717/trunk/meshlab/src/meshlabplugins/filter_img_patch_param/TexturePainter.h
+END
+VisibleSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5715/trunk/meshlab/src/meshlabplugins/filter_img_patch_param/VisibleSet.cpp
+END
+VisibilityCheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/6029/trunk/meshlab/src/meshlabplugins/filter_img_patch_param/VisibilityCheck.h
+END

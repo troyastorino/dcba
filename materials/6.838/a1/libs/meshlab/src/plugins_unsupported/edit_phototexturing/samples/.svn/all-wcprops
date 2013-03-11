@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/samples
+END
+cam4.cam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/samples/cam4.cam
+END
+cam5.cam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/samples/cam5.cam
+END
+cam6.cam
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/samples/cam6.cam
+END
+face_cam4.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/samples/face_cam4.png
+END
+face_with_uv_coords.obj
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/samples/face_with_uv_coords.obj
+END
+face_cam5.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/samples/face_cam5.png
+END
+face_cam6.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/samples/face_cam6.png
+END
+face_all_cams.ptcfg
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/samples/face_all_cams.ptcfg
+END
+face_without_uv_coords.obj
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/meshlab/!svn/ver/5165/trunk/meshlab/src/plugins_unsupported/edit_phototexturing/samples/face_without_uv_coords.obj
+END

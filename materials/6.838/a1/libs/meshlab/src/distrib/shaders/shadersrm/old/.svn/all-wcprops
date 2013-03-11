@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/4262/trunk/meshlab/src/distrib/shaders/shadersrm/old
+END
+GlyphBomb.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/4163/trunk/meshlab/src/distrib/shaders/shadersrm/old/GlyphBomb.rfx
+END
+RenderToTexture.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/4163/trunk/meshlab/src/distrib/shaders/shadersrm/old/RenderToTexture.rfx
+END
+cubeenvmap.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/meshlab/!svn/ver/4262/trunk/meshlab/src/distrib/shaders/shadersrm/old/cubeenvmap.rfx
+END
+hatching.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/meshlab/!svn/ver/4163/trunk/meshlab/src/distrib/shaders/shadersrm/old/hatching.rfx
+END
+ImageBasedLighting.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/4262/trunk/meshlab/src/distrib/shaders/shadersrm/old/ImageBasedLighting.rfx
+END
+fur.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/4163/trunk/meshlab/src/distrib/shaders/shadersrm/old/fur.rfx
+END
+Depth of Field.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/4163/trunk/meshlab/src/distrib/shaders/shadersrm/old/Depth%20of%20Field.rfx
+END
+Plastic.rfx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/4163/trunk/meshlab/src/distrib/shaders/shadersrm/old/Plastic.rfx
+END

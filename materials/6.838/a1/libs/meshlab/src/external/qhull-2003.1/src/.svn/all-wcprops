@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src
+END
+qh-poly.htm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qh-poly.htm
+END
+qh-globa.htm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qh-globa.htm
+END
+poly2.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/poly2.c
+END
+qhull_interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qhull_interface.cpp
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/io.c
+END
+qh-merge.htm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qh-merge.htm
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/stat.c
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/io.h
+END
+qset.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qset.c
+END
+qvoronoi.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qvoronoi.c
+END
+user.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/user.c
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/stat.h
+END
+qset.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qset.h
+END
+unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/unix.c
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/user.h
+END
+qconvex.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qconvex.c
+END
+poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/poly.c
+END
+poly.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/poly.h
+END
+qdelaun.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qdelaun.c
+END
+qh-mem.htm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qh-mem.htm
+END
+qhull_a.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qhull_a.h
+END
+qhalf.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qhalf.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/Makefile
+END
+merge.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/merge.c
+END
+global.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/global.c
+END
+qh-qhull.htm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qh-qhull.htm
+END
+qh-geom.htm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qh-geom.htm
+END
+merge.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/merge.h
+END
+Changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/Changes.txt
+END
+qh-set.htm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qh-set.htm
+END
+Make-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/Make-config.sh
+END
+geom2.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/geom2.c
+END
+rbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/rbox.c
+END
+user_eg2.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/user_eg2.c
+END
+Mborland
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/Mborland
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/index.htm
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/mem.c
+END
+qh-io.htm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qh-io.htm
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/mem.h
+END
+qhull.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qhull.c
+END
+qh-stat.htm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qh-stat.htm
+END
+geom.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/geom.c
+END
+user_eg.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/user_eg.c
+END
+qh-user.htm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qh-user.htm
+END
+qhull.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/qhull.h
+END
+geom.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3078/trunk/meshlab/src/external/qhull-2003.1/src/geom.h
+END

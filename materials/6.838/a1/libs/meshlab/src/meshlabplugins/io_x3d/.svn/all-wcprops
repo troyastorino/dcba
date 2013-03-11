@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/meshlab/!svn/ver/6077/trunk/meshlab/src/meshlabplugins/io_x3d
+END
+util_x3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/4841/trunk/meshlab/src/meshlabplugins/io_x3d/util_x3d.h
+END
+io_x3d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_x3d/io_x3d.pro
+END
+export_x3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5572/trunk/meshlab/src/meshlabplugins/io_x3d/export_x3d.h
+END
+io_x3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/meshlab/!svn/ver/6077/trunk/meshlab/src/meshlabplugins/io_x3d/io_x3d.cpp
+END
+io_x3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3822/trunk/meshlab/src/meshlabplugins/io_x3d/io_x3d.h
+END
+import_x3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/6076/trunk/meshlab/src/meshlabplugins/io_x3d/import_x3d.h
+END

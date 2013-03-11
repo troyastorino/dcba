@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/5946/trunk/meshlab/src/meshlabplugins/edit_slice
+END
+meshlab.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_slice/meshlab.qrc
+END
+slicedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_slice/slicedialog.cpp
+END
+edit_slice_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_slice/edit_slice_factory.h
+END
+svgpro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_slice/svgpro.cpp
+END
+editslice.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_slice/editslice.pro
+END
+slicedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_slice/slicedialog.h
+END
+editslice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5946/trunk/meshlab/src/meshlabplugins/edit_slice/editslice.cpp
+END
+svgpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_slice/svgpro.h
+END
+editslice.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_slice/editslice.h
+END
+slicedialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_slice/slicedialog.ui
+END
+edit_slice_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_slice/edit_slice_factory.cpp
+END
+svgpro.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_slice/svgpro.ui
+END

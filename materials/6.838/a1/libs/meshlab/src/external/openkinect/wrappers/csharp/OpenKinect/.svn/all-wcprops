@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/csharp/OpenKinect
+END
+KinectMotor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/csharp/OpenKinect/KinectMotor.cs
+END
+KinectLEDStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/csharp/OpenKinect/KinectLEDStatus.cs
+END
+OpenKinect.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/wrappers/csharp/OpenKinect/OpenKinect.csproj
+END

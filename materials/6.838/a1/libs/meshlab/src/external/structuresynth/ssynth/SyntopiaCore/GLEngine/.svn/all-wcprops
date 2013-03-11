@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/structuresynth/!svn/ver/296/trunk/SyntopiaCore/GLEngine
+END
+RaytraceTriangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/structuresynth/!svn/ver/268/trunk/SyntopiaCore/GLEngine/RaytraceTriangle.cpp
+END
+Mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/structuresynth/!svn/ver/255/trunk/SyntopiaCore/GLEngine/Mesh.h
+END
+Object3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/structuresynth/!svn/ver/274/trunk/SyntopiaCore/GLEngine/Object3D.h
+END
+RaytraceTriangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/structuresynth/!svn/ver/268/trunk/SyntopiaCore/GLEngine/RaytraceTriangle.h
+END
+Triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/structuresynth/!svn/ver/268/trunk/SyntopiaCore/GLEngine/Triangle.cpp
+END
+EngineWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/structuresynth/!svn/ver/290/trunk/SyntopiaCore/GLEngine/EngineWidget.cpp
+END
+Triangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/structuresynth/!svn/ver/281/trunk/SyntopiaCore/GLEngine/Triangle.h
+END
+EngineWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/structuresynth/!svn/ver/290/trunk/SyntopiaCore/GLEngine/EngineWidget.h
+END
+Grid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/structuresynth/!svn/ver/81/trunk/SyntopiaCore/GLEngine/Grid.cpp
+END
+Dot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/structuresynth/!svn/ver/81/trunk/SyntopiaCore/GLEngine/Dot.cpp
+END
+Sphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/structuresynth/!svn/ver/251/trunk/SyntopiaCore/GLEngine/Sphere.cpp
+END
+Line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/structuresynth/!svn/ver/81/trunk/SyntopiaCore/GLEngine/Line.cpp
+END
+Box.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/structuresynth/!svn/ver/294/trunk/SyntopiaCore/GLEngine/Box.cpp
+END
+Grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/structuresynth/!svn/ver/251/trunk/SyntopiaCore/GLEngine/Grid.h
+END
+Sphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/structuresynth/!svn/ver/251/trunk/SyntopiaCore/GLEngine/Sphere.h
+END
+Dot.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/structuresynth/!svn/ver/251/trunk/SyntopiaCore/GLEngine/Dot.h
+END
+Mesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/structuresynth/!svn/ver/268/trunk/SyntopiaCore/GLEngine/Mesh.cpp
+END
+Line.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/structuresynth/!svn/ver/251/trunk/SyntopiaCore/GLEngine/Line.h
+END
+Object3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/structuresynth/!svn/ver/268/trunk/SyntopiaCore/GLEngine/Object3D.cpp
+END
+Box.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/structuresynth/!svn/ver/281/trunk/SyntopiaCore/GLEngine/Box.h
+END

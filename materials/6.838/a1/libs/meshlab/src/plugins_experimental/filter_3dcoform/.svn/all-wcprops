@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/meshlab/!svn/ver/5178/trunk/meshlab/src/plugins_experimental/filter_3dcoform
+END
+filter_3dcoform.pro
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5178/trunk/meshlab/src/plugins_experimental/filter_3dcoform/filter_3dcoform.pro
+END
+filter_3dcoform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5178/trunk/meshlab/src/plugins_experimental/filter_3dcoform/filter_3dcoform.cpp
+END
+coform_interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/5178/trunk/meshlab/src/plugins_experimental/filter_3dcoform/coform_interface.cpp
+END
+filter_3dcoform.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5178/trunk/meshlab/src/plugins_experimental/filter_3dcoform/filter_3dcoform.h
+END
+metadatafile_generator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/meshlab/!svn/ver/5178/trunk/meshlab/src/plugins_experimental/filter_3dcoform/metadatafile_generator.cpp
+END
+coform_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5178/trunk/meshlab/src/plugins_experimental/filter_3dcoform/coform_interface.h
+END
+metadatafile_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/5178/trunk/meshlab/src/plugins_experimental/filter_3dcoform/metadatafile_generator.h
+END

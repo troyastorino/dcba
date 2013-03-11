@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/index.txt
+END
+makefile.unx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/makefile.unx
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/changes.txt
+END
+ecalmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ecalmain.c
+END
+csyn.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/csyn.c
+END
+makefile.bor
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/makefile.bor
+END
+nccal.log
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/nccal.log
+END
+nccal.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/nccal.c
+END
+ncc_cpcc.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ncc_cpcc.dat
+END
+cal_tran.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/cal_tran.c
+END
+xfd2xfu.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/xfd2xfu.c
+END
+ncc_cd.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ncc_cd.dat
+END
+ccal.log
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ccal.log
+END
+nccal.run
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/nccal.run
+END
+ccal.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ccal.c
+END
+cal_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/cal_main.c
+END
+cc_cpcc.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/cc_cpcc.dat
+END
+ecal.log
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ecal.log
+END
+faq.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/faq.txt
+END
+ecal.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ecal.c
+END
+nccal_fo.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/nccal_fo.c
+END
+cal_eval.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/cal_eval.c
+END
+ic2wc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ic2wc.c
+END
+wc2ic.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/wc2ic.c
+END
+cal_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/cal_main.h
+END
+gasdev.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/gasdev.c
+END
+ecccpcc.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ecccpcc.dat
+END
+cal.rsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/cal.rsp
+END
+cc_cd.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/cc_cd.dat
+END
+minpark.rsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/minpark.rsp
+END
+ccal.run
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ccal.run
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/notes.txt
+END
+ecal.run
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ecal.run
+END
+ccal_fo.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ccal_fo.c
+END
+encccpcc.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/encccpcc.dat
+END
+ncsyn.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/ncsyn.c
+END
+cal_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/meshlab/!svn/ver/3858/trunk/meshlab/src/external/tsai-30b3/cal_util.c
+END

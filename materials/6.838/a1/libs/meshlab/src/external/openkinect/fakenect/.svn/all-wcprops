@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/fakenect
+END
+record.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/fakenect/record.c
+END
+fakenect.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/fakenect/fakenect.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/fakenect/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/meshlab/!svn/ver/4944/trunk/meshlab/src/external/openkinect/fakenect/README
+END

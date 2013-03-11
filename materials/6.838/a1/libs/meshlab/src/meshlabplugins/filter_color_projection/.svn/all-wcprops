@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/meshlab/!svn/ver/6042/trunk/meshlab/src/meshlabplugins/filter_color_projection
+END
+render_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5730/trunk/meshlab/src/meshlabplugins/filter_color_projection/render_helper.cpp
+END
+filter_color_projection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/5729/trunk/meshlab/src/meshlabplugins/filter_color_projection/filter_color_projection.cpp
+END
+floatbuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5499/trunk/meshlab/src/meshlabplugins/filter_color_projection/floatbuffer.cpp
+END
+pushpull.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5284/trunk/meshlab/src/meshlabplugins/filter_color_projection/pushpull.h
+END
+rastering.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/6042/trunk/meshlab/src/meshlabplugins/filter_color_projection/rastering.h
+END
+render_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5232/trunk/meshlab/src/meshlabplugins/filter_color_projection/render_helper.h
+END
+filter_color_projection.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/meshlab/!svn/ver/5284/trunk/meshlab/src/meshlabplugins/filter_color_projection/filter_color_projection.h
+END
+floatbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5360/trunk/meshlab/src/meshlabplugins/filter_color_projection/floatbuffer.h
+END
+filter_color_projection.pro
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/meshlab/!svn/ver/5284/trunk/meshlab/src/meshlabplugins/filter_color_projection/filter_color_projection.pro
+END

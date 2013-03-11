@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/meshlab/!svn/ver/6095/trunk/meshlab/src/meshlabplugins/edit_align/align
+END
+OccupancyGrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6091/trunk/meshlab/src/meshlabplugins/edit_align/align/OccupancyGrid.h
+END
+align_parameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/6091/trunk/meshlab/src/meshlabplugins/edit_align/align/align_parameter.h
+END
+AlignGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6091/trunk/meshlab/src/meshlabplugins/edit_align/align/AlignGlobal.h
+END
+AlignPair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/6091/trunk/meshlab/src/meshlabplugins/edit_align/align/AlignPair.cpp
+END
+Guess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_align/align/Guess.cpp
+END
+OccupancyGrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/6091/trunk/meshlab/src/meshlabplugins/edit_align/align/OccupancyGrid.cpp
+END
+align_parameter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6095/trunk/meshlab/src/meshlabplugins/edit_align/align/align_parameter.cpp
+END
+AlignGlobal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/6095/trunk/meshlab/src/meshlabplugins/edit_align/align/AlignGlobal.cpp
+END
+AlignPair.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/6091/trunk/meshlab/src/meshlabplugins/edit_align/align/AlignPair.h
+END
+Guess.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/meshlab/!svn/ver/5166/trunk/meshlab/src/meshlabplugins/edit_align/align/Guess.h
+END

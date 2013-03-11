@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo
+END
+shutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/shutils.h
+END
+parameters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/parameters.cpp
+END
+filter_mutualinfo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/filter_mutualinfo.pro
+END
+alignset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/alignset.cpp
+END
+mutual.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/mutual.cpp
+END
+parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/parameters.h
+END
+solver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/solver.cpp
+END
+levmarmethods.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/levmarmethods.cpp
+END
+alignset.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/alignset.h
+END
+mutual.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/mutual.h
+END
+levmarmethods.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/levmarmethods.h
+END
+solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/solver.h
+END
+pointCorrespondence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/pointCorrespondence.cpp
+END
+pointOnLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/pointOnLayer.h
+END
+pointCorrespondence.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/pointCorrespondence.h
+END
+filter_mutualinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/filter_mutualinfo.cpp
+END
+filter_mutualinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/meshlab/!svn/ver/5752/trunk/meshlab/src/plugins_unsupported/filter_mutualinfo/filter_mutualinfo.h
+END

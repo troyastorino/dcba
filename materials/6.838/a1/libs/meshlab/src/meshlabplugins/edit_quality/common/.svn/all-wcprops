@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/common
+END
+const_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/common/const_types.h
+END
+transferfunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/common/transferfunction.h
+END
+meshmethods.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/common/meshmethods.cpp
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/common/util.h
+END
+meshmethods.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/common/meshmethods.h
+END
+transferfunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/common/transferfunction.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/common/.cvsignore
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/meshlab/!svn/ver/5167/trunk/meshlab/src/meshlabplugins/edit_quality/common/util.cpp
+END

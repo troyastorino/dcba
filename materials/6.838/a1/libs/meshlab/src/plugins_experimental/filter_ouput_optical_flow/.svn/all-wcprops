@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/meshlab/!svn/ver/5552/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow
+END
+floatbuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/floatbuffer.cpp
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/utils.cpp
+END
+floatbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/floatbuffer.h
+END
+filter_output_optical_flow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/filter_output_optical_flow.pro
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/utils.h
+END
+DominancyClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/meshlab/!svn/ver/5520/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/DominancyClassifier.cpp
+END
+OOCRaster.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/meshlab/!svn/ver/5552/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/OOCRaster.h
+END
+filter_output_optical_flow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/meshlab/!svn/ver/5552/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/filter_output_optical_flow.cpp
+END
+filter_output_optical_flow.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/meshlab/!svn/ver/5517/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/filter_output_optical_flow.qrc
+END
+DominancyClassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/meshlab/!svn/ver/5520/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/DominancyClassifier.h
+END
+filter_output_optical_flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/meshlab/!svn/ver/5520/trunk/meshlab/src/plugins_experimental/filter_ouput_optical_flow/filter_output_optical_flow.h
+END

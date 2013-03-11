@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/meshlab/!svn/ver/6030/trunk/meshlab/src/sampleplugins/sample_filtergpu
+END
+sample_filtergpu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/4686/trunk/meshlab/src/sampleplugins/sample_filtergpu/sample_filtergpu.pro
+END
+sample_filtergpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/meshlab/!svn/ver/6030/trunk/meshlab/src/sampleplugins/sample_filtergpu/sample_filtergpu.cpp
+END
+sample_filtergpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/meshlab/!svn/ver/5997/trunk/meshlab/src/sampleplugins/sample_filtergpu/sample_filtergpu.h
+END
