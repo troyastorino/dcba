@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Header Files\vecmath">
+      <UniqueIdentifier>{4461b99d-965c-43be-b1bf-229ceff9a3e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\vecmath">
+      <UniqueIdentifier>{1f8166b1-a885-4ec9-b2ba-c02424513c02}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bitmap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Joint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vecmath\src\Matrix2f.cpp">
+      <Filter>Source Files\vecmath</Filter>
+    </ClCompile>
+    <ClCompile Include="vecmath\src\Matrix4f.cpp">
+      <Filter>Source Files\vecmath</Filter>
+    </ClCompile>
+    <ClCompile Include="vecmath\src\Matrix3f.cpp">
+      <Filter>Source Files\vecmath</Filter>
+    </ClCompile>
+    <ClCompile Include="vecmath\src\Quat4f.cpp">
+      <Filter>Source Files\vecmath</Filter>
+    </ClCompile>
+    <ClCompile Include="vecmath\src\Vector4f.cpp">
+      <Filter>Source Files\vecmath</Filter>
+    </ClCompile>
+    <ClCompile Include="vecmath\src\Vector2f.cpp">
+      <Filter>Source Files\vecmath</Filter>
+    </ClCompile>
+    <ClCompile Include="vecmath\src\Vector3f.cpp">
+      <Filter>Source Files\vecmath</Filter>
+    </ClCompile>
+    <ClCompile Include="modelerapp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modelerui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelerView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SkeletalModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Joint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vecmath\include\Matrix2f.h">
+      <Filter>Header Files\vecmath</Filter>
+    </ClInclude>
+    <ClInclude Include="vecmath\include\Matrix4f.h">
+      <Filter>Header Files\vecmath</Filter>
+    </ClInclude>
+    <ClInclude Include="vecmath\include\Matrix3f.h">
+      <Filter>Header Files\vecmath</Filter>
+    </ClInclude>
+    <ClInclude Include="vecmath\include\Vector2f.h">
+      <Filter>Header Files\vecmath</Filter>
+    </ClInclude>
+    <ClInclude Include="vecmath\include\Vector4f.h">
+      <Filter>Header Files\vecmath</Filter>
+    </ClInclude>
+    <ClInclude Include="vecmath\include\Vector3f.h">
+      <Filter>Header Files\vecmath</Filter>
+    </ClInclude>
+    <ClInclude Include="vecmath\include\vecmath.h">
+      <Filter>Header Files\vecmath</Filter>
+    </ClInclude>
+    <ClInclude Include="vecmath\include\Quat4f.h">
+      <Filter>Header Files\vecmath</Filter>
+    </ClInclude>
+    <ClInclude Include="modelerapp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modelerui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelerView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkeletalModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tuple.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

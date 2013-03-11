@@ -1,0 +1,2904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexus>
+  <name>6.837</name>
+  <longName>Computer Graphics</longName>
+  <description />
+  <createdDate>2012-09-03 19:53:20.0</createdDate>
+  <createdBy>system</createdBy>
+  <getLastModifiedDate>Sun Dec 16 14:40:12 EST 2012</getLastModifiedDate>
+  <getLastModifiedBy />
+  <status>0</status>
+  <identifier>1779f5e3:1398da62572:44ba:12092f49</identifier>
+  <attributes>
+    <skin>mit</skin>
+    <link11arrow />
+    <meeting3time />
+    <link23href>help/stellarhelp.html</link23href>
+    <meeting3type />
+    <link4href>calendar.html</link4href>
+    <link22arrow>search.html</link22arrow>
+    <enableTransfer>true</enableTransfer>
+    <link7text>Homework</link7text>
+    <timezones>America/New_York</timezones>
+    <link15text>Forum</link15text>
+    <link3arrow>materials.html</link3arrow>
+    <link18arrow />
+    <showOcwLink>true</showOcwLink>
+    <masterSubjectID>6.837</masterSubjectID>
+    <link20text>Staff List</link20text>
+    <link1text>Class Home</link1text>
+    <link12arrow />
+    <infoTextPublic>true</infoTextPublic>
+    <homeworkLinkText>Homework</homeworkLinkText>
+    <link23arrow>help/stellarhelp.html</link23arrow>
+    <meeting2time>MTF 4:15-5:15</meeting2time>
+    <link22href>search.html</link22href>
+    <link4arrow>calendar.html</link4arrow>
+    <meeting2type>Office Hours</meeting2type>
+    <link3href>materials.html</link3href>
+    <showTopicsDetails>true</showTopicsDetails>
+    <link19arrow>people/membership.html</link19arrow>
+    <link8href>gradebook3/</link8href>
+    <meeting5location />
+    <showLink23>true</showLink23>
+    <showLink22>true</showLink22>
+    <showLink21>false</showLink21>
+    <link16href>Space</link16href>
+    <link19text>Membership</link19text>
+    <showLink20>true</showLink20>
+    <meeting3location />
+    <link13arrow />
+    <homePageImageCaptionXml />
+    <link5arrow>schedule.html</link5arrow>
+    <descriptionIsXml>true</descriptionIsXml>
+    <meeting1time>TR2.30-4</meeting1time>
+    <meeting1type>Lecture</meeting1type>
+    <showLink9>false</showLink9>
+    <link5text>Schedule</link5text>
+    <showLink8>true</showLink8>
+    <showLink19>true</showLink19>
+    <showLink7>true</showLink7>
+    <showLink18>false</showLink18>
+    <showLink6>false</showLink6>
+    <showLink17>false</showLink17>
+    <showRSS>true</showRSS>
+    <showLink5>false</showLink5>
+    <showLink16>true</showLink16>
+    <showLink4>true</showLink4>
+    <showLink15>true</showLink15>
+    <showLink3>true</showLink3>
+    <showLink14>false</showLink14>
+    <publicHome>true</publicHome>
+    <showLink2>false</showLink2>
+    <showLink13>false</showLink13>
+    <meeting1location>32-141</meeting1location>
+    <showLink12>false</showLink12>
+    <showLink1>true</showLink1>
+    <showLink11>false</showLink11>
+    <showLink10>false</showLink10>
+    <link7href>homework/index.html</link7href>
+    <link14arrow />
+    <link15href>forum-ng/</link15href>
+    <link6arrow />
+    <enableJive>true</enableJive>
+    <link7arrow>homework/</link7arrow>
+    <link23text>Help</link23text>
+    <link20href>people/stafflist.html</link20href>
+    <link1href>index.html</link1href>
+    <link4text>Calendar</link4text>
+    <link15arrow>forum-ng/</link15arrow>
+    <meeting5time />
+    <meeting5type />
+    <link20arrow>people/stafflist.html</link20arrow>
+    <link8arrow>gradebook3/</link8arrow>
+    <link19href>people/membership.html</link19href>
+    <section>Lecture</section>
+    <link1arrow>index.html</link1arrow>
+    <term>Fall 2012</term>
+    <defaultWorldLogin>true</defaultWorldLogin>
+    <showContentDetails>true</showContentDetails>
+    <link22text>Search</link22text>
+    <homeworkIsCalled>homework</homeworkIsCalled>
+    <link3text>Materials</link3text>
+    <link16arrow>Space</link16arrow>
+    <meeting4location />
+    <meeting2location>Student Center athena cluster</meeting2location>
+    <meeting4time />
+    <meeting4type />
+    <link8text>Gradebook</link8text>
+    <link5href>schedule.html</link5href>
+    <link10arrow />
+    <link16text />
+    <link21arrow />
+    <link9arrow />
+    <homePageImageAlt>home page image</homePageImageAlt>
+    <readOnly>false</readOnly>
+    <link2arrow />
+    <link17arrow />
+  </attributes>
+  <arc>
+    <name>top Arc for 6.837</name>
+    <longName>top Arc for 6.837</longName>
+    <description />
+    <createdDate>2012-09-03 19:53:28.0</createdDate>
+    <createdBy>system</createdBy>
+    <getLastModifiedDate>2012-09-11 15:10:34.0</getLastModifiedDate>
+    <getLastModifiedBy>system</getLastModifiedBy>
+    <status>0</status>
+    <identifier>44ea6521:13b1db12e9e:-4b2a:12092f49</identifier>
+    <useMetadata />
+    <pathSegment />
+    <arc>
+      <name>materials</name>
+      <longName>courseMaterial</longName>
+      <description />
+      <createdDate>2012-09-03 19:53:29.0</createdDate>
+      <createdBy>system</createdBy>
+      <getLastModifiedDate>2012-09-03 20:41:21.0</getLastModifiedDate>
+      <getLastModifiedBy>system</getLastModifiedBy>
+      <status>0</status>
+      <identifier>44ea6521:13b1de98475:5042:12092f49</identifier>
+      <useMetadata />
+      <pathSegment>courseMaterial</pathSegment>
+      <arc>
+        <name>topics</name>
+        <longName>topics</longName>
+        <description />
+        <createdDate>2012-09-03 19:53:29.0</createdDate>
+        <createdBy>system</createdBy>
+        <getLastModifiedDate>Sun Dec 16 13:19:52 EST 2012</getLastModifiedDate>
+        <getLastModifiedBy>system</getLastModifiedBy>
+        <status>0</status>
+        <identifier>44ea6521:13b1de98475:5045:12092f49</identifier>
+        <useMetadata />
+        <pathSegment>topics</pathSegment>
+        <arc>
+          <name>General</name>
+          <longName>General</longName>
+          <description />
+          <createdDate>2012-09-03 19:53:30.0</createdDate>
+          <createdBy>system</createdBy>
+          <getLastModifiedDate>2012-09-03 19:53:30.0</getLastModifiedDate>
+          <getLastModifiedBy>system</getLastModifiedBy>
+          <status>0</status>
+          <identifier>44ea6521:13b1de98475:5090:12092f49</identifier>
+          <useMetadata />
+          <pathSegment>topic1</pathSegment>
+        </arc>
+        <arc>
+          <name>Lecture Slides</name>
+          <longName>Lecture Slides</longName>
+          <description>Lecture Slides</description>
+          <createdDate>2012-09-06 18:37:57.0</createdDate>
+          <createdBy>system</createdBy>
+          <getLastModifiedDate>Wed Dec 12 16:36:20 EST 2012</getLastModifiedDate>
+          <getLastModifiedBy>system</getLastModifiedBy>
+          <status>0</status>
+          <identifier>44ea6521:13b1de98475:508f:12092f49</identifier>
+          <useMetadata />
+          <pathSegment>topic2</pathSegment>
+          <arc>
+            <name>lectureNotes</name>
+            <longName>lectureNotes</longName>
+            <description>lectureNotes</description>
+            <createdDate>2012-09-06 18:39:02.0</createdDate>
+            <createdBy>system</createdBy>
+            <getLastModifiedDate>Wed Dec 12 16:36:19 EST 2012</getLastModifiedDate>
+            <getLastModifiedBy>system</getLastModifiedBy>
+            <status>0</status>
+            <identifier>44ea6521:13b1de98475:5091:12092f49</identifier>
+            <useMetadata />
+            <pathSegment>lectureNotes</pathSegment>
+            <arc>
+              <name>uploaded on 2012-09-06 18:38:59 EDT</name>
+              <longName>00_Intro.pdf uploaded on 2012-09-06 18:38:59 EDT</longName>
+              <description>uploaded on 2012-09-06 18:38:59 EDT</description>
+              <createdDate>2012-09-06 18:39:02.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-09-06 18:39:02.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:50a4:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>00_Intro</pathSegment>
+              <arc>
+                <name>00_Intro.pdf</name>
+                <longName>Introduction</longName>
+                <description />
+                <createdDate>2012-09-06 18:39:02.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-09-06 18:39:02.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50a6:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>00_Intro.pdf</pathSegment>
+                <content>
+                  <name>00_Intro.pdf</name>
+                  <longName>Introduction</longName>
+                  <description />
+                  <createdDate>2012-09-06 18:39:02.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-09-06 18:39:02.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50a7:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>42ea2896:1779f5e3:1399d97d159:134:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>00_Intro.pdf</fileName>
+                    <size>5579213</size>
+                    <pathSegment>00_Intro.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/00_Intro/00_Intro.pdf/00_Intro.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-09-12 02:40:21 EDT</name>
+              <longName>01_bezier.pdf uploaded on 2012-09-12 02:40:21 EDT</longName>
+              <description>uploaded on 2012-09-12 02:40:21 EDT</description>
+              <createdDate>2012-09-12 02:40:23.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-09-12 02:40:23.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:509b:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>01_bezier</pathSegment>
+              <arc>
+                <name>01_bezier.pdf</name>
+                <longName>Bézier Curves and Splines</longName>
+                <description />
+                <createdDate>2012-09-12 02:40:23.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-09-12 02:40:23.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50a8:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>01_bezier.pdf</pathSegment>
+                <content>
+                  <name>01_bezier.pdf</name>
+                  <longName>Bézier Curves and Splines</longName>
+                  <description />
+                  <createdDate>2012-09-12 02:40:23.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-09-12 02:40:23.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50a9:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>ce64ec96:1779f5e3:139b8de88e4:49b:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>01_bezier.pdf</fileName>
+                    <size>824552</size>
+                    <pathSegment>01_bezier.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/01_bezier/01_bezier.pdf/01_bezier.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-09-13 16:09:44 EDT</name>
+              <longName>02_curves_and_surfaces.pdf uploaded on 2012-09-13 16:09:44 EDT</longName>
+              <description>uploaded on 2012-09-13 16:09:44 EDT</description>
+              <createdDate>2012-09-13 16:09:46.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-09-13 16:09:46.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:5093:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>02_curves_and_surfaces</pathSegment>
+              <arc>
+                <name>02_curves_and_surfaces.pdf</name>
+                <longName>Curves and surfaces</longName>
+                <description />
+                <createdDate>2012-09-13 16:09:45.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-09-13 16:12:29.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50aa:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>lastUsedStartDate</key>
+                    <value>Sep 13, 2012</value>
+                    <javaClass>java.util.Date</javaClass>
+                  </item>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>02_curves_and_surfaces.pdf</pathSegment>
+                <content>
+                  <name>02_curves_and_surfaces.pdf</name>
+                  <longName>LECTURE: Curves and surfaces</longName>
+                  <description />
+                  <createdDate>2012-09-13 16:09:46.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-09-13 16:12:28.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50ab:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>f95a8372:1779f5e3:139c1194f52:26bd:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>02_curves_and_surfaces.pdf</fileName>
+                    <size>2342258</size>
+                    <pathSegment>02_curves_and_surfaces.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/02_curves_and_surfaces/02_curves_and_surfaces.pdf/02_curves_and_surfaces.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-09-19 05:43:07 EDT</name>
+              <longName>03_Coordinates_Transformations.pdf uploaded on 2012-09-19 05:43:07 EDT</longName>
+              <description>uploaded on 2012-09-19 05:43:07 EDT</description>
+              <createdDate>2012-09-19 05:43:14.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-09-19 05:43:14.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:5096:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>03_Coordinates_Transformations</pathSegment>
+              <arc>
+                <name>03_Coordinates_Transformations.pdf</name>
+                <longName>LECTURE: Transformations</longName>
+                <description />
+                <createdDate>2012-09-19 05:43:14.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-09-19 05:43:14.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50ac:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>03_Coordinates_Transformations.pdf</pathSegment>
+                <content>
+                  <name>03_Coordinates_Transformations.pdf</name>
+                  <longName>LECTURE: Transformations</longName>
+                  <description />
+                  <createdDate>2012-09-19 05:43:14.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-09-19 05:43:14.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50ad:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>62967bf9:-5f2a3be6:139dd29e32e:-e11:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>03 Coordinates Transformations.pdf</fileName>
+                    <size>3144378</size>
+                    <pathSegment>03_Coordinates_Transformations.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/03_Coordinates_Transformations/03_Coordinates_Transformations.pdf/03_Coordinates_Transformations.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-09-21 10:30:18 EDT</name>
+              <longName>04_Hierarchical_Modeling.pdf uploaded on 2012-09-21 10:30:18 EDT</longName>
+              <description>uploaded on 2012-09-21 10:30:18 EDT</description>
+              <createdDate>2012-09-21 10:30:19.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-09-21 10:30:19.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:509d:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>04_Hierarchical_Modeling</pathSegment>
+              <arc>
+                <name>04_Hierarchical_Modeling.pdf</name>
+                <longName>LECTURE: Heirarchical modeling</longName>
+                <description />
+                <createdDate>2012-09-21 10:30:19.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-09-21 10:30:19.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50ae:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>04_Hierarchical_Modeling.pdf</pathSegment>
+                <content>
+                  <name>04_Hierarchical_Modeling.pdf</name>
+                  <longName>LECTURE: Heirarchical modeling</longName>
+                  <description />
+                  <createdDate>2012-09-21 10:30:19.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-09-21 10:30:19.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50af:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>43643991:-5f2a3be6:139e82b1306:55b7:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>04_Hierarchical_Modeling.pdf</fileName>
+                    <size>2625409</size>
+                    <pathSegment>04_Hierarchical_Modeling.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/04_Hierarchical_Modeling/04_Hierarchical_Modeling.pdf/04_Hierarchical_Modeling.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-09-26 23:59:36 EDT</name>
+              <longName>05_Color.pdf uploaded on 2012-09-26 23:59:36 EDT</longName>
+              <description>uploaded on 2012-09-26 23:59:36 EDT</description>
+              <createdDate>2012-09-26 23:59:48.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-09-26 23:59:48.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:509e:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>05_Color</pathSegment>
+              <arc>
+                <name>05_Color.pdf</name>
+                <longName>LECTURE: Color</longName>
+                <description />
+                <createdDate>2012-09-26 23:59:48.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-09-26 23:59:48.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50b0:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>05_Color.pdf</pathSegment>
+                <content>
+                  <name>05_Color.pdf</name>
+                  <longName>LECTURE: Color</longName>
+                  <description />
+                  <createdDate>2012-09-26 23:59:48.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-09-26 23:59:48.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50b1:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>3210f1c1:-5f2a3be6:13a05b26a69:53f1:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>05 Color.pdf</fileName>
+                    <size>5435308</size>
+                    <pathSegment>05_Color.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/05_Color/05_Color.pdf/05_Color.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-09-28 19:04:23 EDT</name>
+              <longName>06_animation_ssdCM.pdf uploaded on 2012-09-28 19:04:23 EDT</longName>
+              <description>uploaded on 2012-09-28 19:04:23 EDT</description>
+              <createdDate>2012-09-28 19:04:24.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-09-28 19:04:24.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:5097:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>06_animation_ssdCM</pathSegment>
+              <arc>
+                <name>06_animation_ssdCM.pdf</name>
+                <longName>LECTURE: Animation, keyframing, SSD</longName>
+                <description />
+                <createdDate>2012-09-28 19:04:24.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-09-28 19:04:24.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50b2:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>06_animation_ssdCM.pdf</pathSegment>
+                <content>
+                  <name>06_animation_ssdCM.pdf</name>
+                  <longName>LECTURE: Animation, keyframing, SSD</longName>
+                  <description />
+                  <createdDate>2012-09-28 19:04:24.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-09-28 19:04:24.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50b3:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>21c7846b:-5f2a3be6:13a0ec5661b:4728:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>06_animation_ssdCM.pdf</fileName>
+                    <size>2715274</size>
+                    <pathSegment>06_animation_ssdCM.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/06_animation_ssdCM/06_animation_ssdCM.pdf/06_animation_ssdCM.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-10-02 23:03:30 EDT</name>
+              <longName>07_dynamics_1.pdf uploaded on 2012-10-02 23:03:30 EDT</longName>
+              <description>uploaded on 2012-10-02 23:03:30 EDT</description>
+              <createdDate>2012-10-02 23:03:32.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-10-02 23:03:32.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:509f:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>07_dynamics_1</pathSegment>
+              <arc>
+                <name>07_dynamics_1.pdf</name>
+                <longName>LECTURE: Particle systems</longName>
+                <description />
+                <createdDate>2012-10-02 23:03:32.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-10-02 23:03:32.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50b4:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>07_dynamics_1.pdf</pathSegment>
+                <content>
+                  <name>07_dynamics_1.pdf</name>
+                  <longName>LECTURE: Particle systems</longName>
+                  <description />
+                  <createdDate>2012-10-02 23:03:32.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-10-02 23:03:32.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50b5:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>3c43169f:-5f2a3be6:13a247e8803:-1402:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>07_dynamics_1.pdf</fileName>
+                    <size>2718537</size>
+                    <pathSegment>07_dynamics_1.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/07_dynamics_1/07_dynamics_1.pdf/07_dynamics_1.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-10-05 11:27:17 EDT</name>
+              <longName>08_dynamics_2_mass-spring.pdf uploaded on 2012-10-05 11:27:17 EDT</longName>
+              <description>uploaded on 2012-10-05 11:27:17 EDT</description>
+              <createdDate>2012-10-05 11:27:18.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-10-05 11:27:18.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:5099:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>08_dynamics_2_mass-spring</pathSegment>
+              <arc>
+                <name>08_dynamics_2_mass-spring.pdf</name>
+                <longName>LECTURE: Cloth simulation &amp; Mass Spring</longName>
+                <description />
+                <createdDate>2012-10-05 11:27:18.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-10-05 11:27:18.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50b6:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>08_dynamics_2_mass-spring.pdf</pathSegment>
+                <content>
+                  <name>08_dynamics_2_mass-spring.pdf</name>
+                  <longName>LECTURE: Cloth simulation &amp; Mass Spring</longName>
+                  <description />
+                  <createdDate>2012-10-05 11:27:18.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-10-05 11:27:18.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50b7:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>1fa3c817:-5f2a3be6:13a314d0de5:58d3:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>08_dynamics_2_mass-spring.pdf</fileName>
+                    <size>1335211</size>
+                    <pathSegment>08_dynamics_2_mass-spring.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/08_dynamics_2_mass-spring/08_dynamics_2_mass-spring.pdf/08_dynamics_2_mass-spring.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-10-11 20:54:19 EDT</name>
+              <longName>noname uploaded on 2012-10-11 20:54:19 EDT</longName>
+              <description>uploaded on 2012-10-11 20:54:19 EDT</description>
+              <createdDate>2012-10-11 20:54:19.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-10-11 20:55:03.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:50a5:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>noname</pathSegment>
+              <arc>
+                <name>09_implicit.pdf</name>
+                <longName>LECTURE: Implicit integration</longName>
+                <description />
+                <createdDate>2012-10-11 20:55:03.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-10-11 20:55:04.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50b8:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>lastUsedStartDate</key>
+                    <value>Oct 11, 2012</value>
+                    <javaClass>java.util.Date</javaClass>
+                  </item>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>09_implicit.pdf</pathSegment>
+                <content>
+                  <name>09_implicit.pdf</name>
+                  <longName>LECTURE: Implicit integration</longName>
+                  <description />
+                  <createdDate>2012-10-11 20:55:03.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-10-11 20:55:04.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50b9:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>fe24d43f:-5f2a3be6:13a5240100e:2bbe:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>09_implicit.pdf</fileName>
+                    <size>1070897</size>
+                    <pathSegment>09_implicit.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/noname/09_implicit.pdf/09_implicit.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-10-19 17:46:05 EDT</name>
+              <longName>10_Collision-detection.pdf uploaded on 2012-10-19 17:46:05 EDT</longName>
+              <description>uploaded on 2012-10-19 17:46:05 EDT</description>
+              <createdDate>2012-10-19 17:46:06.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-10-19 17:46:06.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:5092:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>10_Collision-detection</pathSegment>
+              <arc>
+                <name>10_Collision-detection.pdf</name>
+                <longName>LECTURE: Collision detection &amp; Response</longName>
+                <description />
+                <createdDate>2012-10-19 17:46:06.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-10-19 17:46:06.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50ba:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>10_Collision-detection.pdf</pathSegment>
+                <content>
+                  <name>10_Collision-detection.pdf</name>
+                  <longName>LECTURE: Collision detection &amp; Response</longName>
+                  <description />
+                  <createdDate>2012-10-19 17:46:06.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-10-19 17:46:06.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50bb:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>2510f6f1:-5f2a3be6:13a7adaf0aa:-34ea:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>10_Collision-detection.pdf</fileName>
+                    <size>1008221</size>
+                    <pathSegment>10_Collision-detection.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/10_Collision-detection/10_Collision-detection.pdf/10_Collision-detection.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-10-19 17:47:14 EDT</name>
+              <longName>10_RayCasting.pdf uploaded on 2012-10-19 17:47:14 EDT</longName>
+              <description>uploaded on 2012-10-19 17:47:14 EDT</description>
+              <createdDate>2012-10-19 17:47:17.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-10-19 17:50:08.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:50a1:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>10_RayCasting</pathSegment>
+              <arc>
+                <name>10_RayCastingI.pdf</name>
+                <longName>LECTURE: Ray Casting</longName>
+                <description />
+                <createdDate>2012-10-19 17:50:08.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-10-19 17:50:08.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50bc:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>lastUsedStartDate</key>
+                    <value>Oct 19, 2012</value>
+                    <javaClass>java.util.Date</javaClass>
+                  </item>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>10_RayCastingI.pdf</pathSegment>
+                <content>
+                  <name>10_RayCastingI.pdf</name>
+                  <longName>LECTURE: Ray Casting</longName>
+                  <description />
+                  <createdDate>2012-10-19 17:50:08.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-10-19 17:50:08.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50bd:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>9b50408d:-5f2a3be6:13a7adaf0aa:-2cb7:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>10_RayCastingI.pdf</fileName>
+                    <size>4583426</size>
+                    <pathSegment>10_RayCastingI.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/10_RayCasting/10_RayCastingI.pdf/10_RayCastingI.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-10-26 07:32:28 EDT</name>
+              <longName>11_RayCasting_II.pdf uploaded on 2012-10-26 07:32:28 EDT</longName>
+              <description>uploaded on 2012-10-26 07:32:28 EDT</description>
+              <createdDate>2012-10-26 07:32:35.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-10-26 07:32:35.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:5094:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>11_RayCasting_II</pathSegment>
+              <arc>
+                <name>11_RayCasting_II.pdf</name>
+                <longName>LECTURE: Ray Casting II</longName>
+                <description />
+                <createdDate>2012-10-26 07:32:35.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-10-26 07:32:35.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50be:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>11_RayCasting_II.pdf</pathSegment>
+                <content>
+                  <name>11_RayCasting_II.pdf</name>
+                  <longName>LECTURE: Ray Casting II</longName>
+                  <description />
+                  <createdDate>2012-10-26 07:32:35.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-10-26 07:32:35.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50bf:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>985fc17f:-5f2a3be6:13a9c8ea77a:-65c3:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>11_RayCasting_II.pdf</fileName>
+                    <size>2408916</size>
+                    <pathSegment>11_RayCasting_II.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/11_RayCasting_II/11_RayCasting_II.pdf/11_RayCasting_II.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-10-26 07:34:57 EDT</name>
+              <longName>12_RayTracing.pdf uploaded on 2012-10-26 07:34:57 EDT</longName>
+              <description>uploaded on 2012-10-26 07:34:57 EDT</description>
+              <createdDate>2012-10-26 07:35:05.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-10-26 07:35:05.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:509c:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>12_RayTracing</pathSegment>
+              <arc>
+                <name>12_RayTracing.pdf</name>
+                <longName>LECTURE: Ray Tracing</longName>
+                <description />
+                <createdDate>2012-10-26 07:35:05.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-10-26 07:35:05.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50c0:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>12_RayTracing.pdf</pathSegment>
+                <content>
+                  <name>12_RayTracing.pdf</name>
+                  <longName>LECTURE: Ray Tracing</longName>
+                  <description />
+                  <createdDate>2012-10-26 07:35:05.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-10-26 07:35:05.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50c1:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>3325065c:-5f2a3be6:13a9c8ea77a:-63b0:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>12_RayTracing.pdf</fileName>
+                    <size>3257493</size>
+                    <pathSegment>12_RayTracing.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/12_RayTracing/12_RayTracing.pdf/12_RayTracing.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-11-01 08:20:40 EDT</name>
+              <longName>13_RayTracing-Acceleration.pdf uploaded on 2012-11-01 08:20:40 EDT</longName>
+              <description>uploaded on 2012-11-01 08:20:40 EDT</description>
+              <createdDate>2012-11-01 08:21:10.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-11-01 08:21:10.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:50a2:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>13_RayTracing-Acceleration</pathSegment>
+              <arc>
+                <name>13_RayTracing-Acceleration.pdf</name>
+                <longName>LECTURE: Acceleration</longName>
+                <description />
+                <createdDate>2012-11-01 08:21:10.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-11-01 08:21:10.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50c2:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>13_RayTracing-Acceleration.pdf</pathSegment>
+                <content>
+                  <name>13_RayTracing-Acceleration.pdf</name>
+                  <longName>LECTURE: Acceleration</longName>
+                  <description />
+                  <createdDate>2012-11-01 08:21:10.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-11-01 08:21:10.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50c3:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>47c8ede0:-5f2a3be6:13abacc0e46:2dc5:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>13_RayTracing-Acceleration.pdf</fileName>
+                    <size>884428</size>
+                    <pathSegment>13_RayTracing-Acceleration.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/13_RayTracing-Acceleration/13_RayTracing-Acceleration.pdf/13_RayTracing-Acceleration.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-11-02 11:59:09 EDT</name>
+              <longName>shading.pdf uploaded on 2012-11-02 11:59:09 EDT</longName>
+              <description>uploaded on 2012-11-02 11:59:09 EDT</description>
+              <createdDate>2012-11-02 11:59:10.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-11-02 12:01:24.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:50a3:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>shading</pathSegment>
+              <arc>
+                <name>14_shading.pdf</name>
+                <longName>LECTURE: Shading</longName>
+                <description />
+                <createdDate>2012-11-02 12:01:24.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-11-02 12:01:25.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50c4:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>lastUsedStartDate</key>
+                    <value>Nov 2, 2012</value>
+                    <javaClass>java.util.Date</javaClass>
+                  </item>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>14_shading.pdf</pathSegment>
+                <content>
+                  <name>14_shading.pdf</name>
+                  <longName>LECTURE: Shading</longName>
+                  <description />
+                  <createdDate>2012-11-02 12:01:24.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-11-02 12:01:24.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50c5:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>31ed89e3:-5f2a3be6:13ac1aac04c:1804:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>14_shading.pdf</fileName>
+                    <size>1853557</size>
+                    <pathSegment>14_shading.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/shading/14_shading.pdf/14_shading.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-11-06 16:24:19 EST</name>
+              <longName>15_shading_textures.pdf uploaded on 2012-11-06 16:24:19 EST</longName>
+              <description>uploaded on 2012-11-06 16:24:19 EST</description>
+              <createdDate>2012-11-06 16:24:20.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-11-06 16:26:25.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:50a0:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>15_shading_textures</pathSegment>
+              <arc>
+                <name>15_shading_textures.pdf</name>
+                <longName>LECTURE: Texture Mapping</longName>
+                <description />
+                <createdDate>2012-11-06 16:26:24.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-11-06 16:26:25.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50c6:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>lastUsedStartDate</key>
+                    <value>Nov 6, 2012</value>
+                    <javaClass>java.util.Date</javaClass>
+                  </item>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>15_shading_textures.pdf</pathSegment>
+                <content>
+                  <name>15_shading_textures.pdf</name>
+                  <longName>LECTURE: Texture Mapping</longName>
+                  <description />
+                  <createdDate>2012-11-06 16:26:24.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-11-06 16:26:25.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50c7:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>5a3da323:-55a8d322:13ad770da4a:4a6c:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>15_shading_textures.pdf</fileName>
+                    <size>3711229</size>
+                    <pathSegment>15_shading_textures.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/15_shading_textures/15_shading_textures.pdf/15_shading_textures.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-11-10 09:07:27 EST</name>
+              <longName>16_aliasing.pdf uploaded on 2012-11-10 09:07:27 EST</longName>
+              <description>uploaded on 2012-11-10 09:07:27 EST</description>
+              <createdDate>2012-11-10 09:07:35.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-11-10 09:07:35.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:509a:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>16_aliasing</pathSegment>
+              <arc>
+                <name>16_aliasing.pdf</name>
+                <longName>LECTURE: Antialiasing</longName>
+                <description />
+                <createdDate>2012-11-10 09:07:35.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-11-10 09:07:35.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50c8:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>16_aliasing.pdf</pathSegment>
+                <content>
+                  <name>16_aliasing.pdf</name>
+                  <longName>LECTURE: Antialiasing</longName>
+                  <description />
+                  <createdDate>2012-11-10 09:07:35.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-11-10 09:07:35.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50c9:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>b1646f56:-55a8d322:13ae8f1eb16:585:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>16_aliasing.pdf</fileName>
+                    <size>2969162</size>
+                    <pathSegment>16_aliasing.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/16_aliasing/16_aliasing.pdf/16_aliasing.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-11-14 16:42:39 EST</name>
+              <longName>GlobalIllumination.pdf uploaded on 2012-11-14 16:42:39 EST</longName>
+              <description>uploaded on 2012-11-14 16:42:39 EST</description>
+              <createdDate>2012-11-14 16:42:42.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-11-14 16:42:42.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:5098:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>GlobalIllumination</pathSegment>
+              <arc>
+                <name>GlobalIllumination.pdf</name>
+                <longName>LECTURE: Global Illumination</longName>
+                <description />
+                <createdDate>2012-11-14 16:42:41.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-11-14 16:42:42.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50ca:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>GlobalIllumination.pdf</pathSegment>
+                <content>
+                  <name>GlobalIllumination.pdf</name>
+                  <longName>LECTURE: Global Illumination</longName>
+                  <description />
+                  <createdDate>2012-11-14 16:42:42.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-11-14 16:42:42.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50cb:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>6df6c741:-55a8d322:13b00d8b242:-62e9:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>GlobalIllumination.pdf</fileName>
+                    <size>4314544</size>
+                    <pathSegment>GlobalIllumination.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/GlobalIllumination/GlobalIllumination.pdf/GlobalIllumination.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-11-15 14:12:47 EST</name>
+              <longName>IBR.pdf uploaded on 2012-11-15 14:12:47 EST</longName>
+              <description>uploaded on 2012-11-15 14:12:47 EST</description>
+              <createdDate>2012-11-15 14:12:55.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-11-15 14:12:55.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:5095:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>IBR</pathSegment>
+              <arc>
+                <name>IBR.pdf</name>
+                <longName>LECTURE: Image-based rendering and lighting</longName>
+                <description />
+                <createdDate>2012-11-15 14:12:54.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-11-15 14:12:55.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50cc:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>IBR.pdf</pathSegment>
+                <content>
+                  <name>IBR.pdf</name>
+                  <longName>LECTURE: Image-based rendering and lighting</longName>
+                  <description />
+                  <createdDate>2012-11-15 14:12:54.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-11-15 14:12:55.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50cd:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>be42205e:-55a8d322:13b053f2acd:7be8:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>IBR.pdf</fileName>
+                    <size>44015346</size>
+                    <pathSegment>IBR.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/IBR/IBR.pdf/IBR.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-11-24 16:48:01 EST</name>
+              <longName>OutputDevices.pdf uploaded on 2012-11-24 16:48:01 EST</longName>
+              <description>uploaded on 2012-11-24 16:48:01 EST</description>
+              <createdDate>Sat Nov 24 16:48:20 EST 2012</createdDate>
+              <createdBy />
+              <getLastModifiedDate>Sat Nov 24 16:48:20 EST 2012</getLastModifiedDate>
+              <getLastModifiedBy />
+              <status>0</status>
+              <identifier>44ea6521:13b33ff7153:4d17:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>OutputDevices</pathSegment>
+              <arc>
+                <name>OutputDevices.pdf</name>
+                <longName>LECTURE: Output Devices</longName>
+                <description />
+                <createdDate>Sat Nov 24 16:48:20 EST 2012</createdDate>
+                <createdBy />
+                <getLastModifiedDate>Sat Nov 24 16:48:20 EST 2012</getLastModifiedDate>
+                <getLastModifiedBy />
+                <status>0</status>
+                <identifier>44ea6521:13b33ff7153:4d15:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>OutputDevices.pdf</pathSegment>
+                <content>
+                  <name>OutputDevices.pdf</name>
+                  <longName>LECTURE: Output Devices</longName>
+                  <description />
+                  <createdDate>Sat Nov 24 16:48:20 EST 2012</createdDate>
+                  <createdBy />
+                  <getLastModifiedDate>Sat Nov 24 16:48:20 EST 2012</getLastModifiedDate>
+                  <getLastModifiedBy />
+                  <status>0</status>
+                  <identifier>44ea6521:13b33ff7153:4d16:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModName>true</showLastModName>
+                    <showLastModDate>true</showLastModDate>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>77e6fdf2:44ea6521:13b33ff7153:4d13:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>OutputDevices.pdf</fileName>
+                    <size>7269561</size>
+                    <pathSegment>OutputDevices.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/OutputDevices/OutputDevices.pdf/OutputDevices.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-11-28 18:50:21 EST</name>
+              <longName>Pipeline-Rasterization.pdf uploaded on 2012-11-28 18:50:21 EST</longName>
+              <description>uploaded on 2012-11-28 18:50:21 EST</description>
+              <createdDate>Wed Nov 28 18:50:24 EST 2012</createdDate>
+              <createdBy />
+              <getLastModifiedDate>Wed Nov 28 18:50:24 EST 2012</getLastModifiedDate>
+              <getLastModifiedBy />
+              <status>0</status>
+              <identifier>44ea6521:13b4949b9e5:-26:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>Pipeline-Rasterization</pathSegment>
+              <arc>
+                <name>Pipeline-Rasterization.pdf</name>
+                <longName>LECTURE: Rasterization</longName>
+                <description />
+                <createdDate>Wed Nov 28 18:50:24 EST 2012</createdDate>
+                <createdBy />
+                <getLastModifiedDate>Wed Nov 28 18:50:24 EST 2012</getLastModifiedDate>
+                <getLastModifiedBy />
+                <status>0</status>
+                <identifier>44ea6521:13b4949b9e5:-28:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>Pipeline-Rasterization.pdf</pathSegment>
+                <content>
+                  <name>Pipeline-Rasterization.pdf</name>
+                  <longName>LECTURE: Rasterization</longName>
+                  <description />
+                  <createdDate>Wed Nov 28 18:50:24 EST 2012</createdDate>
+                  <createdBy />
+                  <getLastModifiedDate>Wed Nov 28 18:50:24 EST 2012</getLastModifiedDate>
+                  <getLastModifiedBy />
+                  <status>0</status>
+                  <identifier>44ea6521:13b4949b9e5:-27:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModName>true</showLastModName>
+                    <showLastModDate>true</showLastModDate>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>efb8bd0d:44ea6521:13b4949b9e5:-2a:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>Pipeline-Rasterization.pdf</fileName>
+                    <size>2771064</size>
+                    <pathSegment>Pipeline-Rasterization.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/Pipeline-Rasterization/Pipeline-Rasterization.pdf/Pipeline-Rasterization.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-11-30 11:14:52 EST</name>
+              <longName>Rasterization_II.pdf uploaded on 2012-11-30 11:14:52 EST</longName>
+              <description>uploaded on 2012-11-30 11:14:52 EST</description>
+              <createdDate>Fri Nov 30 11:14:52 EST 2012</createdDate>
+              <createdBy />
+              <getLastModifiedDate>Fri Nov 30 11:14:52 EST 2012</getLastModifiedDate>
+              <getLastModifiedBy />
+              <status>0</status>
+              <identifier>44ea6521:13b51e50371:1a6d:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>Rasterization_II</pathSegment>
+              <arc>
+                <name>Rasterization_II.pdf</name>
+                <longName>LECTURE: Rasterization II</longName>
+                <description />
+                <createdDate>Fri Nov 30 11:14:52 EST 2012</createdDate>
+                <createdBy />
+                <getLastModifiedDate>Fri Nov 30 11:14:52 EST 2012</getLastModifiedDate>
+                <getLastModifiedBy />
+                <status>0</status>
+                <identifier>44ea6521:13b51e50371:1a6b:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>Rasterization_II.pdf</pathSegment>
+                <content>
+                  <name>Rasterization_II.pdf</name>
+                  <longName>LECTURE: Rasterization II</longName>
+                  <description />
+                  <createdDate>Fri Nov 30 11:14:52 EST 2012</createdDate>
+                  <createdBy />
+                  <getLastModifiedDate>Fri Nov 30 11:14:52 EST 2012</getLastModifiedDate>
+                  <getLastModifiedBy />
+                  <status>0</status>
+                  <identifier>44ea6521:13b51e50371:1a6c:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModName>true</showLastModName>
+                    <showLastModDate>true</showLastModDate>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>b3f8ee2f:44ea6521:13b51e50371:1a69:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>Rasterization_II.pdf</fileName>
+                    <size>3655789</size>
+                    <pathSegment>Rasterization_II.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/Rasterization_II/Rasterization_II.pdf/Rasterization_II.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-12-05 00:09:01 EST</name>
+              <longName>shadows.pdf uploaded on 2012-12-05 00:09:01 EST</longName>
+              <description>uploaded on 2012-12-05 00:09:01 EST</description>
+              <createdDate>Wed Dec 05 00:09:16 EST 2012</createdDate>
+              <createdBy />
+              <getLastModifiedDate>Wed Dec 05 00:09:16 EST 2012</getLastModifiedDate>
+              <getLastModifiedBy />
+              <status>0</status>
+              <identifier>44ea6521:13b695a9d3b:53e:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>shadows</pathSegment>
+              <arc>
+                <name>shadows.pdf</name>
+                <longName>LECTURE: Real-time shadows</longName>
+                <description />
+                <createdDate>Wed Dec 05 00:09:16 EST 2012</createdDate>
+                <createdBy />
+                <getLastModifiedDate>Wed Dec 05 00:09:16 EST 2012</getLastModifiedDate>
+                <getLastModifiedBy />
+                <status>0</status>
+                <identifier>44ea6521:13b695a9d3b:53c:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>shadows.pdf</pathSegment>
+                <content>
+                  <name>shadows.pdf</name>
+                  <longName>LECTURE: Real-time shadows</longName>
+                  <description />
+                  <createdDate>Wed Dec 05 00:09:16 EST 2012</createdDate>
+                  <createdBy />
+                  <getLastModifiedDate>Wed Dec 05 00:09:16 EST 2012</getLastModifiedDate>
+                  <getLastModifiedBy />
+                  <status>0</status>
+                  <identifier>44ea6521:13b695a9d3b:53d:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModName>true</showLastModName>
+                    <showLastModDate>true</showLastModDate>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>f3cee829:44ea6521:13b695a9d3b:52e:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>shadows.pdf</fileName>
+                    <size>4806873</size>
+                    <pathSegment>shadows.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/shadows/shadows.pdf/shadows.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-12-12 16:36:19 EST</name>
+              <longName>noname uploaded on 2012-12-12 16:36:19 EST</longName>
+              <description>uploaded on 2012-12-12 16:36:19 EST</description>
+              <createdDate>Wed Dec 12 16:36:19 EST 2012</createdDate>
+              <createdBy />
+              <getLastModifiedDate>Wed Dec 12 16:36:46 EST 2012</getLastModifiedDate>
+              <getLastModifiedBy />
+              <status>0</status>
+              <identifier>44ea6521:13b90d21be6:6d59:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>noname1</pathSegment>
+              <arc>
+                <name>graphics_hardware.pdf</name>
+                <longName>LECTURE: Graphics Hardware and Computer Games</longName>
+                <description />
+                <createdDate>Wed Dec 12 16:36:46 EST 2012</createdDate>
+                <createdBy />
+                <getLastModifiedDate>Wed Dec 12 16:36:47 EST 2012</getLastModifiedDate>
+                <getLastModifiedBy />
+                <status>0</status>
+                <identifier>44ea6521:13b90d21be6:6fd3:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>lastUsedStartDate</key>
+                    <value>Dec 12, 2012</value>
+                    <javaClass>java.util.Date</javaClass>
+                  </item>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic2</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>lectureNotes</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>graphics_hardware.pdf</pathSegment>
+                <content>
+                  <name>graphics_hardware.pdf</name>
+                  <longName>LECTURE: Graphics Hardware and Computer Games</longName>
+                  <description />
+                  <createdDate>Wed Dec 12 16:36:46 EST 2012</createdDate>
+                  <createdBy />
+                  <getLastModifiedDate>Wed Dec 12 16:36:47 EST 2012</getLastModifiedDate>
+                  <getLastModifiedBy />
+                  <status>0</status>
+                  <identifier>44ea6521:13b90d21be6:6fd4:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModName>true</showLastModName>
+                    <showLastModDate>true</showLastModDate>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>7113b1b9:44ea6521:13b90d21be6:6fd1:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>graphics_hardware.pdf</fileName>
+                    <size>4951007</size>
+                    <pathSegment>graphics_hardware.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic2/lectureNotes/noname1/graphics_hardware.pdf/graphics_hardware.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+          </arc>
+        </arc>
+        <arc>
+          <name>Study Materials</name>
+          <longName>Study Materials</longName>
+          <description>Study Materials</description>
+          <createdDate>2012-09-11 15:21:21.0</createdDate>
+          <createdBy>system</createdBy>
+          <getLastModifiedDate>Wed Dec 12 16:54:37 EST 2012</getLastModifiedDate>
+          <getLastModifiedBy>system</getLastModifiedBy>
+          <status>0</status>
+          <identifier>44ea6521:13b1de98475:508e:12092f49</identifier>
+          <useMetadata />
+          <pathSegment>topic3</pathSegment>
+          <arc>
+            <name>studyMaterial</name>
+            <longName>studyMaterial</longName>
+            <description>studyMaterial</description>
+            <createdDate>2012-09-11 15:24:10.0</createdDate>
+            <createdBy>system</createdBy>
+            <getLastModifiedDate>2012-10-10 18:11:44.0</getLastModifiedDate>
+            <getLastModifiedBy>system</getLastModifiedBy>
+            <status>0</status>
+            <identifier>44ea6521:13b1de98475:50ce:12092f49</identifier>
+            <useMetadata />
+            <pathSegment>studyMaterial</pathSegment>
+            <arc>
+              <name>uploaded on 2012-09-11 15:24:10 EDT</name>
+              <longName>C___review_slides.pdf uploaded on 2012-09-11 15:24:10 EDT</longName>
+              <description>uploaded on 2012-09-11 15:24:10 EDT</description>
+              <createdDate>2012-09-11 15:24:10.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-09-11 15:24:10.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:50d1:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>C___review_slides</pathSegment>
+              <arc>
+                <name>C___review_slides.pdf</name>
+                <longName>C++ review slides</longName>
+                <description />
+                <createdDate>2012-09-11 15:24:10.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-09-11 15:24:10.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50d3:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic3</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>studyMaterial</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wo_oy@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>C___review_slides.pdf</pathSegment>
+                <content>
+                  <name>C___review_slides.pdf</name>
+                  <longName>C++ review slides</longName>
+                  <description />
+                  <createdDate>2012-09-11 15:24:10.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-09-11 15:24:10.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50d4:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>fe0b440b:1779f5e3:139b6a226ac:4388:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>C++ review slides.pdf</fileName>
+                    <size>588092</size>
+                    <pathSegment>C___review_slides.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic3/studyMaterial/C___review_slides/C___review_slides.pdf/C___review_slides.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-09-18 12:58:33 EDT</name>
+              <longName>linear_algebra_review_note.pdf uploaded on 2012-09-18 12:58:33 EDT</longName>
+              <description>uploaded on 2012-09-18 12:58:33 EDT</description>
+              <createdDate>2012-09-18 12:58:34.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-09-18 12:58:34.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:50d2:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>linear_algebra_review_note</pathSegment>
+              <arc>
+                <name>linear_algebra_review_note.pdf</name>
+                <longName>Linear Algebra review slides</longName>
+                <description />
+                <createdDate>2012-09-18 12:58:34.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-09-18 12:58:34.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50d5:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic3</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>studyMaterial</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wo_oy@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>linear_algebra_review_note.pdf</pathSegment>
+                <content>
+                  <name>linear_algebra_review_note.pdf</name>
+                  <longName>Linear Algebra review slides</longName>
+                  <description />
+                  <createdDate>2012-09-18 12:58:34.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-09-18 12:58:34.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50d6:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>e8b3d450:-5f2a3be6:139da236eeb:6898:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>linear algebra review note.pdf</fileName>
+                    <size>784862</size>
+                    <pathSegment>linear_algebra_review_note.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic3/studyMaterial/linear_algebra_review_note/linear_algebra_review_note.pdf/linear_algebra_review_note.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+            <arc>
+              <name>uploaded on 2012-10-10 18:11:44 EDT</name>
+              <longName>old_exams.zip uploaded on 2012-10-10 18:11:44 EDT</longName>
+              <description>uploaded on 2012-10-10 18:11:44 EDT</description>
+              <createdDate>2012-10-10 18:11:44.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-10-10 18:11:44.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:50d0:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>old_exams</pathSegment>
+              <arc>
+                <name>old_exams.zip</name>
+                <longName>Old exams</longName>
+                <description />
+                <createdDate>2012-10-10 18:11:44.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-10-10 18:11:44.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50d7:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic3</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>studyMaterial</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wo_oy@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>old_exams.zip</pathSegment>
+                <content>
+                  <name>old_exams.zip</name>
+                  <longName>Old exams</longName>
+                  <description />
+                  <createdDate>2012-10-10 18:11:44.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-10-10 18:11:44.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50d8:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>9becbede:-5f2a3be6:13a4cb8f213:-73ae:12092f49</id>
+                    <type>application/zip</type>
+                    <fileName>old_exams.zip</fileName>
+                    <size>1951071</size>
+                    <pathSegment>old_exams.zip</pathSegment>
+                    <path>courseMaterial/topics/topic3/studyMaterial/old_exams/old_exams.zip/old_exams.zip</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+          </arc>
+          <arc>
+            <name>readings</name>
+            <longName>readings</longName>
+            <description>readings</description>
+            <createdDate>2012-10-19 17:29:33.0</createdDate>
+            <createdBy>system</createdBy>
+            <getLastModifiedDate>2012-10-19 17:29:33.0</getLastModifiedDate>
+            <getLastModifiedBy>system</getLastModifiedBy>
+            <status>0</status>
+            <identifier>44ea6521:13b1de98475:50cf:12092f49</identifier>
+            <useMetadata />
+            <pathSegment>readings</pathSegment>
+            <arc>
+              <name>uploaded on 2012-10-19 17:29:32 EDT</name>
+              <longName>quiz1soln.pdf uploaded on 2012-10-19 17:29:32 EDT</longName>
+              <description>uploaded on 2012-10-19 17:29:32 EDT</description>
+              <createdDate>2012-10-19 17:29:33.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-10-19 17:29:33.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:50d9:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>quiz1soln</pathSegment>
+              <arc>
+                <name>quiz1soln.pdf</name>
+                <longName>Quiz 1 Solution</longName>
+                <description />
+                <createdDate>2012-10-19 17:29:33.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-10-19 17:29:33.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50da:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic3</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>readings</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>desaic@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>quiz1soln.pdf</pathSegment>
+                <content>
+                  <name>quiz1soln.pdf</name>
+                  <longName>Quiz 1 Solution</longName>
+                  <description />
+                  <createdDate>2012-10-19 17:29:33.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-10-19 17:29:33.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50db:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>2e205f2d:-5f2a3be6:13a7adaf0aa:-529c:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>quiz1soln.pdf</fileName>
+                    <size>1726411</size>
+                    <pathSegment>quiz1soln.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic3/readings/quiz1soln/quiz1soln.pdf/quiz1soln.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+          </arc>
+          <arc>
+            <name>exam</name>
+            <longName>exam</longName>
+            <description>exam</description>
+            <createdDate>Wed Dec 12 16:54:37 EST 2012</createdDate>
+            <createdBy />
+            <getLastModifiedDate>Wed Dec 12 16:54:37 EST 2012</getLastModifiedDate>
+            <getLastModifiedBy />
+            <status>0</status>
+            <identifier>44ea6521:13b9111723c:-51d3:12092f49</identifier>
+            <useMetadata />
+            <pathSegment>exam</pathSegment>
+            <arc>
+              <name>uploaded on 2012-12-12 16:54:37 EST</name>
+              <longName>Final.pdf uploaded on 2012-12-12 16:54:37 EST</longName>
+              <description>uploaded on 2012-12-12 16:54:37 EST</description>
+              <createdDate>Wed Dec 12 16:54:37 EST 2012</createdDate>
+              <createdBy />
+              <getLastModifiedDate>Wed Dec 12 16:54:37 EST 2012</getLastModifiedDate>
+              <getLastModifiedBy />
+              <status>0</status>
+              <identifier>44ea6521:13b9111723c:-51d4:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>Final</pathSegment>
+              <arc>
+                <name>Final.pdf</name>
+                <longName>Final Exam -- Fall 2011</longName>
+                <description />
+                <createdDate>Wed Dec 12 16:54:37 EST 2012</createdDate>
+                <createdBy />
+                <getLastModifiedDate>Wed Dec 12 16:54:37 EST 2012</getLastModifiedDate>
+                <getLastModifiedBy />
+                <status>0</status>
+                <identifier>44ea6521:13b9111723c:-51d6:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic3</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>exam</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>wojciech@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>Final.pdf</pathSegment>
+                <content>
+                  <name>Final.pdf</name>
+                  <longName>Final Exam -- Fall 2011</longName>
+                  <description />
+                  <createdDate>Wed Dec 12 16:54:37 EST 2012</createdDate>
+                  <createdBy />
+                  <getLastModifiedDate>Wed Dec 12 16:54:37 EST 2012</getLastModifiedDate>
+                  <getLastModifiedBy />
+                  <status>0</status>
+                  <identifier>44ea6521:13b9111723c:-51d5:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModName>true</showLastModName>
+                    <showLastModDate>true</showLastModDate>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>fcbecf97:44ea6521:13b9111723c:-51f1:12092f49</id>
+                    <type>application/pdf</type>
+                    <fileName>Final.pdf</fileName>
+                    <size>491281</size>
+                    <pathSegment>Final.pdf</pathSegment>
+                    <path>courseMaterial/topics/topic3/exam/Final/Final.pdf/Final.pdf</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+          </arc>
+        </arc>
+        <arc>
+          <name>Misc</name>
+          <longName>Misc</longName>
+          <description>Misc</description>
+          <createdDate>2012-10-18 15:16:05.0</createdDate>
+          <createdBy>system</createdBy>
+          <getLastModifiedDate>2012-10-18 15:17:20.0</getLastModifiedDate>
+          <getLastModifiedBy>system</getLastModifiedBy>
+          <status>0</status>
+          <identifier>44ea6521:13b1de98475:508d:12092f49</identifier>
+          <useMetadata />
+          <pathSegment>topic4</pathSegment>
+          <arc>
+            <name>other</name>
+            <longName>other</longName>
+            <description>other</description>
+            <createdDate>2012-10-18 15:17:20.0</createdDate>
+            <createdBy>system</createdBy>
+            <getLastModifiedDate>2012-10-18 15:17:20.0</getLastModifiedDate>
+            <getLastModifiedBy>system</getLastModifiedBy>
+            <status>0</status>
+            <identifier>44ea6521:13b1de98475:50dc:12092f49</identifier>
+            <useMetadata />
+            <pathSegment>other</pathSegment>
+            <arc>
+              <name>uploaded on 2012-10-18 15:17:19 EDT</name>
+              <longName>quiz1-histo.png uploaded on 2012-10-18 15:17:19 EDT</longName>
+              <description>uploaded on 2012-10-18 15:17:19 EDT</description>
+              <createdDate>2012-10-18 15:17:20.0</createdDate>
+              <createdBy>system</createdBy>
+              <getLastModifiedDate>2012-10-18 15:26:42.0</getLastModifiedDate>
+              <getLastModifiedBy>system</getLastModifiedBy>
+              <status>0</status>
+              <identifier>44ea6521:13b1de98475:50dd:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>quiz1-histo</pathSegment>
+              <arc>
+                <name>quiz1-histo.png</name>
+                <longName>Quiz1 Histogram</longName>
+                <description />
+                <createdDate>2012-10-18 15:26:42.0</createdDate>
+                <createdBy>system</createdBy>
+                <getLastModifiedDate>2012-10-18 15:26:42.0</getLastModifiedDate>
+                <getLastModifiedBy>system</getLastModifiedBy>
+                <status>0</status>
+                <identifier>44ea6521:13b1de98475:50de:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>lastUsedStartDate</key>
+                    <value>Oct 18, 2012</value>
+                    <javaClass>java.util.Date</javaClass>
+                  </item>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic4</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>other</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>desaic@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>quiz1-histo.png</pathSegment>
+                <content>
+                  <name>quiz1-histo.png</name>
+                  <longName>Quiz1 Histogram</longName>
+                  <description />
+                  <createdDate>2012-10-18 15:26:42.0</createdDate>
+                  <createdBy>system</createdBy>
+                  <getLastModifiedDate>2012-10-18 15:26:42.0</getLastModifiedDate>
+                  <getLastModifiedBy>system</getLastModifiedBy>
+                  <status>0</status>
+                  <identifier>44ea6521:13b1de98475:50df:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModDate>true</showLastModDate>
+                    <showLastModName>true</showLastModName>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>7ea12bed:-5f2a3be6:13a75467897:-3b03:12092f49</id>
+                    <type>image/png</type>
+                    <fileName>quiz1-histo.png</fileName>
+                    <size>16794</size>
+                    <pathSegment>quiz1-histo.png</pathSegment>
+                    <path>courseMaterial/topics/topic4/other/quiz1-histo/quiz1-histo.png/quiz1-histo.png</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+          </arc>
+        </arc>
+        <arc>
+          <name>Best Picture Award</name>
+          <longName>Best Picture Award</longName>
+          <description>Best Picture Award</description>
+          <createdDate>Sun Dec 16 13:19:52 EST 2012</createdDate>
+          <createdBy />
+          <getLastModifiedDate>Sun Dec 16 13:21:23 EST 2012</getLastModifiedDate>
+          <getLastModifiedBy />
+          <status>0</status>
+          <identifier>44ea6521:13ba4e4828c:-3a8f:12092f49</identifier>
+          <useMetadata />
+          <pathSegment>topic5</pathSegment>
+          <arc>
+            <name>other</name>
+            <longName>other</longName>
+            <description>other</description>
+            <createdDate>Sun Dec 16 13:21:23 EST 2012</createdDate>
+            <createdBy />
+            <getLastModifiedDate>Sun Dec 16 13:21:23 EST 2012</getLastModifiedDate>
+            <getLastModifiedBy />
+            <status>0</status>
+            <identifier>44ea6521:13ba4e4828c:-360a:12092f49</identifier>
+            <useMetadata />
+            <pathSegment>other</pathSegment>
+            <arc>
+              <name>uploaded on 2012-12-16 13:21:22 EST</name>
+              <longName>19.png uploaded on 2012-12-16 13:21:22 EST</longName>
+              <description>uploaded on 2012-12-16 13:21:22 EST</description>
+              <createdDate>Sun Dec 16 13:21:23 EST 2012</createdDate>
+              <createdBy />
+              <getLastModifiedDate>Sun Dec 16 13:21:23 EST 2012</getLastModifiedDate>
+              <getLastModifiedBy />
+              <status>0</status>
+              <identifier>44ea6521:13ba4e4828c:-360b:12092f49</identifier>
+              <useMetadata />
+              <pathSegment>19</pathSegment>
+              <arc>
+                <name>19.png</name>
+                <longName>Best Picture Award</longName>
+                <description />
+                <createdDate>Sun Dec 16 13:21:23 EST 2012</createdDate>
+                <createdBy />
+                <getLastModifiedDate>Sun Dec 16 13:21:23 EST 2012</getLastModifiedDate>
+                <getLastModifiedBy />
+                <status>0</status>
+                <identifier>44ea6521:13ba4e4828c:-360d:12092f49</identifier>
+                <useMetadata>
+                  <item>
+                    <key>topic</key>
+                    <value>../courseMaterial/topics/topic5</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>kind</key>
+                    <value>other</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>originator</key>
+                    <value>desaic@mit.edu</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModName</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                  <item>
+                    <key>showLastModDate</key>
+                    <value>true</value>
+                    <javaClass>java.lang.String</javaClass>
+                  </item>
+                </useMetadata>
+                <pathSegment>19.png</pathSegment>
+                <content>
+                  <name>19.png</name>
+                  <longName>Best Picture Award</longName>
+                  <description />
+                  <createdDate>Sun Dec 16 13:21:23 EST 2012</createdDate>
+                  <createdBy />
+                  <getLastModifiedDate>Sun Dec 16 13:21:23 EST 2012</getLastModifiedDate>
+                  <getLastModifiedBy />
+                  <status>0</status>
+                  <identifier>44ea6521:13ba4e4828c:-360c:12092f49</identifier>
+                  <keyValueMetadata>
+                    <e-reserves-citation-notes />
+                    <e-reserves-citation-author />
+                    <e-reserves-citation-source />
+                    <e-reserves-citation-title />
+                    <showLastModName>true</showLastModName>
+                    <showLastModDate>true</showLastModDate>
+                  </keyValueMetadata>
+                  <pathSegment />
+                  <contentAtom>
+                    <id>adc80f52:44ea6521:13ba4e4828c:-360f:12092f49</id>
+                    <type>image/png</type>
+                    <fileName>19.png</fileName>
+                    <size>4349969</size>
+                    <pathSegment>19.png</pathSegment>
+                    <path>courseMaterial/topics/topic5/other/19/19.png/19.png</path>
+                  </contentAtom>
+                </content>
+              </arc>
+            </arc>
+          </arc>
+        </arc>
+      </arc>
+    </arc>
+  </arc>
+</nexus>
+
