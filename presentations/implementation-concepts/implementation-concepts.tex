@@ -53,7 +53,7 @@ projector. We're not entirely sure if that's even necessary, so we also consider
 different techniques for integrating a small digital projectors
 
 \begin{itemize}
-\item Fine grating in front of an LED. The shadow cast by the grating on the
+\item \textbf{Fine grating in front of an LED}. The shadow cast by the grating on the
   object will create the lines necessary for structured light scanning. There are a few different ways this technique can be utilizied. It
   could be achieved by having multiple static LEDs with gratings in front of
   them projecting from different positions.  It could also be achieved with a single LED with a grating in front of it that can be moved by a small piezo-electric motor.
@@ -69,7 +69,7 @@ different techniques for integrating a small digital projectors
   \item Consistency of grating manufacturability with low cost techniques
   \end{itemize}
 
-\item Overlapping color filters. Have multiple filter sheets (red, green, blue, etc.) with holes cut in them. Have the holes overlap irregularly, so a multi-colored grid is projected on the object to be scanned.
+\item \textbf{Overlapping color filters}. Have multiple filter sheets (red, green, blue, etc.) with holes cut in them. Have the holes overlap irregularly, so a multi-colored grid is projected on the object to be scanned.
 
 Pros:
 \begin{itemize}
@@ -82,7 +82,7 @@ Cons:
 \item Projected colored light will be difficult to distinguish on objects that are close in color to the projected light.
 \end{itemize}
 
-\item Use an off-the-shelf pico-projector. 
+\item \textbf{Off-the-shelf pico-projector}. 
 
 Pros:
 \begin{itemize}
@@ -92,11 +92,12 @@ Pros:
 
 Cons:
 \begin{itemize}
-\item May not be able to focus at the closest distance we require without changing lenses
+\item Minimum focal distance may be much farther than the distance we want the
+  object to be from the projector
 \item Cost seems to be around \$350-\$600 per unit
 \end{itemize}
 
-\item Manufacture own small projector.
+\item \textbf{Manufacture small digital projector}.
 
 Pros:
 \begin{itemize}
@@ -108,7 +109,7 @@ Cons:
 \begin{itemize}
 \item Very little idea of what is required for this
 \item Adds complexity to design
-\item Could also be very expensive
+\item Could also be expensive
 \end{itemize}
 \end{itemize}
 
@@ -118,7 +119,7 @@ On the imaging side, the resolution of the scan is limited by, predictable, the 
 Although it may be obvious, it is imperitive that each point in the scan be in focus when the image is taken. For such close up imaging, this can be a challege to gather enough light for the image while retaining a sufficient depth of field. The other challenge is to capture as much of the area inside of the scanner as possible with as few cameras as possible. This would suggest trying to use wide angle cameras, but the cheapest cameras all have a relatively narrow field of view.
 
 \begin{itemize}
-\item Array of cheap off-the-shelf CMOS cameras. 
+\item \textbf{Array of cheap off-the-shelf CMOS cameras}.
 
 Pros:
 \begin{itemize}
@@ -132,7 +133,7 @@ Cons:
 \item Difficulty focusing at small distances from the camera
 \end{itemize}
 
-\item Pinhole camera using cheap CMOS arrays.
+\item \textbf{Pinhole camera built around CMOS sensor array}.
 
 Pros:
 \begin{itemize}
