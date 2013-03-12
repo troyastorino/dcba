@@ -11,17 +11,17 @@ protected:
   // Extrinsic parameters //
   // Orientation and location of the camera in world coordinates
   const Matrix4f pose;
-      
+
   // Intrinsic Parameters //
   // Focal length
   const float focalLength;
-      
+
   // Camera center, or principal point
   const Vector2f principalPoint;
-      
+
   // Skew coefficient
   const float alpha;
-      
+
   // Lens distortion coefficients -- is a vector whose length depends on the
   // order of the lens distortion model
   const vector<float> distortion;

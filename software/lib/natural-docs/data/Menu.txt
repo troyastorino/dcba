@@ -50,6 +50,18 @@ Format: 1.52
 # --------------------------------------------------------------------------
 
 
+File: Image  (/Users/t_bohlen/projects/me/dcba/software/include/Image.hpp)
+File: Projector  (/Users/t_bohlen/projects/me/dcba/software/include/Projector.hpp)
+
+Group: Index  {
+
+   Index: Everything
+   Class Index: Classes
+   Property Index: Properties
+   Function Index: Functions
+   Type Index: Types
+   }  # Group: Index
+
 
 
 ##### Do not change or remove these lines. #####

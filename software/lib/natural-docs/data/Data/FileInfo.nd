@@ -1,7 +1,15 @@
 1.52
 C/C++
-/Users/t_bohlen/projects/me/dcba/software/include/OpticalEquipment.hpp	1363045658	0	/Users/t_bohlen/projects/me/dcba/software/include/OpticalEquipment.hpp
-/Users/t_bohlen/projects/me/dcba/software/src/CompileTest.cpp	1363045658	0	/Users/t_bohlen/projects/me/dcba/software/src/CompileTest.cpp
+/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/link.txt	1363058235	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/link.txt
+/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/flags.make	1363058235	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/flags.make
+/Users/t_bohlen/projects/me/dcba/software/include/OpticalEquipment.hpp	1363059078	0	/Users/t_bohlen/projects/me/dcba/software/include/OpticalEquipment.hpp
+/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/progress.make	1363058235	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/progress.make
+/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/build.make	1363058235	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/build.make
+/Users/t_bohlen/projects/me/dcba/software/include/Camera.hpp	1363059029	0	/Users/t_bohlen/projects/me/dcba/software/include/Camera.hpp
+/Users/t_bohlen/projects/me/dcba/software/include/Projector.hpp	1363060562	1	Projector
 /Users/t_bohlen/projects/me/dcba/software/src/CMakeLists.txt	1363045658	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeLists.txt
-/Users/t_bohlen/projects/me/dcba/software/include/Pattern.hpp	1363045658	0	/Users/t_bohlen/projects/me/dcba/software/include/Pattern.hpp
-/Users/t_bohlen/projects/me/dcba/software/include/Image.hpp	1363045658	0	/Users/t_bohlen/projects/me/dcba/software/include/Image.hpp
+/Users/t_bohlen/projects/me/dcba/software/include/Pattern.hpp	1363059029	0	/Users/t_bohlen/projects/me/dcba/software/include/Pattern.hpp
+/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/depend.make	1363058236	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/depend.make
+/Users/t_bohlen/projects/me/dcba/software/src/Projector.cpp	1363058848	0	/Users/t_bohlen/projects/me/dcba/software/src/Projector.cpp
+/Users/t_bohlen/projects/me/dcba/software/src/CompileTest.cpp	1363045658	0	/Users/t_bohlen/projects/me/dcba/software/src/CompileTest.cpp
+/Users/t_bohlen/projects/me/dcba/software/include/Image.hpp	1363059656	1	Image
