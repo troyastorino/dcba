@@ -1,9 +1,9 @@
 #ifndef PATTERN_H
 #define PATTERN_H
 
-#include "OpticalEquipment.hpp"
+#include "Projector.hpp"
 #include <opencv2/core/core.hpp>
-#include <vecmath.h>
+#include "vecmath.h"
 
 class Pattern {
 protected:

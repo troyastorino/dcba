@@ -1,7 +1,7 @@
 #ifndef OPTICAL_EQUIPMENT_H
 #define OPTICAL_EQUIPMENT_H
 
-#include <opencv2/core/core.hpp>
+#include <opencv2/opencv.hpp>
 #include "vecmath.h"
 
 using namespace std;
@@ -28,23 +28,5 @@ protected:
 
 public:
   OpticalEquipment();
-
 };
-
-class Camera : OpticalEquipment {
-    
-};
-
-class Projector : OpticalEquipment {
-public:
-  enum ProjectorType {
-    DLP,
-    STATIC_LED
-  };
-
-protected:
-  ProjectorType type;
-};
-
-
 #endif
