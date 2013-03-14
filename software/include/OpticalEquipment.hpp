@@ -27,6 +27,11 @@ protected:
   const vector<float> distortion;
 
 public:
-  OpticalEquipment();
+  // Constructor: Default constructor for OpticalEquipment that puts dummy
+  // values for all of the variables. TODO: remove this constructor once we have
+  // a system that can get real variables
+  OpticalEquipment():
+    pose(Matrix4f()), focalLength(1), principalPoint(Vector2f(0,0)),
+    alpha(0), distortion(vector<float>()) {};
 };
 #endif

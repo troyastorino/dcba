@@ -5,6 +5,8 @@
 #include "Pattern.hpp"
 #include <opencv2/opencv.hpp>
 
+class Camera;
+
 /*
  * Class: Image
  *
@@ -20,7 +22,7 @@
  * image - the pixel data comprising the image
  */
 class Image {
-  protected:
+  public:
     // Property: patterns
     // The pattern that was projected when the image was captured
     const vector<GeneratedPattern*> patterns;
@@ -31,7 +33,11 @@ class Image {
 
     // Property: image
     // The image data
-    const cv::Mat image;
+    const cv::Mat * image;
+
+    //
+    Image(const cv::Mat * image, const Camera* camera, const vector<GeneratedPattern*> patterns):
+      image(image), camera(camera), patterns(patterns) {};
 };
 
 #endif

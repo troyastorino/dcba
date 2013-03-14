@@ -115,6 +115,30 @@ compile_test/fast:
 	cd /Users/troyastorino/Dropbox/dcba/software && $(MAKE) -f src/CMakeFiles/compile_test.dir/build.make src/CMakeFiles/compile_test.dir/build
 .PHONY : compile_test/fast
 
+Camera.o: Camera.cpp.o
+.PHONY : Camera.o
+
+# target to build an object file
+Camera.cpp.o:
+	cd /Users/troyastorino/Dropbox/dcba/software && $(MAKE) -f src/CMakeFiles/compile_test.dir/build.make src/CMakeFiles/compile_test.dir/Camera.cpp.o
+.PHONY : Camera.cpp.o
+
+Camera.i: Camera.cpp.i
+.PHONY : Camera.i
+
+# target to preprocess a source file
+Camera.cpp.i:
+	cd /Users/troyastorino/Dropbox/dcba/software && $(MAKE) -f src/CMakeFiles/compile_test.dir/build.make src/CMakeFiles/compile_test.dir/Camera.cpp.i
+.PHONY : Camera.cpp.i
+
+Camera.s: Camera.cpp.s
+.PHONY : Camera.s
+
+# target to generate assembly for a file
+Camera.cpp.s:
+	cd /Users/troyastorino/Dropbox/dcba/software && $(MAKE) -f src/CMakeFiles/compile_test.dir/build.make src/CMakeFiles/compile_test.dir/Camera.cpp.s
+.PHONY : Camera.cpp.s
+
 CompileTest.o: CompileTest.cpp.o
 .PHONY : CompileTest.o
 
@@ -148,6 +172,9 @@ help:
 	@echo "... compile_test"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... Camera.o"
+	@echo "... Camera.i"
+	@echo "... Camera.s"
 	@echo "... CompileTest.o"
 	@echo "... CompileTest.i"
 	@echo "... CompileTest.s"

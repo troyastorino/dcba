@@ -2,6 +2,10 @@
 #define PROJECTOR_H
 
 #include "OpticalEquipment.hpp"
+#include "Pattern.hpp"
+
+class Pattern;
+class GeneratedPattern;
 
 /*
  * Class: Projector

@@ -1,0 +1,93 @@
+\documentclass[10pt]{article}
+
+% small margins
+\usepackage[margin=1in]{geometry}
+
+% no large spaces in lists
+\usepackage{enumitem}
+\setlist{nolistsep}
+
+\title{\vspace{-4em}6.S078 Update}
+\author{Troy Astorino \and Turner Bohlen \and Craig Cheney \and Gus Downs}
+
+\usepackage{hyperref}
+
+\begin{document}
+\maketitle
+\vspace{-4em}
+
+\section{Plan Progress}
+This week has been focused on prototype progress, as weeks will most likely be
+for the rest of the class.  In our meeting with Dr. Fantone (an optics
+consultant who has done consumer, medical, and military optical metrology work),
+e clarified our understanding of how our implementation concepts would work, and
+gained knowledge of some techniques that should prove to be very helpful. Dr. Fantone
+also expressed that he thought our accuracy goals (0.1 mm) are very
+conservative, even 'sloppy', which gives additional hope that our low price
+point is achievable.  
+
+We also noticed a few potential competitors emerge in the market.  At SXSW
+MakerBot announced the Digitizer, a desktop 3D scanner they are developing.  It
+is still in prototype phase, so there isn't any information available on price
+and accuracy.  Based on the price of MakerBot's 3D printers and their
+description of the technology they were using, we expect the Digitizer will come
+in at a higher price point than we are aiming for, but time will tell.
+Additionally, an Kickstarter campaign for a company called CADScan is very near
+its \pounds 80,000 funding goal with 6 days left; we expect it will get funded.
+CADScan is also producing a desktop 3D scanner. Based off the Kickstarter
+campaign they are planning on a price at least over \$1,000. There wasn't
+explicit information on accuracy. These competitors show that we aren't
+completely crazy in thinking there could be a large market here, but it does
+mean that we are going to have to be more aware of the competitive landscape.
+
+We also discussed what the team's plans for continuation of the project after
+the class. We have two members that are planning to continue working on it over
+the summer, and will be applying to various accelerators for that.  We also
+discussed what commitments could be after that point, and came to some
+conclusions. Obviously, these conclusions would be flexible enough to adapt to
+changing circumstances.
+
+\section{Prototype Progress}
+We've started software development in earnest. We've designed our system so we
+can start coding for use with USB Webcams and external display projectors, and
+will be able to (relatively) easily transition the code to our final system. If
+you want to be able to look at our software development progress, please email us
+(\href{mailto:dcba@mit.edu}{dcba@mit.edu}) and we can add you to our private GitHub repository.
+
+We ordered initial parts for hardware prototyping as well. We've laid out a
+reasonable development plan that has us going end-to-end on our test hardware,
+from imaging to 3D model, by the 8th of March.
+
+Our meeting with Dr. Fantone really helped us elucidate the plan for projecting
+light on the object. We came to him with the projection options we had
+previously brainstormed, and of those only having a grating in front of an LED
+really survived. The name for the grating projection technique we would use is
+Talbot imaging.  The other concepts we decided to look into after this meeting
+are creating patterns interferometrically (i.e. optical fringes) and Moire
+contouring. 
+
+\section{Baffling Variables}
+None are particularly baffling at the moment. The biggest unknown for us is execution.
+
+\section{Seven Day Plan}
+This is less of a seven day plan as much as a near future development plan:
+
+The software plan has us generating a triangulated point cloud by Saturday 3/16, and
+using existing graphical software to mesh that into a surface by next Tuesday, 3/19. We
+then have the meshing process automated (using the libraries for the existing
+software) by next Friday, 3/22.
+
+Over the next week, hardware has two separate tasks. First, it is integrating the sensors and chips we
+ordered into a microcontroller which will be able to talk with the software
+program.  Second, it needs to decide on what we need to test in order to decide
+between our different projection options. It also need to start ordering the
+ parts necessary for these tests.
+
+\section{People to Meet}
+We are doing fine on this front.
+
+\section{Desired Resources}
+Also doing OK. We're still working on getting prototyping funding, and am
+picking up that conversation with Professor Gifford again on 3/17.
+
+\end{document}

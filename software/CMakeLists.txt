@@ -9,8 +9,15 @@ set(EXECUTABLE_OUTPUT_PATH ${CMAKE_SOURCE_DIR}/bin)
 include_directories(${CMAKE_SOURCE_DIR}/include)
 include_directories(${CMAKE_SOURCE_DIR}/lib/vecmath/include)
 
-# source directory
-add_subdirectory(src)
+# link paths
+link_directories(${CMAKE_SOURCE_DIR}/include)
 
 # add opencv
 find_package(OpenCV REQUIRED)
+
+# add directories
+add_subdirectory(include)
+add_subdirectory(src)
+
+# add libraries
+add_subdirectory(lib/vecmath)
