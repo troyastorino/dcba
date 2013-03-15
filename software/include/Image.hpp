@@ -29,15 +29,15 @@ class Image {
 
     // Property: camera
     // The camera that captured the image
-    const Camera * camera;
+    const Camera& camera;
 
     // Property: image
     // The image data
-    const cv::Mat * image;
+    const cv::Mat data;
 
     //
-    Image(const cv::Mat * image, const Camera* camera, const vector<GeneratedPattern*> patterns):
-      image(image), camera(camera), patterns(patterns) {};
+    Image(const cv::Mat data, const Camera& camera, const vector<GeneratedPattern*> patterns):
+      data(data), camera(camera), patterns(patterns) {};
 };
 
 #endif

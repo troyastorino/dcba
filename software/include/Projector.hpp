@@ -50,7 +50,7 @@ public:
    * a generated pattern that (nearly) perfectly represents the light field
    * created by the projector.
    */
-  static GeneratedPattern* projectPattern(Projector* projector, Pattern* pattern);
+  static GeneratedPattern projectPattern(Projector& projector, Pattern& pattern);
 
 protected:
   /*

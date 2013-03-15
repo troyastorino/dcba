@@ -2,6 +2,9 @@ cmake_minimum_required(VERSION 2.8)
 
 project(DCBA)
 
+# set build level to debug
+set(CMAKE_BUILD_TYPE Debug)
+
 # build path
 set(EXECUTABLE_OUTPUT_PATH ${CMAKE_SOURCE_DIR}/bin)
 

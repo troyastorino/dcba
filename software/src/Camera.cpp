@@ -4,23 +4,26 @@
 
 using namespace cv;
 
-Image* Camera::captureImage(const int deviceNum) {
+Image Camera::captureImage(const int deviceNum) {
   VideoCapture capture(deviceNum);
-  return Camera::captureImage(&capture);
+  return Camera::captureImage(capture);
 }
 
-Image* Camera::captureImage(const VideoCapture *capture) {
+Image Camera::captureImage(VideoCapture& capture) {
+  Camera camera(capture);
+  return Camera::captureImage(camera);
+}
+
+Image Camera::captureImage(const Camera& camera) {
   // capture an image
   Mat frame;
-  Camera cam(capture);
-  VideoCapture cap = *capture;
-  cap >> frame;
+  camera.device >> frame;
 
   // check if capture succeeded
   if (frame.empty()) {
     throw("ERROR: Image capture failed.");
   } else {
-    Image img(&frame, &cam, vector<GeneratedPattern*>());
-    return &img;
+    Image img(frame, camera, vector<GeneratedPattern*>());
+    return img;
   }
 }
