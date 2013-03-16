@@ -50,7 +50,10 @@ Format: 1.52
 # --------------------------------------------------------------------------
 
 
+File: Camera  (/Users/t_bohlen/projects/me/dcba/software/include/Camera.hpp)
 File: Image  (/Users/t_bohlen/projects/me/dcba/software/include/Image.hpp)
+File: OpticalEquipment  (/Users/t_bohlen/projects/me/dcba/software/include/OpticalEquipment.hpp)
+File: Pattern  (/Users/t_bohlen/projects/me/dcba/software/include/Pattern.hpp)
 File: Projector  (/Users/t_bohlen/projects/me/dcba/software/include/Projector.hpp)
 
 Group: Index  {

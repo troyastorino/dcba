@@ -14,7 +14,7 @@ class GeneratedPattern;
  * defined by the <type> property and is used to make sure a given projector can
  * project a given pattern in <projectPattern>.
  *
- * Subclass of OpticalEquipment
+ * Subclass of <OpticalEquipment>
  *
  * Properties:
  * type - the type of this projector, as defined in <ProjectorType> enum

@@ -7,6 +7,18 @@
 
 class Image;
 
+/*
+ * Class: Camera
+ * Contains all information relevant to a physical camera. This includes a
+ * reference to the video capture device itself and the information necessary to
+ * convert images from the world space to camera space that result from calibration.
+ *
+ * Subclass of <OpticalEquipment>
+ *
+ * Properties:
+ * device - a reference to the VideoCapture device defined by OpenCV that can be used to campture
+ * an image
+ */
 class Camera : OpticalEquipment {
   public:
     //Property: OpenCV's VideoCapture object. TODO: May not want this as an
