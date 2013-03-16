@@ -6,28 +6,24 @@ using namespace std;
 
 // A Simple Camera Capture Framework 
 int main() {
-  VideoCapture capture(0);
-  if ( !capture.isOpened() ) {
-    cout << "ERROR: could not connect to an image capture device" << endl; 
-    return -1;
-  }
+  VideoCapture capture0(0);
+  VideoCapture capture1(2);
   
   // Create a window in which the captured images will be presented
-  namedWindow( "Captured Video", CV_WINDOW_AUTOSIZE );
-  
+  namedWindow( "0", CV_WINDOW_AUTOSIZE );
+  namedWindow( "1", CV_WINDOW_AUTOSIZE );
   // Show the image captured from the camera in the window and repeat
   while ( true ) {
     // Get one frame
-    Mat frame;
-    capture >> frame;
-    if (frame.empty()) {
-      cout << "ERROR: Image capture failed." << endl;
-      return -1;
-    }
+    Mat frame0, frame1, frame2;
+    
+    capture0 >> frame0;
+    capture1 >> frame1;
 
     // show the image
-    imshow( "Captured Video", frame );
-
+    imshow( "0", frame0 );
+    imshow( "1", frame1 );
+    
     // wait for 10 ms for a key to be pressed; if one is, exit
     if ( waitKey(10) > 0) break;
   }

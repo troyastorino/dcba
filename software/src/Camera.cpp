@@ -4,17 +4,7 @@
 
 using namespace cv;
 
-Image Camera::captureImage(const int deviceNum) {
-  VideoCapture capture(deviceNum);
-  return Camera::captureImage(capture);
-}
-
-Image Camera::captureImage(VideoCapture& capture) {
-  Camera camera(capture);
-  return Camera::captureImage(camera);
-}
-
-Image Camera::captureImage(const Camera& camera) {
+Image Camera::captureImage(Camera& camera) {
   // capture an image
   Mat frame;
   camera.device >> frame;
