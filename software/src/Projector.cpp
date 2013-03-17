@@ -1,12 +1,12 @@
 #include "Projector.hpp"
+#include <opencv2/core/core.hpp>
 
 using namespace std;
 
-GeneratedPattern Projector::projectPattern( const Projector& projector, const Pattern& pattern ) {
-  // checks to make sure that the projector can project the given pattern
-
+GeneratedPattern DLPProjector::projectPattern( const DLPProjector& projector, const DLPPattern& pattern ) {
   // creates a new matrix and distorts the pattern according to the projector
   // parameters
+  cv::Mat& image = pattern.image;
 
   // wraps that new image in a GeneratedPattern and returns it
 }
