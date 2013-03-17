@@ -13,6 +13,7 @@
 *.a
 
 # Binary files
+bin
 bin/*
 
 # LaTeX files

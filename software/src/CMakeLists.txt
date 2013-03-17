@@ -1,3 +1,3 @@
-add_executable(compile_test CompileTest.cpp Camera.cpp)
-target_link_libraries(compile_test ${OpenCV_LIBS} VecMath)
+add_executable(calibrate_cameras CalibrateCameras.cpp Camera.cpp)
+target_link_libraries(calibrate_cameras ${OpenCV_LIBS} VecMath)
 
