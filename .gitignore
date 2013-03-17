@@ -43,3 +43,7 @@ cmake_install.cmake
 CMakeFiles/*
 CMakeFiles
 Makefile
+
+# vim swap files
+*.swp
+*.swo
