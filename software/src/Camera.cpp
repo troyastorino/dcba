@@ -4,8 +4,14 @@
 
 using namespace cv;
 
+Image Camera::captureImage(VideoCapture capture) {
+ // capture an image
+  Camera cam(capture);
+  return captureImage(cam);
+}
+
 Image Camera::captureImage(Camera& camera) {
-  // capture an image
+ // capture an image
   Mat frame;
   camera.device >> frame;
 

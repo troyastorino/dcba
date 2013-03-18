@@ -29,6 +29,9 @@ class Camera : OpticalEquipment {
     // this constructor so that imaging devices will always have their intrinsic
     // and external parameters in their object
     Camera(cv::VideoCapture device) : device(device) {};
+    Camera(cv::VideoCapture device, Mat cameraMatrix, Mat distortion) :
+      device(device), OpticalEquipment(cameraMatrix, distortion) {};
+
         
     /*
      * Method: captureImage
@@ -37,7 +40,21 @@ class Camera : OpticalEquipment {
      * picture and returns it as an <Image> object
      */
     static Image captureImage(Camera& camera);
+    static Image captureImage(cv::VideoCapture device);
+
+  
+    /*
+     * Method: captureImages
+     * Given the device location information for a camera, this orders that
+     * camera to take a series of images with a certain delay, and returns a
+     * vector of the captured images
+     */
     static std::vector<Image> captureImages(int deviceNum = 0, int numImages = 1, int delayMillis = 10);
+
+    /*
+     * Method calculateCalibration
+     * Assumes we are using a checkerboard to calibrate the camera
+     */
 };
 
 #endif
