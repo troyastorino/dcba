@@ -92,7 +92,7 @@ Camera calibrateCameraWithCheckerboard(Size interiorCorners, float squareSideLen
   // initialize image size on first image
   bool imageSizeInitialized = false;
   Size imageSize;
-  while (imagePoints.size() < 10) {
+  while (imagePoints.size() < numImages) {
     // capture an image
     Image img = Camera::captureImage(capture);
 
