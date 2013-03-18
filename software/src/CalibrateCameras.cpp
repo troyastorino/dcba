@@ -22,13 +22,13 @@ vector<Point3f> generateCornerCoordinates(Size size, float sideLength) {
 // squareSideLength: the side length of a checkerboard square
 // returns a vector of image points representing the board corners if a pattern
 // is found, or else an empty vector if no pattern is found
-vector<Point2f> findCheckerboardCorners(const Image& img, Size interiorCorners,
+vector<Point2f> findCheckerboardCorners(Mat imageData, Size interiorCorners,
                                         float squareSideLength, bool subPixel = false) {
   // initialize vector of chessboard corner locations
   vector<Point2f> imageCorners;
 
   // look for the checkerboard pattern
-  bool patternFound = findChessboardCorners(img.data, interiorCorners, imageCorners,
+  bool patternFound = findChessboardCorners(imageData, interiorCorners, imageCorners,
                        CV_CALIB_CB_ADAPTIVE_THRESH |
                        CV_CALIB_CB_FAST_CHECK |
                        CV_CALIB_CB_NORMALIZE_IMAGE);
@@ -40,14 +40,14 @@ vector<Point2f> findCheckerboardCorners(const Image& img, Size interiorCorners,
 
     // create a gray image for subpixel recognition
     Mat gray;
-    cvtColor(img.data, gray, CV_BGR2GRAY);
+    cvtColor(imageData, gray, CV_BGR2GRAY);
 
     cornerSubPix(gray, imageCorners, Size(11, 11), Size(-1, -1),
                  TermCriteria(CV_TERMCRIT_EPS + CV_TERMCRIT_ITER, 30, 0.1));
   }
 
   // draw the chessboard corners on the image
-  drawChessboardCorners(img.data, interiorCorners, Mat(imageCorners), patternFound);
+  drawChessboardCorners(imageData, interiorCorners, Mat(imageCorners), patternFound);
 
   // return the image corners
   if (patternFound) {
@@ -57,11 +57,10 @@ vector<Point2f> findCheckerboardCorners(const Image& img, Size interiorCorners,
   }
 }
 
-/* calibrateCameraWithCheckerboard: Captures a sequence of images in order to
- * calibrate a camera. You should be holding the checkerboad calibration sheet
- * at different angles while the camera is calibrating
- * TODO: abstract away to running the program over a series of images instead of
- * just for capturing images
+/*
+ * captureCheckerboardCalibrationImages: captures a sequence of images to be
+ * used for calibrating a camera. Shows the images being produced by the camera,
+ * and pauses if the image is a good one
  *
  * Size interiorCorners: the dimensions of the interior corners of the
  * checkerboard
@@ -72,14 +71,55 @@ vector<Point2f> findCheckerboardCorners(const Image& img, Size interiorCorners,
  * int delayTime: the time to have the program wait between captured images to
  * allow you to move the checkerboard (in seconds)
  */
-Camera calibrateCameraWithCheckerboard(Size interiorCorners, float squareSideLength,
-                                       VideoCapture capture, int numImages = 5, int delayTime = 2) {
-  // name of the window
+vector<Image> captureCheckerboardCalibrationImages(VideoCapture capture, Size interiorCorners, float squareSideLength,
+                                                   int numImages = 5, int delayTime = 2) {
+  // name of the window to view images in
   string name = "Camera Calibration";
   
-  // open a window to view the images
+  // open a window to view the images in
   namedWindow(name, CV_WINDOW_AUTOSIZE);
 
+  // initialize the structure to hold the return images
+  vector<Image> images;
+  
+  // collect the images
+  while (images.size() < numImages) {
+    // capture an image
+    Image img = Camera::captureImage(capture);
+    // create a copy of the image data
+    Mat copy = img.data.clone();
+    
+    vector<Point2f> corners = findCheckerboardCorners(copy, interiorCorners, squareSideLength);
+
+    // show the image
+    imshow(name, copy);
+    waitKey(10); // necessary for opencv to do the window display
+
+    // add the image if it has corners
+    if (corners.size() > 0) {
+      images.push_back(img);
+
+      // sleep so the user can move the image to a new angle (in microseconds)
+      waitKey(delayTime * 1000);
+    }
+  }
+
+  return images;
+}
+
+/* calibrateCameraWithCheckerboard: From a series of checkerboard images
+ * initializes a calibrated Camera object
+ *
+ * VideoCapture capture: the device that can capture images
+ * vector<Image> images: the images of the checkerboard to be used for
+ * calibration. This images must be from the same camera, and so must be the
+ * same size
+ * Size interiorCorners: the dimensions of the interior corners of the
+ * checkerboard
+ * float squareSideLength: the side length of one of the squares of the
+ * checkerboard
+ */
+Camera calibrateCameraWithCheckerboard(VideoCapture capture, vector<Image> images, Size interiorCorners, float squareSideLength) {
   // initialize a vector of vectors of image points
   vector<vector<Point2f> > imagePoints;
 
@@ -89,35 +129,21 @@ Camera calibrateCameraWithCheckerboard(Size interiorCorners, float squareSideLen
   // list of the points in the global frame
   vector<Point3f> boardCorners = generateCornerCoordinates(interiorCorners, squareSideLength);
 
-  // initialize image size on first image
-  bool imageSizeInitialized = false;
-  Size imageSize;
-  while (imagePoints.size() < numImages) {
-    // capture an image
-    Image img = Camera::captureImage(capture);
-
-    // if imageSize doesn't have a value initialize it
-    if (!imageSizeInitialized) {
-      imageSize = Size(img.data.cols, img.data.rows);
-    }
-
-    // find the checkerboard corners
-    vector<Point2f> imageCorners = findCheckerboardCorners(img, interiorCorners, squareSideLength);
-
-    // show the image
-    imshow(name, img.data);
-    
-    if (imageCorners.size() > 0) {
-      // add the coordinates from the image
-      imagePoints.push_back(imageCorners);
+  // generate image and board points for all of the images in the function
+  for (int i = 0; i < images.size(); i++) {
+    vector<Point2f> corners = findCheckerboardCorners(images[i].data, interiorCorners, squareSideLength);
+    if (corners.size() > 0) {
+      imagePoints.push_back(corners);
       boardPoints.push_back(boardCorners);
-
-      // sleep so the user can move the image to a new angle (in microseconds)
-      waitKey(delayTime * 1000);
+    } else {
+      stringstream ss;
+      ss << "The image with index i = " << i << "is invalid" << endl;
+      throw(ss.str());
     }
-
-    waitKey(10);
   }
+
+  // initialize image size on first image
+  Size imageSize(images[0].data.cols, images[0].data.rows);
 
   // initialize return values from calibration procedure
   Mat cameraMatrix = Mat::eye(3,3,CV_64F);
@@ -127,6 +153,7 @@ Camera calibrateCameraWithCheckerboard(Size interiorCorners, float squareSideLen
   // run the calibration
   calibrateCamera(boardPoints, imagePoints, imageSize, cameraMatrix, distCoefficients, rvecs, tvecs);
 
+  // initialize the camera
   Camera cam(capture, cameraMatrix, distCoefficients);
 
   return cam;
@@ -143,9 +170,13 @@ int main(int n, char** args) {
   VideoCapture capture0(0);
   VideoCapture capture1(2);
 
+  // capture images for both cameras
+  vector<Image> images0 = captureCheckerboardCalibrationImages(capture0, interiorCorners, sideLength);
+  vector<Image> images1 = captureCheckerboardCalibrationImages(capture1, interiorCorners, sideLength);
+  
   // calibrate the two cameras
-  Camera cam0 = calibrateCameraWithCheckerboard(interiorCorners, sideLength, capture0);
-  Camera cam1 = calibrateCameraWithCheckerboard(interiorCorners, sideLength, capture1);
+  Camera cam0 = calibrateCameraWithCheckerboard(capture0, images0, interiorCorners, sideLength);
+  Camera cam1 = calibrateCameraWithCheckerboard(capture1, images1, interiorCorners, sideLength);
   
   return 0;
 }
