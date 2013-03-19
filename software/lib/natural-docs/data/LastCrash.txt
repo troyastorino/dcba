@@ -1,0 +1,22 @@
+Crash Message:
+
+   Couldn't open input file /Users/troyastorino/Dropbox/dcba/software/src/data_capture/.#optical_equipment.py
+
+Current Action:
+
+   Parsing /Users/troyastorino/Dropbox/dcba/software/src/data_capture/.#optical_equipment.py
+
+Natural Docs version 1.52
+Perl version 5.12.4 on darwin
+
+Command Line:
+
+   -i /Users/troyastorino/Dropbox/dcba/software/src/data_capture -i /Users/troyastorino/Dropbox/dcba/software/src/ -o framedHTML /Users/troyastorino/Dropbox/dcba/software/docs -p /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/data
+
+Stack Trace:
+
+   NaturalDocs::Error::CatchDeath, called from
+   NaturalDocs::Languages::Simple::ParseFile, line 168, called from
+   NaturalDocs::Parser::Parse, line 335, called from
+   NaturalDocs::Parser::ParseForInformation, line 95, called from
+   (eval), line 320 of ./lib/natural-docs/NaturalDocs
