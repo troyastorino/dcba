@@ -45,6 +45,9 @@ CMakeFiles/*
 CMakeFiles
 Makefile
 
+# compiled python files
+*.pyc
+
 # vim swap files
 *.swp
 *.swo

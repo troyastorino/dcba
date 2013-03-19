@@ -1,17 +1,6 @@
 1.52
-C/C++
-/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/link.txt	1363058235	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/link.txt
-/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/flags.make	1363058235	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/flags.make
-/Users/t_bohlen/projects/me/dcba/software/include/OpticalEquipment.hpp	1363477637	1	OpticalEquipment
-/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/progress.make	1363058235	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/progress.make
-/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/build.make	1363058235	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/build.make
-/Users/t_bohlen/projects/me/dcba/software/include/Camera.hpp	1363477668	1	Camera
-/Users/t_bohlen/projects/me/dcba/software/include/Projector.hpp	1363477125	1	Projector
-/Users/t_bohlen/projects/me/dcba/software/src/CMakeLists.txt	1363476484	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeLists.txt
-/Users/t_bohlen/projects/me/dcba/software/include/Pattern.hpp	1363551357	1	Pattern
-/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/depend.make	1363058236	0	/Users/t_bohlen/projects/me/dcba/software/src/CMakeFiles/compile_test.dir/depend.make
-/Users/t_bohlen/projects/me/dcba/software/src/Camera.cpp	1363476484	0	/Users/t_bohlen/projects/me/dcba/software/src/Camera.cpp
-/Users/t_bohlen/projects/me/dcba/software/src/Projector.cpp	1363476484	0	/Users/t_bohlen/projects/me/dcba/software/src/Projector.cpp
-/Users/t_bohlen/projects/me/dcba/software/src/CompileTest.cpp	1363476484	0	/Users/t_bohlen/projects/me/dcba/software/src/CompileTest.cpp
-/Users/t_bohlen/projects/me/dcba/software/include/CMakeLists.txt	1363476484	0	/Users/t_bohlen/projects/me/dcba/software/include/CMakeLists.txt
-/Users/t_bohlen/projects/me/dcba/software/include/Image.hpp	1363476484	1	Image
+Python
+/Users/troyastorino/Dropbox/dcba/software/src/data_capture/optical_equipment.py	1363673806	0	/Users/troyastorino/Dropbox/dcba/software/src/data_capture/optical_equipment.py
+/Users/troyastorino/Dropbox/dcba/software/src/data_capture/calibration.py	1363677036	0	/Users/troyastorino/Dropbox/dcba/software/src/data_capture/calibration.py
+/Users/troyastorino/Dropbox/dcba/software/src/data_capture/pattern.py	1363652077	0	/Users/troyastorino/Dropbox/dcba/software/src/data_capture/pattern.py
+/Users/troyastorino/Dropbox/dcba/software/src/data_capture/image.py	1363652859	0	/Users/troyastorino/Dropbox/dcba/software/src/data_capture/image.py
