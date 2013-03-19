@@ -50,8 +50,21 @@ Format: 1.52
 # --------------------------------------------------------------------------
 
 
+File: calibration.py  (/Users/troyastorino/Dropbox/dcba/software/src/data_capture/calibration.py)
+File: Image  (/Users/troyastorino/Dropbox/dcba/software/src/data_capture/image.py)
+File: OpticalEquipment  (/Users/troyastorino/Dropbox/dcba/software/src/data_capture/optical_equipment.py)
+File: StaticPattern  (/Users/troyastorino/Dropbox/dcba/software/src/data_capture/pattern.py)
+
+Group: Index  {
+
+   Index: Everything
+   Class Index: Classes
+   File Index: Files
+   Function Index: Functions
+   }  # Group: Index
+
 
 
 ##### Do not change or remove these lines. #####
-Data: 1(D3333a6GH63tHuQp6tuH8\u3BHuIYus3f9Yp36uct7pHG36H93tEI)
+Data: 1(D3333a6GH63tHuQp6tuH8\u3BHuIYus3f9Yp36uct7pHG36H93fptpV9pItNHG)
 Data: 1(h3333a6GH63tHuQp6tuH8\u3BHuIYus3f9Yp36uct7pHG36H9)

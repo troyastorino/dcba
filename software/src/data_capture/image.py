@@ -1,4 +1,5 @@
-'''
+class Image:
+"""
 Class: Image
 
  Stores all the information relevant to one captured image from the
@@ -11,8 +12,7 @@ Class: Image
  the object when the image was taken
  camera - The <Camera> that took the image
  data - ndarray The pixel data comprising the image
-'''
-class Image:
+"""
     def __init__(self, data, camera, patterns):
         self.data = data
         self.camera = camera

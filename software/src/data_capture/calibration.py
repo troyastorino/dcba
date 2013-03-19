@@ -3,7 +3,8 @@ import cv2
 from numpy import linspace, array
 from optical_equipment import Camera, capture_image
 
-'''
+def generate_corner_coordinates(size, sideLength):
+"""
 Method: generate_corner_coordinates
 Generates a list, in board coordinates, of the
 interior corners of the checkerboard. Assumes that z=0
@@ -14,8 +15,7 @@ sideLength - Length of a side of a checkerboard square
 
 Return
 List of OpenCV Point3f objects
-'''
-def generate_corner_coordinates(size, sideLength):
+"""
     x_coords = linspace(0, (size[0]-1)*sideLength, size[0])
     y_coords = linspace(0, (size[1]-1)*sideLength, size[1])
 
@@ -26,7 +26,8 @@ def generate_corner_coordinates(size, sideLength):
 
     return array(points)
 
-'''
+def find_checkerboard_corners(image, interiorCorners, sideLength, subPixel = False):
+"""
 Method: find_checkerboard_corners
 
 Parameters:
@@ -38,8 +39,7 @@ Return: A tuple of the form (patternFound, corners, imageData), where patternFou
 boolean representing if the checkerboard pattern was found,  corners is a
 numpy array of the corner coordinates, and imageData is a numpy array of the image with
 the corners drawn on it
-'''
-def find_checkerboard_corners(image, interiorCorners, sideLength, subPixel = False):
+"""
     imageData = image.data.copy()
     
     patternFound, corners = cv2.findChessboardCorners(imageData, interiorCorners)
@@ -51,7 +51,8 @@ def find_checkerboard_corners(image, interiorCorners, sideLength, subPixel = Fal
 
     return patternFound, corners, imageData
 
-'''
+def capture_checkerboard_calibration_images(
+"""
 Method: capture_checkerboard_calibration_images
 Captures a sequence of images to be
 used for calibrating a camera. Shows the images being produced by the camera,
@@ -65,8 +66,7 @@ numImages - the number of images desired for the capture sequence
 delayTime - the time to have the program wait between captured images to
 allow you to move the checkerboard (in seconds)
 
-'''
-def capture_checkerboard_calibration_images(
+"""
     capture, interiorCorners, sideLength, numImages=5, delayTime=2):
     # open a window to view the images
     name = "Camera Calibration"
@@ -94,7 +94,8 @@ def capture_checkerboard_calibration_images(
 
     return images
 
-'''
+def calibrate_camera_with_checkerboard(capture, images, interiorCorners, sideLength):
+"""
 Method calibrateCameraWithCheckerboard:
 From a series of checkerboard images
 initializes a calibrated Camera object
@@ -108,8 +109,7 @@ nteriorCorners - the dimensions of the interior corners of the
 checkerboard
 sideLength - the side length of one of the squares of the
 checkerboard
-'''
-def calibrate_camera_with_checkerboard(capture, images, interiorCorners, sideLength):
+"""
     # generate image and board points for all of the images
     imagePoints = []
     boardPoints = []

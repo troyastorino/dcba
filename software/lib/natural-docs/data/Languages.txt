@@ -111,3 +111,8 @@ Format: 1.52
 # If you add a language that you think would be useful to other developers
 # and should be included in Natural Docs by default, please e-mail it to
 # languages [at] naturaldocs [dot] org.
+
+
+Alter Language: Python
+
+   Block Comment: """ """
