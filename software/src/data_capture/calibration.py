@@ -1,6 +1,6 @@
 import time
 import cv2
-from numpy import linspace, array
+from numpy import linspace, array, reshape
 from optical_equipment import Camera, capture_image
 import image
 
@@ -44,6 +44,10 @@ def find_checkerboard_corners(image, interiorCorners, sideLength, subPixel = Fal
     imageData = image.data.copy()
     
     patternFound, corners = cv2.findChessboardCorners(imageData, interiorCorners)
+
+    # reshpae corners because comes out of findChessboardCorners in an odd
+    # fashion
+    corners = reshape(corners, (corners.shape[0], corners.shape[2]))
 
     if subPixel:
         raise NotImplementedExcpetion();
@@ -123,19 +127,19 @@ def calibrate_camera_with_checkerboard(capture, images, interiorCorners, sideLen
         else:
             raise Exception("A checkerboard could not be found on one of the images.")
 
-    # convert to numpy arrays
-    imagePoints = array(imagePoints)
-    boardPoints = array(boardPoints)
+    # convert to numpy arrays of the appropriate type
+    imagePoints = array(imagePoints, 'float32')
+    boardPoints = array(boardPoints, 'float32')
 
     # find the image size
     shape = images[0].data.shape
-    imageSize = (shape[0], shape[1])
+    imageSize = (shape[1], shape[0])
 
     # calibrate the camera
-    calibrated, cameraMatrix, distortion, rvecs, tvecs = cv2.calibrateCamera(boardPoints, imagePoints, imageSize)
+    rms, cameraMatrix, distortion, rvecs, tvecs = cv2.calibrateCamera(boardPoints, imagePoints, imageSize)
 
     # return initialized camera object
-    return Camera(capture, cameraMatrix, distortion)
+    return Camera(capture, None, cameraMatrix, distortion)
 
 if __name__ == "__main__":
     # initialize coordinates of the checkerboard
@@ -160,4 +164,4 @@ if __name__ == "__main__":
         images = image.load_from_directory(dir)
 
     # calibrate the camera
-    cam = calibrate_camera_with_checkerboard(capture, images, interiorCorners, sideLength)
+    cam = calibrate_camera_with_checkerboard(capture, images, interiorCorners, sideLength)        
