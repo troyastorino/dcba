@@ -4,7 +4,7 @@ from numpy import linspace, array, reshape
 from optical_equipment import Camera, capture_image
 import image
 
-def generate_corner_coordinates(size, sideLength):
+def generate_corner_coordinates(interiorCorners, sideLength):
     """
     Method: generate_corner_coordinates
     Generates a list, in board coordinates, of the
@@ -17,12 +17,12 @@ def generate_corner_coordinates(size, sideLength):
     Return
     List of OpenCV Point3f objects
     """
-    x_coords = linspace(0, (size[0]-1)*sideLength, size[0])
-    y_coords = linspace(0, (size[1]-1)*sideLength, size[1])
+    x_coords = linspace(0, (interiorCorners[0]-1)*sideLength, interiorCorners[0])
+    y_coords = linspace(0, (interiorCorners[1]-1)*sideLength, interiorCorners[1])
 
     points = []
-    for x in x_coords:
-        for y in y_coords:
+    for y in y_coords:
+        for x in x_coords:
             points.append([x, y, 0])
 
     return array(points)
@@ -45,14 +45,15 @@ def find_checkerboard_corners(image, interiorCorners, sideLength, subPixel = Fal
     
     patternFound, corners = cv2.findChessboardCorners(imageData, interiorCorners)
 
-    # reshpae corners because comes out of findChessboardCorners in an odd
-    # fashion
-    corners = reshape(corners, (corners.shape[0], corners.shape[2]))
+    if patternFound:
+        # reshpae corners because comes out of findChessboardCorners in an odd
+        # fashion
+        corners = reshape(corners, (corners.shape[0], corners.shape[2]))
 
-    if subPixel:
-        raise NotImplementedExcpetion();
+        if subPixel:
+            raise NotImplementedExcpetion();
     
-    cv2.drawChessboardCorners(imageData, interiorCorners, corners, patternFound)
+        cv2.drawChessboardCorners(imageData, interiorCorners, corners, patternFound)
 
     return patternFound, corners, imageData
 
