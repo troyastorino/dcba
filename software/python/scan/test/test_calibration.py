@@ -17,5 +17,5 @@ class TestCameraCalibration(unittest.TestCase):
         # run the calibration
         cam = calibrate_with_checkerboard(None, self.calibration_images, self.interior_corners, self.side_length)
 
-        # make sure things are right
+        # make sure things are right TODO actually make this check
         self.assertTrue(True)
