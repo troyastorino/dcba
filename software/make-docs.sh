@@ -2,11 +2,11 @@
 type dos2unix >/dev/null 2>&1 || { echo >&2 "We need dos2unix to create the documentation. Please install it and then run this script again"; exit 1; }
 DIR="$( cd -P "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 INCLUDES="${DIR}/include"
-SRC="${DIR}/src/"
-SRC_FOLDER_INCLUDES=""
-for FOLDER in `ls ${DIR}/src`
+PYTHON_SRC="${DIR}/python/scan"
+PYTHON_FOLDERS=""
+for FOLDER in `ls ${PYTHON_SRC}`
 do
-    SRC_FOLDER_INCLUDES="$SRC_INCLUDES -i ${DIR}/src/$FOLDER"
+    PYTHON_FOLDERS="$PYTHON_FOLDERS -i ${PYTHON_SRC}/$FOLDER"
 done
 OUTPUT="${DIR}/docs"
 PROJECT="${DIR}/lib/natural-docs/data"
