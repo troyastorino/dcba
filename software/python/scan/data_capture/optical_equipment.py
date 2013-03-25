@@ -33,14 +33,35 @@ class OpticalEquipment(object):
         self.focal_length = np.array([self.intrinsic_matrix[0,0], self.intrinsic_matrix[1,1]])
         self.principal_point = np.array([self.intrinsic_matrix[0,2], self.intrinsic_matrix[1,2]])
         self.alpha = self.intrinsic_matrix[0,1] / self.focal_length[0]
-        self.distortion = distortion
+        self.distortion = np.array(distortion)
 
-    def __init__(self, pose, distortion, focal_length, principal_point, alpha=0):
-        intrinsic_matrix = np.array([[focal_length[0], alpha * focal_length[0], principal_point[0]],
-                                    [0, focal_length[1], principal_point[1]],
-                                    [0, 0, 1]])
-        self.__init__(pose, distortion, intrinsic_matrix)
-        
+    @classmethod
+    def from_intrinsic_params(cls, pose, distortion, focal_length, principal_point, alpha=0):
+        """
+        Method: from_intrinsic_params
+        Constuctor for specifying the intrinsic parameters individually instead of the
+        intrinsic matrix. To see what the intrinsic parameters correspond to, see the
+        <OpticalEquipment> attributes.
+
+        Returns:
+        An initialized OpticalEquipment object
+        """
+        intrinsic_matrix = cls.intrinsic_matrix(focal_length, principal_point, alpha)
+        return cls(pose, distortion, intrinsic_matrix)
+
+    @staticmethod
+    def intrinsic_matrix(focal_length, principal_point, alpha=0):
+        """
+        Function: intrinsic_matrix
+        Generates the intrinsic matrix from intrinsic parameters
+
+        Returns:
+        Intrinsic matrix from the passed parameters
+        """
+        return np.array([[focal_length[0], alpha * focal_length[0], principal_point[0]],
+                         [0, focal_length[1], principal_point[1]],
+                         [0, 0, 1]])
+    
 class Camera(OpticalEquipment):
     """
     Class: Camera
@@ -58,9 +79,10 @@ class Camera(OpticalEquipment):
         super(Camera, self).__init__(pose, distortion, intrinsic_matrix)
         self.device = device
 
-    def __init__(self, device, pose, distortion, focal_length, principal_point, alpha=0):
-        super(Camera, self).__init__(pose, distortion, focal_length, principal_point, alpha)
-        self.device = device
+    @classmethod
+    def from_intrinsic_params(cls, device, pose, distortion, focal_length, principal_point, alpha=0):
+        intrinsic_matrix = super(Camera, cls).intrinsic_matrix(focal_length, principal_point, alpha)
+        return cls(device, pose, distortion, intrinsic_matrix)
 
 
     def capture_image(self):

@@ -139,10 +139,8 @@ def calibrate_with_checkerboard(capture, images, interior_corners, side_length):
     # calibrate the camera
     rms, camera_matrix, distortion, rvecs, tvecs = cv2.calibrateCamera(board_points, image_points, image_size)
 
-    import pdb; pdb.set_trace()
-
     # return initialized camera object
-    return Camera(capture, None, camera_matrix, distortion)
+    return Camera(capture, None, distortion[0], camera_matrix)
 
 if __name__ == "__main__":
     
