@@ -5,24 +5,33 @@ Repository for code and documents relating to our 6.S078 project.
 
 [Google Drive folder](https://drive.google.com/#folders/0B_2CD27NNNbxcE1FSFVWV1JNQ0k)
 
-Compiling
-==========
-We're using [CMake](http://www.cmake.org/) for compiling our source code. Running
-the following from the `software` directory should suffice to compile our code
-
-```
-$ cmake .
-$ make
-```
 
 Dependencies
 =============
-Following are the packages that must be installed to run our code:
-* g++
-* make
-* cmake
+The general packages you need on your system are:
+* dos2unix
 * opencv
+
 If you are running OS X, it will be easiest to install these dependencies using [Homebrew](http://mxcl.github.com/homebrew/).
+
+As Python is being used for the core software library, it is recommended to use
+[pip](https://pypi.python.org/pypi/pip) to install the necessary Python
+packages. Install using pip by running
+```
+pip install <package>
+```
+Below are the packages that are required:
+* numpy
+* scipy
+* nose
+
+Unit Testing
+============
+We use [Nose](https://nose.readthedocs.org/en/latest/) for unit testing.  We
+have a soft goal for 100\% code coverage: all code that can be tested with a
+unit test should be tested, but if you think that a unit test is really
+unreasonable in a certain situation, we'll trust you.  Tests should go in the
+`software/python/scan/test` directory. To run all the tests, run `software/run-tests.sh`.
 
 NaturalDocs Documenation
 ========================

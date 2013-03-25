@@ -154,8 +154,8 @@ Group: Python  {
    File: data_capture/calibration.py  (python/scan/data_capture/calibration.py)
    File: Image  (python/scan/data_capture/image.py)
    File: OpticalEquipment  (python/scan/data_capture/optical_equipment.py)
-   File: Prints the values of all the variables in an object or dict.  (python/scan/util.py)
    File: StaticPattern  (python/scan/data_capture/pattern.py)
+   File: util.py  (python/scan/util.py)
    }  # Group: Python
 
 Group: Index  {

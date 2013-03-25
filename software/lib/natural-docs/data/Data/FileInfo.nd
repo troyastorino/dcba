@@ -15,9 +15,10 @@ Perl
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/SourceDB/Extension.pm	1363058871	1	NaturalDocs::SourceDB::Extension
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Languages/Simple.pm	1363058870	1	NaturalDocs::Languages::Simple
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Parser/Native.pm	1363058870	1	NaturalDocs::Parser::Native
+/Users/troyastorino/Dropbox/dcba/software/python/scan/test/__init__.py	1364100844	0	/Users/troyastorino/Dropbox/dcba/software/python/scan/test/__init__.py
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/ClassHierarchy/Class.pm	1363058870	1	NaturalDocs::ClassHierarchy::Class
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Languages/PLSQL.pm	1363058870	1	NaturalDocs::Languages::PLSQL
-/Users/troyastorino/Dropbox/dcba/software/python/scan/data_capture/calibration.py	1364061409	1	/Users/troyastorino/Dropbox/dcba/software/python/scan/data_capture/calibration.py
+/Users/troyastorino/Dropbox/dcba/software/python/scan/data_capture/calibration.py	1364185790	1	/Users/troyastorino/Dropbox/dcba/software/python/scan/data_capture/calibration.py
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Info/NDMarkup.txt	1363058870	0	/Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Info/NDMarkup.txt
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/ClassHierarchy/File.pm	1363058870	1	NaturalDocs::ClassHierarchy::File
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Languages/Advanced/ScopeChange.pm	1363058870	1	NaturalDocs::Languages::Advanced::ScopeChange
@@ -33,7 +34,7 @@ Perl
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/SourceDB.pm	1363058871	1	NaturalDocs::SourceDB
 /Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeFiles/VecMath.dir/build.make	1363284579	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeFiles/VecMath.dir/build.make
 /Users/troyastorino/Dropbox/dcba/software/lib/vecmath/src/Vector3f.cpp	1362963190	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/src/Vector3f.cpp
-/Users/troyastorino/Dropbox/dcba/software/python/scan/util.py	1364060028	1	Prints the values of all the variables in an object or dict.
+/Users/troyastorino/Dropbox/dcba/software/python/scan/util.py	1364102503	1	/Users/troyastorino/Dropbox/dcba/software/python/scan/util.py
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Error.pm	1363058870	1	NaturalDocs::Error
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Languages/ActionScript.pm	1363058870	1	NaturalDocs::Languages::ActionScript
 /Users/troyastorino/Dropbox/dcba/software/lib/vecmath/include/Vector2f.h	1362963190	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/include/Vector2f.h
@@ -47,6 +48,7 @@ Perl
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Version.pm	1363058871	1	NaturalDocs::Version
 /Users/troyastorino/Dropbox/dcba/software/lib/vecmath/include/Matrix2f.h	1362963190	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/include/Matrix2f.h
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Info/HTMLTestCases.pm	1363058870	1	Browser Testing
+/Users/troyastorino/Dropbox/dcba/software/python/scan/test/test_calibration.py	1364186352	0	/Users/troyastorino/Dropbox/dcba/software/python/scan/test/test_calibration.py
 /Users/troyastorino/Dropbox/dcba/software/python/scan/data_capture/__init__.py	1364060144	0	/Users/troyastorino/Dropbox/dcba/software/python/scan/data_capture/__init__.py
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Help/example/NaturalDocs.js	1363058870	0	/Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Help/example/NaturalDocs.js
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/BinaryFile.pm	1363058870	1	NaturalDocs::BinaryFile
@@ -54,7 +56,7 @@ Perl
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/StatusMessage.pm	1363058871	1	NaturalDocs::StatusMessage
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Parser/ParsedTopic.pm	1363058870	1	NaturalDocs::Parser::ParsedTopic
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Constants.pm	1363058870	1	NaturalDocs::Constants
-/Users/troyastorino/Dropbox/dcba/software/python/scan/data_capture/optical_equipment.py	1363725864	1	OpticalEquipment
+/Users/troyastorino/Dropbox/dcba/software/python/scan/data_capture/optical_equipment.py	1364186272	1	OpticalEquipment
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Parser/JavaDoc.pm	1363058870	1	NaturalDocs::Parser::JavaDoc
 /Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeFiles/VecMath.dir/depend.make	1363284580	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeFiles/VecMath.dir/depend.make
 /Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeFiles/VecMath.dir/progress.make	1363648683	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeFiles/VecMath.dir/progress.make
@@ -63,6 +65,7 @@ Perl
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/ImageReferenceTable/Reference.pm	1363058870	1	NaturalDocs::ImageReferenceTable::Reference
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Menu.pm	1363058870	1	NaturalDocs::Menu
 /Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeFiles/VecMath.dir/link.txt	1363284579	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeFiles/VecMath.dir/link.txt
+/Users/troyastorino/Dropbox/dcba/software/python/scan/test/test_util.py	1364102573	0	/Users/troyastorino/Dropbox/dcba/software/python/scan/test/test_util.py
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/ReferenceString.pm	1363058871	1	NaturalDocs::ReferenceString
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Languages/Prototype/Parameter.pm	1363058870	1	NaturalDocs::Languages::Prototype::Parameter
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Help/javascript/PNGHandling.js	1363058870	0	/Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Help/javascript/PNGHandling.js
@@ -93,14 +96,14 @@ Perl
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/SymbolTable/File.pm	1363058871	1	NaturalDocs::SymbolTable::File
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Info/Symbol Management.txt	1363058870	0	/Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Info/Symbol Management.txt
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/File.pm	1363058870	1	NaturalDocs::File
-/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/include/Vector3f.h	1362963190	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/include/Vector3f.h
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/SourceDB/WatchedFileDefinitions.pm	1363058871	1	NaturalDocs::SourceDB::WatchedFileDefinitions
+/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/include/Vector3f.h	1362963190	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/include/Vector3f.h
 /Users/troyastorino/Dropbox/dcba/software/lib/vecmath/include/Quat4f.h	1362982830	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/include/Quat4f.h
 /Users/troyastorino/Dropbox/dcba/software/lib/vecmath/src/Quat4f.cpp	1362963190	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/src/Quat4f.cpp
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Project.pm	1363058870	1	NaturalDocs::Project
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Languages/Advanced.pm	1363058870	1	NaturalDocs::Languages::Advanced
-/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeLists.txt	1363284544	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeLists.txt
 /Users/troyastorino/Dropbox/dcba/software/python/scan/data_capture/image.py	1363725835	1	Image
+/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeLists.txt	1363284544	0	/Users/troyastorino/Dropbox/dcba/software/lib/vecmath/CMakeLists.txt
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Menu/Entry.pm	1363058870	1	NaturalDocs::Menu::Entry
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/Modules/NaturalDocs/Topics.pm	1363058871	1	NaturalDocs::Topics
 /Users/troyastorino/Dropbox/dcba/software/lib/natural-docs/JavaScript/NaturalDocs.js	1363058870	1	SearchPanel

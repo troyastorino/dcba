@@ -1,4 +1,5 @@
 from image import Image
+import numpy as np
 
 class OpticalEquipment(object):
     """
@@ -11,17 +12,35 @@ class OpticalEquipment(object):
     Superclass of <Projector> and <Camera>
 
     Attributes:
-    pose - ndarray The 4x4 matrix representing the position and
+    pose - *ndarray* The 4x4 matrix representing the position and
     orientation of the piece of optical equipment in world coordinates
-    intrinsicMatrix - ndarray The 3x3 matrix representing the intrinsic parameters of
-    the piece of optical equipment
-    distortion - ndarray The lens distortion coefficients of the optical equipment
+    focal_length - *ndarray* 2x1 vector representing the x and y focal lengths for the
+    camera, i.e. [fx, fy]
+    principal_point - *ndarray* 2x1 vector representing the two components of the principal
+    point, or camera center. In the form [cx, cy]
+    alpha - The skew, i.e., the angle that the x and y pixel axes are off by, e.g.,
+    alpha of .5 would imply the angle between the x and y pixel axes is 89.5
+    intrinsic_matrix - *ndarray* The 3x3 matrix representing the intrinsic parameters of
+    the piece of optical equipment. In the form:
+    [[fx, alpha*fx, cx],
+     [0, fy, cy],
+     [0, 0, 1]]
+    distortion - *ndarray* The lens distortion coefficients of the optical equipment
     """ 
-    def __init__(self, pose, intrinsicMatrix, distortion):
-        self.pose = pose
-        self.intrinsicMatrix = intrinsicMatrix
+    def __init__(self, pose, distortion, intrinsic_matrix):
+        self.pose = np.array(pose)
+        self.intrinsic_matrix = np.array(intrinsic_matrix)
+        self.focal_length = np.array([self.intrinsic_matrix[0,0], self.intrinsic_matrix[1,1]])
+        self.principal_point = np.array([self.intrinsic_matrix[0,2], self.intrinsic_matrix[1,2]])
+        self.alpha = self.intrinsic_matrix[0,1] / self.focal_length[0]
         self.distortion = distortion
 
+    def __init__(self, pose, distortion, focal_length, principal_point, alpha=0):
+        intrinsic_matrix = np.array([[focal_length[0], alpha * focal_length[0], principal_point[0]],
+                                    [0, focal_length[1], principal_point[1]],
+                                    [0, 0, 1]])
+        self.__init__(pose, distortion, intrinsic_matrix)
+        
 class Camera(OpticalEquipment):
     """
     Class: Camera
@@ -33,11 +52,16 @@ class Camera(OpticalEquipment):
     Subclass of <OpticalEquipment>
 
     Attributes:
-    device - OpenCV VideoCapture object that can be used to capture an image
+    device - *OpenCV VideoCapture* object that can be used to capture an image
     """
-    def __init__(self, device, pose, intrinsicMatrix, distortion):
-        super(Camera, self).__init__(pose, intrinsicMatrix, distortion)
+    def __init__(self, device, pose, distortion, intrinsic_matrix):
+        super(Camera, self).__init__(pose, distortion, intrinsic_matrix)
         self.device = device
+
+    def __init__(self, device, pose, distortion, focal_length, principal_point, alpha=0):
+        super(Camera, self).__init__(pose, distortion, focal_length, principal_point, alpha)
+        self.device = device
+
 
     def capture_image(self):
         capturedImage, image = self.device.read()
