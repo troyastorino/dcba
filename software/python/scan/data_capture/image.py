@@ -10,15 +10,18 @@ class Image:
     in matrix form.
 
     Properties:
-    Patterns - list of <GeneratedPattern>s; light patterns projected on
+    Patterns - *[<GeneratedPattern>]* Light patterns projected on
     the object when the image was taken
-    camera - The <Camera> that took the image
-    data - ndarray The pixel data comprising the image
+    camera - *<Camera>* The camera that the image was taken with
+    data - *ndarray* The pixel data comprising the image
+    corrected - *boolean* Whether or not the image data has been
+    corrected for the distortion of the camera
     """
-    def __init__(self, data, camera, patterns):
+    def __init__(self, data, camera, patterns, corrected=False):
         self.data = data
         self.camera = camera
         self.patterns = patterns
+        self.corrected = corrected
 
 def load_from_directory(dir_name):
     """

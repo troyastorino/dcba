@@ -1,7 +1,7 @@
 import time
 import cv2
 import numpy as np
-from optical_equipment import Camera, capture_image
+from optical_equipment import Camera, capture_image, OpticalEquipment
 import image
 
 def generate_corner_coordinates(interior_corners, side_length):
@@ -99,21 +99,25 @@ def capture_checkerboard_calibration_images(capture, interior_corners, side_leng
 
     return images
 
-def calibrate_with_checkerboard(capture, images, interior_corners, side_length):
+def intrinsic_calibration_with_checkerboard(images, interior_corners, side_length):
     """
     Method calibrate_with_checkerboard:
     From a series of checkerboard images
     initializes a calibrated Camera object
 
     Parameters:
-    capture - VideoCapture device that captured the images
-    images - list of images containing the checkerboard calibration.
-    This images must be from the same camera, and so must be the
+    capture - *VideoCapture* device that captured the images
+    images - *[<Image>]* list of checkerboard calibration images.
+    These images must be from the same camera, and so must be the
     same size
-    interior_corners - the dimensions of the interior corners of the
+    interior_corners - *(x,y)* the dimensions of the interior corners of the
     checkerboard
-    side_length - the side length of one of the squares of the
+    side_length - *scalar* the side length of one of the squares of the
     checkerboard
+
+    Returns:
+    A tuple of the results of the intrinsic calibration:
+    (focal_length, principal_point, alpha, distortion)
     """
     # generate image and board points for all of the images
     image_points = []
@@ -139,8 +143,13 @@ def calibrate_with_checkerboard(capture, images, interior_corners, side_length):
     # calibrate the camera
     rms, camera_matrix, distortion, rvecs, tvecs = cv2.calibrateCamera(board_points, image_points, image_size)
 
-    # return initialized camera object
-    return Camera(capture, None, distortion[0], camera_matrix)
+    # bundle into tuple to return
+    intrinsic_params = OpticalEquipment.intrinsic_parameters(camera_matrix)
+    ret = [x for x in intrinsic_params]
+    ret.append(distortion[0])
+
+    # return intrinsic parameters
+    return ret
 
 if __name__ == "__main__":
     
@@ -163,8 +172,7 @@ if __name__ == "__main__":
         
         # use test images
         img_dir = "../../../../materials/test-images/swept-plane/calib/calib/"
-        images = image.load_from_directoyr(img_dir)
+        images = image.load_from_directory(img_dir)
 
     # calibrate the camera
-    cam = calibrate_with_checkerboard(capture, images, interior_corners, side_length)
-
+    (focal_length, principal_point, alpha, distortion) = intrinsic_calibration_with_checkerboard(images, interior_corners, side_length)

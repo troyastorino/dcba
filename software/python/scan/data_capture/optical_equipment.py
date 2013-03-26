@@ -30,9 +30,7 @@ class OpticalEquipment(object):
     def __init__(self, pose, distortion, intrinsic_matrix):
         self.pose = np.array(pose)
         self.intrinsic_matrix = np.array(intrinsic_matrix)
-        self.focal_length = np.array([self.intrinsic_matrix[0,0], self.intrinsic_matrix[1,1]])
-        self.principal_point = np.array([self.intrinsic_matrix[0,2], self.intrinsic_matrix[1,2]])
-        self.alpha = self.intrinsic_matrix[0,1] / self.focal_length[0]
+        (self.focal_length, self.principal_point, self.alpha) = self.intrinsic_parameters(self.intrinsic_matrix)
         self.distortion = np.array(distortion)
 
     @classmethod
@@ -61,6 +59,42 @@ class OpticalEquipment(object):
         return np.array([[focal_length[0], alpha * focal_length[0], principal_point[0]],
                          [0, focal_length[1], principal_point[1]],
                          [0, 0, 1]])
+
+    @staticmethod
+    def intrinsic_parameters(intrinsic_matrix):
+        """
+        Function: intrinsic_parameters
+        Extracts the intrinsic parameters from an intrinsic matrix
+
+        Parameters:
+        intrinsic_matrix - *ndarray* 3x3 matrix of camera's intrinsic parameters
+
+        Returns:
+        Tuple of intrinsic parameters
+        (focal_length, principal_point, alpha)
+        """
+        focal_length = np.array([intrinsic_matrix[0,0], intrinsic_matrix[1,1]])
+        principal_point = np.array([intrinsic_matrix[0,2], intrinsic_matrix[1,2]])
+        alpha = intrinsic_matrix[0,1] / focal_length[0]
+
+        return (focal_length, principal_point, alpha)
+
+    def undistort(self, image):
+        """
+        Method: undistort
+        Removes the distortion from an image using the parameters of the <OpticalEquipment>
+
+        Parameters:
+        image - *<Image>* The image to be undistorted
+
+        Returns:
+        An <Image> object with the image data undistorted
+        """
+        if image.corrected:
+            return image
+        else:
+            corrected_data = cv2.undistort(image.data, self.intrinsic_matrix, self.distortion)
+            return Image(corrected_data, image.camera, image.patterns, True)
     
 class Camera(OpticalEquipment):
     """
