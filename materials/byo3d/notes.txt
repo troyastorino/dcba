@@ -1,0 +1,25 @@
+Here are some of the things I (Troy) noticed while going through and
+understanding the code:
+
+Calibration variables:
+x_1 - Locations of features on the image plane (x,y coordinates)
+X_1 - Locations of the x_1 features in the checkerboard coordinate space (x,y,z
+coordinates, but relative to the calibration object (the checkerboard), so z can simply
+be set to 0)
+
+fc - focal length (fx, fy)
+cc - principal point (cx, cy)
+alpha - skew coefficient (scalar)
+These three intrinsic parameters make up the intrinsic matrix, or camera matrix.
+It is of the form:
+[[fx alpha cx]
+ [0   fy   cy]
+ [0   0    1 ]]
+kc - distortion parameters.  In the same order as those for OpenCV
+Tc_1, Tc_2, ... - Translation vectors for each of the features.  Somehow for the
+projector calibration it gets it just uses the first...not sure why it can do
+this
+Rc_1, Rc_2, ... - 3D rotation matrices. Again somehow only the first is used.
+Not sure how or why
+
+Main call for optimization: go_calib_optim_iter

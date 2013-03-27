@@ -51,3 +51,6 @@ Makefile
 # vim swap files
 *.swp
 *.swo
+
+# unsaved Matlab files
+*.m~

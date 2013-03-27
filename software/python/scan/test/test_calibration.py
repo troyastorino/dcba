@@ -8,21 +8,23 @@ from scan.data_capture.calibration import intrinsic_calibration_with_checkerboar
 from scan.util import rel_to_file
 
 class TestCameraCalibration(unittest.TestCase):
-    def setUp(self):
+    @classmethod
+    def setUpClass(cls):
         # excess epsilon to add margin
-        self.eps = np.nextafter(0, 1)
+        cls.eps = np.nextafter(0, 1)
         
         # set up input data dir, parameters
-        self.interior_corners = (8,6)
-        self.side_length = 30 # in mm
+        interior_corners = (8,6)
+        side_length = 30 # in mm
 
         # use results from matlab script to test
-        self.calib_folder = rel_to_file(os.path.join("test-data", "calib", "calib", __file__)
-        self.calib_images = load_from_directory(self.calib_folder)
-        self.calib_results = scipy.io.loadmat(os.path.join(self.calib_folder, "Calib_Results.mat"), squeeze_me=True)
+        calib_folder = rel_to_file(os.path.join("test-data", "swept-plane", "calib"), __file__)
+        calib_images = load_from_directory(calib_folder)
+        cls.calib_results = scipy.io.loadmat(os.path.join(calib_folder, "Calib_Results.mat"), squeeze_me=True)
 
         # run the calibration
-        (self.focal_length, self.principal_point, self.alpha, self.distortion) = intrinsic_calibration_with_checkerboard(self.calib_images, self.interior_corners, self.side_length)
+        (cls.focal_length, cls.principal_point, cls.alpha, cls.distortion) = intrinsic_calibration_with_checkerboard(
+            calib_images, interior_corners, side_length)
 
     def test_focal_length(self):
         assert_array_less(np.abs(self.focal_length - self.calib_results['fc']), self.calib_results['fc_error'] + self.eps)
@@ -35,4 +37,3 @@ class TestCameraCalibration(unittest.TestCase):
 
     def test_distortion(self):
         assert_array_less(np.abs(self.distortion - self.calib_results['kc']), self.calib_results['kc_error'] + self.eps)
-

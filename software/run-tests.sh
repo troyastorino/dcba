@@ -3,4 +3,4 @@ type nosetests >/dev/null 2>&1 || { echo >&2 "We need nosetests, from the python
 DIR="$( cd -P "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # run the python tests
-nosetests --pdb -v -w ${DIR}/python/scan/test
+nosetests -v -w ${DIR}/python/scan/test $*

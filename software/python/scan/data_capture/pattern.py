@@ -37,3 +37,20 @@ class GeneratedPattern:
     def __init__(self, img, projectors):
         self.image = img
         self.projectors = projectors
+
+def gray_code_patterns(width, height, horizontal_stripes=True):
+    """
+    Function: gray_code_patterns
+    Generates a list of <DLPPattern> objects corresponding to a sequence of
+    gray codes to be projected
+
+    Parameters:
+    width - *int* Pixel width of the pattern
+    height - *int* Pixel height of the pattern
+    horizontal_stripes - *boolean* If true, generate horizontal stripes,
+    otherwise, generate vertical stripes
+
+    Returns:
+    *[<DLPPattern>]* list of patterns for the Gray code
+    """
+    pass

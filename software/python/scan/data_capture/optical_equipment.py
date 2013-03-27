@@ -12,8 +12,12 @@ class OpticalEquipment(object):
     Superclass of <Projector> and <Camera>
 
     Attributes:
-    pose - *ndarray* The 4x4 matrix representing the position and
-    orientation of the piece of optical equipment in world coordinates
+    R - *ndarray* The 3x3 rotation matrix rotating from the global coordinate frame to the
+    coordinate frame of the piece of optical equipment
+    T - *ndarray* The length 3 numpy array giving the position of the piece of optical
+    equipment in the global coordinate frame
+    extrinsic_matrix - *ndarray* The 4x3 matrix representing the position and
+    orientation of the piece of optical equipment in world coordinates. Is equivalent to [R|T]
     focal_length - *ndarray* 2x1 vector representing the x and y focal lengths for the
     camera, i.e. [fx, fy]
     principal_point - *ndarray* 2x1 vector representing the two components of the principal
@@ -27,36 +31,24 @@ class OpticalEquipment(object):
      [0, 0, 1]]
     distortion - *ndarray* The lens distortion coefficients of the optical equipment
     """ 
-    def __init__(self, pose, distortion, intrinsic_matrix):
-        self.pose = np.array(pose)
+    def __init__(self, extrinsic_matrix, intrinsic_matrix, distortion):
+        self.extrinsic_matrix = np.array(extrinsic_matrix)
+        (self.R, self.T) = self.extrinsic_parameters(self.extrinsic_matrix)
         self.intrinsic_matrix = np.array(intrinsic_matrix)
         (self.focal_length, self.principal_point, self.alpha) = self.intrinsic_parameters(self.intrinsic_matrix)
         self.distortion = np.array(distortion)
-
-    @classmethod
-    def from_intrinsic_params(cls, pose, distortion, focal_length, principal_point, alpha=0):
-        """
-        Method: from_intrinsic_params
-        Constuctor for specifying the intrinsic parameters individually instead of the
-        intrinsic matrix. To see what the intrinsic parameters correspond to, see the
-        <OpticalEquipment> attributes.
-
-        Returns:
-        An initialized OpticalEquipment object
-        """
-        intrinsic_matrix = cls.intrinsic_matrix(focal_length, principal_point, alpha)
-        return cls(pose, distortion, intrinsic_matrix)
 
     @staticmethod
     def intrinsic_matrix(focal_length, principal_point, alpha=0):
         """
         Function: intrinsic_matrix
-        Generates the intrinsic matrix from intrinsic parameters
+        Generates the intrinsic matrix from intrinsic parameters. See the <OpticalEquipment>
+        class attributes for information on the parameters
 
         Returns:
         Intrinsic matrix from the passed parameters
         """
-        return np.array([[focal_length[0], alpha * focal_length[0], principal_point[0]],
+        return np.array([[focal_length[0], alpha, principal_point[0]],
                          [0, focal_length[1], principal_point[1]],
                          [0, 0, 1]])
 
@@ -64,7 +56,8 @@ class OpticalEquipment(object):
     def intrinsic_parameters(intrinsic_matrix):
         """
         Function: intrinsic_parameters
-        Extracts the intrinsic parameters from an intrinsic matrix
+        Extracts the intrinsic parameters from an intrinsic matrix. See the <OpticalEquipment>
+        class attributes for information on the parameters
 
         Parameters:
         intrinsic_matrix - *ndarray* 3x3 matrix of camera's intrinsic parameters
@@ -75,9 +68,40 @@ class OpticalEquipment(object):
         """
         focal_length = np.array([intrinsic_matrix[0,0], intrinsic_matrix[1,1]])
         principal_point = np.array([intrinsic_matrix[0,2], intrinsic_matrix[1,2]])
-        alpha = intrinsic_matrix[0,1] / focal_length[0]
+        alpha = intrinsic_matrix[0,1]
 
         return (focal_length, principal_point, alpha)
+
+    @staticmethod
+    def extrinsic_matrix(R, T):
+        """
+        Function: extrinsic_matrix
+        Calculates the 3x4 matrix representing the position and orientation of the piece of optical
+        equipment in space.  Is a matrix of the form [R|T].  See the attributes of the <OpticalEquipment>
+        for the parameter definitions
+
+        Returns:
+        *ndarray* with shape (4,3)
+        """
+        return np.concatenate((R, np.array([T]).T), axis=1)
+
+    @staticmethod
+    def extrinsic_parameters(extrinsic_matrix):
+        """
+        Function: extrinsic_parameters
+        Returns a tuple of the rotation matrix and the translation vector giving the orientation and
+        position of the piece of optical equipment.
+
+        Parameters:
+        extrinsic_martix - *ndarray* with shape (3,4) array in the form [R|T]
+
+        Returns:
+        Tuple (R, T), where R is the *ndarray* with shape (3,3) representing the rotation matrix,
+        and T is the *ndarray* with shape (3,) representing the translation vector
+        """
+        R = extrinsic_matrix[:,0:3]
+        T = extrinsic_matrix[:,3]
+        return (R, T)
 
     def undistort(self, image):
         """
@@ -109,22 +133,16 @@ class Camera(OpticalEquipment):
     Attributes:
     device - *OpenCV VideoCapture* object that can be used to capture an image
     """
-    def __init__(self, device, pose, distortion, intrinsic_matrix):
-        super(Camera, self).__init__(pose, distortion, intrinsic_matrix)
+    def __init__(self, device, extrinsic_matrix, intrinsic_matrix, distortion):
+        super(Camera, self).__init__(extrinsic_matrix, intrinsic_matrix, distortion)
         self.device = device
 
-    @classmethod
-    def from_intrinsic_params(cls, device, pose, distortion, focal_length, principal_point, alpha=0):
-        intrinsic_matrix = super(Camera, cls).intrinsic_matrix(focal_length, principal_point, alpha)
-        return cls(device, pose, distortion, intrinsic_matrix)
-
-
     def capture_image(self):
-        capturedImage, image = self.device.read()
-        if capturedImage:
-            return Image(image, self, None)
+        captured_image, image = self.device.read()
+        if captured_image:
+            return Image(image, self, None, False)
         else:
-            raise Excpetion("Image capture failed. retval=" + retval)
+            raise Exception("Image capture failed.")
         
 def capture_image(device):
     """
