@@ -3,7 +3,7 @@ import scipy.io
 import os.path
 import numpy as np
 from scan.data_capture.optical_equipment import Camera, DLPProjector
-from scan.util import rel_to_file
+from scan.common.util import rel_to_file
 
 class TestStructuredLightScan(unittest.TestCase):
     @classmethod

@@ -5,7 +5,7 @@ import numpy as np
 from numpy.testing import assert_array_less
 from scan.data_capture.image import load_from_directory
 from scan.data_capture.calibration import intrinsic_calibration_with_checkerboard
-from scan.util import rel_to_file
+from scan.common.util import rel_to_file
 
 class TestCameraCalibration(unittest.TestCase):
     @classmethod

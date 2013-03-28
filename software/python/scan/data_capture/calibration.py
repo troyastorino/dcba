@@ -133,12 +133,11 @@ def intrinsic_calibration_with_checkerboard(images, interior_corners, side_lengt
             raise Exception("A checkerboard could not be found on one of the images.")
 
     # convert to numpy arrays of the appropriate type
-    image_points = np.array(image_points, 'float32')
-    board_points = np.array(board_points, 'float32')
+    image_points = np.array(image_points, np.float32)
+    board_points = np.array(board_points, np.float32)
 
     # find the image size
-    shape = images[0].data.shape
-    image_size = (shape[1], shape[0])
+    image_size = images[0].data.shape[0:2]
 
     # calibrate the camera
     rms, camera_matrix, distortion, rvecs, tvecs = cv2.calibrateCamera(board_points, image_points, image_size)
@@ -150,29 +149,3 @@ def intrinsic_calibration_with_checkerboard(images, interior_corners, side_lengt
 
     # return intrinsic parameters
     return ret
-
-if __name__ == "__main__":
-    
-    # initialize coordinates of the checkerboard
-    interior_corners = (6,8)
-    side_length = 1.8
-
-    # choose method to get images
-    capture_images = False
-
-    if capture_images:
-        # initialize the camera
-        capture = cv2.VideoCapture(0)
-
-        # capture the images
-        images = capture_checkerboard_calibration_images(capture, interior_corners, side_length, num_images=1)
-    else:
-        # null capture
-        capture = None
-        
-        # use test images
-        img_dir = "../../../../materials/test-images/swept-plane/calib/calib/"
-        images = image.load_from_directory(img_dir)
-
-    # calibrate the camera
-    (focal_length, principal_point, alpha, distortion) = intrinsic_calibration_with_checkerboard(images, interior_corners, side_length)
