@@ -144,8 +144,8 @@ def intrinsic_calibration_with_checkerboard(images, interior_corners, side_lengt
 
     # bundle into tuple to return
     intrinsic_params = OpticalEquipment.intrinsic_parameters(camera_matrix)
-    ret = [x for x in intrinsic_params]
+    ret = list(intrinsic_params)
     ret.append(distortion[0])
 
     # return intrinsic parameters
-    return ret
+    return tuple(ret)

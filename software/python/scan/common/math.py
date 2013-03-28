@@ -65,7 +65,7 @@ def bits(x, nbits=None):
         nbits = largest_req
 
     # find the new shape of the array with the first index as the bit index
-    dims = [n for n in x.shape]
+    dims = list(x.shape)
     dims.insert(0, nbits)
     new_shape = tuple(dims)
 

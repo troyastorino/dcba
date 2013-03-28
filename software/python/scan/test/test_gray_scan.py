@@ -2,8 +2,10 @@ import unittest
 import scipy.io
 import os.path
 import numpy as np
+from scan.data_capture.image import Image, load_from_directory
 from scan.data_capture.optical_equipment import Camera, DLPProjector
 from scan.common.util import rel_to_file
+from scan.data_capture.pattern import gray_code_patterns, GeneratedPattern
 
 class TestStructuredLightScan(unittest.TestCase):
     @classmethod
@@ -33,6 +35,34 @@ class TestStructuredLightScan(unittest.TestCase):
                                                            cls.calib['alpha_c_proj'])
         proj_distortion = cls.calib['kc_proj']
         cls.proj = DLPProjector(proj_extrinsic_matrix, proj_intrinsic_matrix, proj_distortion)
+
+        # Get the Images
+        img_folder = os.path.join(structured_light_dir, "data", "Gray", "man", "v1")
+        loaded_images = load_from_directory(img_folder)
+
+        # Get the Gray code patterns that were projected
+        # img_shape = loaded_images[0].data.shape[0:2] # it is hardcoded i
+        img_shape = (768, 1024) # it is hard coded into the slProcess code...otherwise would just read the size like above
+        patterns = [np.ones(img_shape, dtype='i') * 255, np.zeros(img_shape, dtype='i')]
+        patterns.extend(gray_code_patterns(img_shape))
+        patterns.extend(gray_code_patterns(img_shape, vertical_stripes=False))
+
+        cls.gen_patterns = []
+        for p in patterns:
+            cls.gen_patterns.append(GeneratedPattern([(p, cls.proj)]))
+
+        # make sure patterns and images are the same length
+        if len(cls.gen_patterns) != len(loaded_images):
+            raise Exception("Pattern and Image list should be the same length. Please figure out why they aren't")
+
+        # reconstruct the images
+        images = []
+        for i in range(len(loaded_images)):
+            images.append(Image(loaded_images[i].data, cls.cam, cls.gen_patterns[i]))
+
+        # now we are finally at the place we would be if our machine had done
+        # the scanning on its own :)
+        raise Exception()
 
     def test_scan_results(self):
         raise NotImplementedError()

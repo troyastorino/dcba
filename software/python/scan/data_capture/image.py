@@ -32,14 +32,16 @@ def load_from_directory(dir_name):
     string dir_name - The name of the directory
 
     Returns:
-    A list of <Image>s read from the directory
+    A list of <Image>s read from the directory. Images are sorted by filename
 
     """
     # list of images to return
     images = []
 
     # try to add each item in the directory as an image
-    for f in os.listdir(dir_name):
+    files = os.listdir(dir_name)
+    files.sort()
+    for f in files:
         data = cv2.imread(os.path.join(dir_name, f))
 
         # if data collected, add the Image
