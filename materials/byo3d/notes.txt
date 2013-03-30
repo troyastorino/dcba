@@ -23,3 +23,34 @@ Rc_1, Rc_2, ... - 3D rotation matrices. Again somehow only the first is used.
 Not sure how or why
 
 Main call for optimization: go_calib_optim_iter
+
+In slProcess:
+G is a representation of the image Gray codes. it has dimensions
+(1200, 1600, 10), and the third axis is where the gray code for each image
+is stored.
+
+D (before line 133) is a decimal representation of the Gray code data.  It has shape (1200, 1600).
+It is formed by squashing G along it's third axis to extract the decimal value
+for each pixel. On line 133, it eliminates all the pixels that didn't exceed the
+contrast threshold for one of the image pairs.  The purpose of D is to best
+estimate which pixel corresponded to which column and row of gray code
+
+M holds all pixels that do exceed the contrast threshold between one image
+and its inverse
+
+mask holds all the valid pixels for the image
+
+Oc is the location of the camera
+Nc is the vector defining the optical ray through each pixel
+
+normalize is like the OpenCV method undistort, but runs on a list of features
+instead of on an image
+
+pixel2ray just adds a z-component to a pixel (the z component is just 1 for all
+pixels), and then turns the resultant vectors into unit vectors. It also calls
+normalize, so it adjusts for distortion
+
+wPlaneCol describes plane equations for every projector column.
+wPlaneRow describes the plane equations for every projector row
+The plane equations are described by the parameters [a b c d] such that
+a*x + b*y + c*z = d

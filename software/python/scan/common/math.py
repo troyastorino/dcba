@@ -32,52 +32,86 @@ def gray_code(x):
         raise Exception('Only valid for non-negative ints')
     return np.bitwise_xor(np.right_shift(x, 1), x)
 
-def bits(x, nbits=None):
+def bit_array(x, n_bits=None):
     """
-    Function: bits
+    Function: bit_array
     Converts numbers to their equivalent bit arrays
 
     Parameters:
     x - *array-like* To be converted to bit arrays
-    nbits - *int* length for each bit array.  If omitted will be
+    n_bits - *int* length for each bit array.  If omitted will be
     the largest required bit size for any of the numbers
 
     Returns:
     *ndarray* holding the bit arrays of the passed numbers.  If x has shape s,
     then the returned array will have the same shape with an additional dimension
-    on the end The additional dimension will be of length nbits
+    on the end The additional dimension will be of length n_bits
     """
     # make sure x is a numpy array
     x = np.array(x)
 
     # make sure are unigned ints
-    if not are_non_negative_ints:
+    if not are_non_negative_ints(x):
         raise Exception('Only valid for non-negative ints')
     
     # find the largest number of bits for the array
     bits_required = np.ceil(np.log2(x + 1)).astype('i')
     largest_req = np.max(bits_required)
-    if nbits:
-        if largest_req > nbits:
+    if n_bits:
+        if largest_req > n_bits:
             raise Exception("At least one number requires more bits " +
                             "than were specified")
     else:
-        nbits = largest_req
+        n_bits = largest_req
 
     # find the new shape of the array with the first index as the bit index
-    dims = list(x.shape)
-    dims.insert(0, nbits)
-    new_shape = tuple(dims)
+    new_shape = [n_bits] + list(x.shape)
 
     # create the new array
-    x_rem = x
     bit_array = np.zeros(new_shape, dtype=np.uint8)
-    for i in range(nbits):
-        place_val = int(2**(nbits-i-1))
+    x_rem = x # holder for the calculation
+    for i in range(n_bits):
+        place_val = int(2**(n_bits-i-1))
         bit_array[i] = x_rem / place_val
         x_rem = x_rem % place_val
 
     # transpose the array so the bits are the last index
-    axes = range(1, len(x.shape) + 1)
-    axes.append(0)
+    axes = range(1, len(x.shape) + 1) + [0]
     return bit_array.transpose(axes)
+
+def pack_bit_array(x):
+    """
+    Function: pack_bit_array
+    Converts from a bit array to decimal numbers
+
+    Parameters:
+    x - *array-like* The bit array. The last dimension of x must be the bits
+
+    Returns:
+    *ndarray* holding the array of decimal numbers.  If x has shape s,
+    then the returned array will have the same shape with one less dimension
+    on the end
+    """
+    # make sure x is a numpy array
+    x = np.array(x)
+
+    # get the shape of the array
+    shape = list(x.shape)
+    n_dims = len(shape)
+
+    # get the number of bits in the array
+    n_bits = shape[n_dims-1]
+
+    # initialize the new array
+    dec_array = np.zeros(shape[:n_dims-1])
+
+    # move bits to the first index for manipulation
+    axes = [n_dims-1] + range(n_dims-1)
+    bit_array = np.transpose(x, axes)
+
+    # add all the bit values to populate the decimal array
+    accessor = np.ones(dec_array.shape, dtype=np.bool)
+    for i in range(n_bits):
+        dec_array = dec_array + bit_array[i] * 2**(n_bits-i-1)
+
+    return dec_array

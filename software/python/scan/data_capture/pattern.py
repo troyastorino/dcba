@@ -1,5 +1,5 @@
 import numpy as np
-from scan.common.math import gray_code, bits
+from scan.common.math import gray_code, bit_array
 
 class StaticPattern:
     """
@@ -55,7 +55,7 @@ def gray_code_patterns(img_shape, vertical_stripes=True):
     gray_nums = gray_code(np.arange(2**n, dtype='i'))
 
     # convert to bit arrays
-    gray_bits = bits(gray_nums)
+    gray_bits = bit_array(gray_nums)
 
     # function to generate pixels from gray_code_line
     def gen_pixels(line):

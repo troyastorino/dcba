@@ -1,0 +1,7 @@
+Add offset to gray code scan
+
+Vectorize gray_scan code to support fast operations for multiple cameras
+
+If we keep gray code scan, make it probabilistic
+
+in gray_scan.extract_point_cloud, check for the correct pattern sequence

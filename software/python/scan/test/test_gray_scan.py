@@ -5,9 +5,10 @@ import numpy as np
 from scan.data_capture.image import Image, load_from_directory
 from scan.data_capture.optical_equipment import Camera, DLPProjector
 from scan.common.util import rel_to_file
-from scan.data_capture.pattern import gray_code_patterns, GeneratedPattern
+from scan.data_capture.pattern import gray_code_patterns, GeneratedPattern, DLPPattern
+from scan.triangulation.gray_scan import *
 
-class TestStructuredLightScan(unittest.TestCase):
+class TestGrayScan(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         # get the relevant data
@@ -43,13 +44,14 @@ class TestStructuredLightScan(unittest.TestCase):
         # Get the Gray code patterns that were projected
         # img_shape = loaded_images[0].data.shape[0:2] # it is hardcoded i
         img_shape = (768, 1024) # it is hard coded into the slProcess code...otherwise would just read the size like above
-        patterns = [np.ones(img_shape, dtype='i') * 255, np.zeros(img_shape, dtype='i')]
+        patterns = [DLPPattern(np.ones(img_shape, dtype='i') * 255),
+                          DLPPattern(np.zeros(img_shape, dtype='i'))]
         patterns.extend(gray_code_patterns(img_shape))
         patterns.extend(gray_code_patterns(img_shape, vertical_stripes=False))
 
         cls.gen_patterns = []
         for p in patterns:
-            cls.gen_patterns.append(GeneratedPattern([(p, cls.proj)]))
+            cls.gen_patterns.append([GeneratedPattern([(p, cls.proj)])])
 
         # make sure patterns and images are the same length
         if len(cls.gen_patterns) != len(loaded_images):
@@ -59,6 +61,8 @@ class TestStructuredLightScan(unittest.TestCase):
         images = []
         for i in range(len(loaded_images)):
             images.append(Image(loaded_images[i].data, cls.cam, cls.gen_patterns[i]))
+
+        point_cloud = extract_point_cloud(images)
 
         # now we are finally at the place we would be if our machine had done
         # the scanning on its own :)
