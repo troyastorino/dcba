@@ -5,3 +5,16 @@ Vectorize gray_scan code to support fast operations for multiple cameras
 If we keep gray code scan, make it probabilistic
 
 in gray_scan.extract_point_cloud, check for the correct pattern sequence
+
+In gray_scan, make sure assumptions about the timing of undistorting the image
+are OK.  Also do something intelligent about the projector distortion.
+
+Make normalize testing more full, or find an alternative in numpy
+
+Vectorize fit_plane (is that possible???)
+
+Add unit tests for line_plane_intersection, projector_planes
+
+Vectorize the call to line_plane_intersection in extract_point_cloud
+
+Finish debugging extract_point_cloud

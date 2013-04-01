@@ -14,8 +14,8 @@ class OpticalEquipment(object):
     Attributes:
     R - *ndarray* The 3x3 rotation matrix rotating from the global coordinate frame to the
     coordinate frame of the piece of optical equipment
-    T - *ndarray* The length 3 numpy array giving the position of the piece of optical
-    equipment in the global coordinate frame
+    T - *ndarray* The length 3 numpy array giving the location of the global frame origin
+    in the optical equipment coordinate frame
     extrinsic_matrix - *ndarray* The 4x3 matrix representing the position and
     orientation of the piece of optical equipment in world coordinates. Is equivalent to [R|T]
     focal_length - *ndarray* 2x1 vector representing the x and y focal lengths for the
@@ -30,13 +30,16 @@ class OpticalEquipment(object):
      [0, fy, cy],
      [0, 0, 1]]
     distortion - *ndarray* The lens distortion coefficients of the optical equipment
+    resolution - *Tuple* of the form (width, height), giving the resolution of
+    the piece of optical equpiment
     """ 
-    def __init__(self, extrinsic_matrix, intrinsic_matrix, distortion):
+    def __init__(self, extrinsic_matrix, intrinsic_matrix, distortion, resolution):
         self.extrinsic_matrix = np.array(extrinsic_matrix)
         (self.R, self.T) = self.extrinsic_parameters(self.extrinsic_matrix)
         self.intrinsic_matrix = np.array(intrinsic_matrix)
         (self.focal_length, self.principal_point, self.alpha) = self.intrinsic_parameters(self.intrinsic_matrix)
         self.distortion = np.array(distortion)
+        self.resolution = tuple(resolution)
 
     @staticmethod
     def intrinsic_matrix(focal_length, principal_point, alpha=0):
@@ -133,8 +136,8 @@ class Camera(OpticalEquipment):
     Attributes:
     device - *OpenCV VideoCapture* object that can be used to capture an image
     """
-    def __init__(self, device, extrinsic_matrix, intrinsic_matrix, distortion):
-        super(Camera, self).__init__(extrinsic_matrix, intrinsic_matrix, distortion)
+    def __init__(self, device, extrinsic_matrix, intrinsic_matrix, distortion, resolution):
+        super(Camera, self).__init__(extrinsic_matrix, intrinsic_matrix, distortion, resolution)
         self.device = device
 
     def capture_image(self):
@@ -157,7 +160,7 @@ def capture_image(device):
     Return:
     An <Image> object containing the captured data
     """
-    camera = Camera(device, None, None, None)
+    camera = Camera(device, None, None, None, None)
     return camera.capture_image()
 
 
@@ -174,9 +177,13 @@ class Projector(OpticalEquipment):
     """        
     pass
 
-
-
 class DLPProjector(Projector):
+    """
+    Class: DLPProjector
+    Contains information specific to a DLP projector
+
+    Subclass of <Projector>
+    """
     def project_pattern(self, pattern):
         """
         Method: project_pattern

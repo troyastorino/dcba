@@ -32,6 +32,39 @@ def gray_code(x):
         raise Exception('Only valid for non-negative ints')
     return np.bitwise_xor(np.right_shift(x, 1), x)
 
+def from_gray_code(x):
+    """
+    Function: from_gray_code
+    Converts from a list of Gray code numbers to decimal numbers. Assumes
+    numbers will be in the decimal form of the binary representation of the Gray
+    code string
+
+    Parameters:
+    x - *array-like* array of gray code numbers to be converted to binary numbers
+
+    Returns:
+    *ndarray* of the binary numbers from the Gray code numbers.  The return array
+    will have the same shape as x
+    """
+    if not are_non_negative_ints(x):
+        raise Exception('Only valid for non-negative ints')
+
+    # ensure we have an ndarray
+    x = np.array(x)
+
+    # calculate number of bits in each numbers representation
+    n_bits = 8 * x.dtype.itemsize
+
+    # calculate the bit shifts required
+    max_exp = int(np.ceil(np.log2(n_bits)))
+    shifts = [2**i for i in range(max_exp)]
+    
+    # calculate the values
+    for shift in shifts:
+        x = x ^ (x >> shift)
+
+    return x
+
 def bit_array(x, n_bits=None):
     """
     Function: bit_array
@@ -65,7 +98,7 @@ def bit_array(x, n_bits=None):
         n_bits = largest_req
 
     # find the new shape of the array with the first index as the bit index
-    new_shape = [n_bits] + list(x.shape)
+    new_shape = (n_bits,) + x.shape
 
     # create the new array
     bit_array = np.zeros(new_shape, dtype=np.uint8)
@@ -114,4 +147,120 @@ def pack_bit_array(x):
     for i in range(n_bits):
         dec_array = dec_array + bit_array[i] * 2**(n_bits-i-1)
 
-    return dec_array
+    return dec_array.astype(np.uint64)
+
+def normalize(x, axis=None):
+    """
+    Function: normalize
+    Normalizes vectors along a given axis. TODO: make work across multiple axes
+    (by passing a tuple to axis)
+
+    Parameters:
+    x - *array-like* Array that holds vectors to be normalized
+    axis - *int* Axis that vectors to be normalizes are on. Defaults to last axis
+
+    Returns:
+    An array of normalized vectors. The normalized vectors will have norm 1, and
+    the first element will be positive
+    """
+    # make sure a ndarray
+    x = np.array(x)
+    n_dim = len(x.shape)
+
+    if axis == None:
+        axis = n_dim - 1
+
+    if axis != n_dim-1:
+        raise Exception("No tests created for anything other than the last axis")
+
+    # calculate norms
+    norms = np.sqrt(np.sum(x**2, axis=axis))
+
+    # get the sign of the first component of each vector
+    axes = range(n_dim)
+    axes.pop(axis)
+    sign = np.sign(np.transpose(x, [axis] + axes)[0])
+    if len(sign.shape) > 0:
+        sign[sign == 0] = 1
+    elif sign == 0:
+        sign = 1
+
+    # shape for norm and sign to successfully broadcast to x
+    shape = list(x.shape)
+    shape[axis] = 1
+
+    # divide each component by its norm
+    return x / np.reshape(norms, shape) * np.reshape(sign, shape)
+
+def _fit_plane(x):
+    """
+    Function: _fit_plane
+    Takes a list of points in 3 space and calculates the plane the most closely
+    passes through them by minimizing the least square distance. Helper for fit_plane
+    source: Brown byo3d fitPlane function
+
+    Parameters:
+    x - *array-like* List of points with shape (n, 3)
+
+    Returns:
+    *ndarray* Plane parameters [a, b, c, d] satisfying equation
+    a*x + b*y + c*z = d
+    """
+    # construct linear least-squares matrix
+    mean = np.mean(x, axis=0)
+    U = x - mean
+
+    # determine minimum eigenvector of U'*U
+    w, v = np.linalg.eig(np.dot(U.T, U))
+    min_idx = np.argmin(w)
+    a, b, c = v[:, min_idx]
+
+    # calculate d
+    d = np.dot([a, b, c], mean)
+
+    return np.array([a, b, c, d])
+    
+    
+def fit_plane(x, axis=None):
+    """
+    Function: fit_plane
+    Finds a best fit plane from a set of points by minimizing the least
+    squares error
+    TODO: make not dumb
+
+    x - *array-like* Array of points, where the points are in 3 space
+    axis - *int* The axis that the points are listed along. The means
+    the next axis (with index axis+1) must have length 3. If not specified
+    will be the second to last axis
+
+    Returns:
+    *ndarray* Array of plane parameters in the form [a, b, c, d], where
+    a*x + b*y + c*z = d
+    """
+    x = np.array(x)
+    n_dim = len(x.shape)
+
+    if axis == None:
+        axis = n_dim - 2
+    
+    if axis != n_dim - 2:
+        raise Exception("No tests created for the vector list on " +
+                        "anything other than the second-to-last axis. " +
+                        "Wouldn't work without modification")
+
+    if n_dim == 2:
+        return _fit_plane(x)
+    elif n_dim > 2:
+        # get shape where the 4 vectors of coefficients will go
+        shape = list(x.shape)
+        shape.pop(axis)
+        shape[axis] = 4
+        ret = np.zeros(shape)
+
+        # fill by recursively calling fit_plane
+        for i in range(len(x)):
+            ret[i] = fit_plane(x[i], axis=axis-1) # axis loses one as we make it smaller
+
+        return ret
+    else:
+        raise Exception("Must be at least a 2 dimensional array")

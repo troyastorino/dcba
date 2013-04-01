@@ -3,10 +3,25 @@ import scipy.io
 import os.path
 import numpy as np
 from scan.data_capture.image import Image, load_from_directory
-from scan.data_capture.optical_equipment import Camera, DLPProjector
+from scan.data_capture.optical_equipment import Camera, DLPProjector, OpticalEquipment
 from scan.common.util import rel_to_file
 from scan.data_capture.pattern import gray_code_patterns, GeneratedPattern, DLPPattern
 from scan.triangulation.gray_scan import *
+
+class TestProjectorPlanes(unittest.TestCase):
+    def setUp(self):
+        self.rtol = 1e-7
+        R = np.eye(3)
+        T = np.zeros(3)
+        intrinsic_matrix = np.eye(3)
+        distortion = np.zeros(5)
+        self.resolution = (1,1)
+        self.oe = DLPProjector(OpticalEquipment.extrinsic_matrix(R, T),
+                               intrinsic_matrix, distortion, self.resolution)
+        
+    def test_generation(self):
+        pass
+
 
 class TestGrayScan(unittest.TestCase):
     @classmethod
@@ -26,7 +41,8 @@ class TestGrayScan(unittest.TestCase):
                                                        cls.calib['cc_cam'],
                                                        cls.calib['alpha_c_cam'])
         cam_distortion = cls.calib['kc_cam']
-        cls.cam = Camera(None, cam_extrinsic_matrix, cam_intrinsic_matrix, cam_distortion)
+        cam_resolution = (cls.calib['nx_cam'], cls.calib['ny_cam'])
+        cls.cam = Camera(None, cam_extrinsic_matrix, cam_intrinsic_matrix, cam_distortion, cam_resolution)
 
         # Initialize the projector
         proj_extrinsic_matrix = DLPProjector.extrinsic_matrix(cls.calib['Rc_1_proj'],
@@ -35,7 +51,8 @@ class TestGrayScan(unittest.TestCase):
                                                            cls.calib['cc_proj'],
                                                            cls.calib['alpha_c_proj'])
         proj_distortion = cls.calib['kc_proj']
-        cls.proj = DLPProjector(proj_extrinsic_matrix, proj_intrinsic_matrix, proj_distortion)
+        proj_resolution = (cls.calib['nx_proj'], cls.calib['ny_proj'])
+        cls.proj = DLPProjector(proj_extrinsic_matrix, proj_intrinsic_matrix, proj_distortion, proj_resolution)
 
         # Get the Images
         img_folder = os.path.join(structured_light_dir, "data", "Gray", "man", "v1")
@@ -44,8 +61,8 @@ class TestGrayScan(unittest.TestCase):
         # Get the Gray code patterns that were projected
         # img_shape = loaded_images[0].data.shape[0:2] # it is hardcoded i
         img_shape = (768, 1024) # it is hard coded into the slProcess code...otherwise would just read the size like above
-        patterns = [DLPPattern(np.ones(img_shape, dtype='i') * 255),
-                          DLPPattern(np.zeros(img_shape, dtype='i'))]
+        patterns = [DLPPattern(np.ones(img_shape, dtype=np.uint8) * 255),
+                          DLPPattern(np.zeros(img_shape, dtype=np.uint8))]
         patterns.extend(gray_code_patterns(img_shape))
         patterns.extend(gray_code_patterns(img_shape, vertical_stripes=False))
 
@@ -62,11 +79,9 @@ class TestGrayScan(unittest.TestCase):
         for i in range(len(loaded_images)):
             images.append(Image(loaded_images[i].data, cls.cam, cls.gen_patterns[i]))
 
-        point_cloud = extract_point_cloud(images)
-
-        # now we are finally at the place we would be if our machine had done
-        # the scanning on its own :)
-        raise Exception()
+        # finally at the point we would have been at if our machine scanned the
+        # object :)
+        self.point_cloud = extract_point_cloud(images)
 
     def test_scan_results(self):
         raise NotImplementedError()
