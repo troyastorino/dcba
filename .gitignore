@@ -16,6 +16,9 @@
 bin
 bin/*
 
+# Generated docs
+docs
+
 # LaTeX files
 *.bbl
 *.blg
