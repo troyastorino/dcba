@@ -100,7 +100,7 @@ def projector_planes(proj):
     proj_points_col = np.concatenate((proj_pixels, np.ones(col_shape) * proj_pose), axis=0)
 
     # calculate the column planes
-    proj_planes_col = fit_plane(np.transpose(proj_points_row, (1, 0, 2)))
+    proj_planes_col = fit_plane(np.transpose(proj_points_col, (1, 0, 2)))
 
     return proj_planes_row, proj_planes_col
     
@@ -142,7 +142,8 @@ def extract_point_cloud(images, min_contrast=0.2):
     # from the column or row data, make it invalid for both)
     pixel_mask = pixel_mask_row & pixel_mask_col
 
-    # also invalidate pixels if first and second image don't exceed contrast
+    # also invalidate pixels if difference between original first and second
+    # image (black projection and whit projetion) doesn't exceed contrast
     # ratio
     gray_1 = cv2.cvtColor(images[0].data, cv2.COLOR_RGB2GRAY)
     gray_2 = cv2.cvtColor(images[1].data, cv2.COLOR_RGB2GRAY)
@@ -152,6 +153,12 @@ def extract_point_cloud(images, min_contrast=0.2):
     proj = images[0].patterns[0].projected_patterns[0][1]
     cam = images[0].camera
     
+    # also invalidate pixel if any the calculated gray code row is greater than
+    # the projection row, or if the calculated gray code column is greater than
+    # the gray code column
+    pixel_mask[gray_code_row >= proj.resolution[0]] = False
+    pixel_mask[gray_code_col >= proj.resolution[1]] = False
+
     # get plane equations for every projector row and column
     proj_planes_row, proj_planes_col = projector_planes(proj)
 
