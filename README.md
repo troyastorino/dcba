@@ -5,13 +5,34 @@ Repository for code and documents relating to our 6.S078 project.
 
 [Google Drive folder](https://drive.google.com/#folders/0B_2CD27NNNbxcE1FSFVWV1JNQ0k)
 
-Variable Naming Conventions
-===========================
-For the python source code, class names will be in UpperCamelCase, and
-other variable names will be underscore_separated.  Clarity in variable names
+Conventions
+============
+Programming Style
+-----------------
+We are writing the code in a mostly functional style. This means we should try
+and treat objects as immutable, and we should write functions without
+side-effects. When we get to the point of optimization, we'll break this
+paradigm as needed, but we will not break it lightly.
+
+Naming
+-------
+For the python source code, class names will be in `UpperCamelCase`, and
+other variable names will be `underscore_separated`.  Clarity in variable names
 is more important than brevity.
 
-NaturalDocs Documenation ========================
+Image Shape
+------------
+In our code, the shape of image arrays is (width, height), so that pixels can be
+accessed with the semantics `image[x, y]`.  
+
+*IMPORTANT*: OpenCV uses the opposite convention for some reason. This means
+ when using OpenCV functions it may be important to transpose the data. The
+ functions `scan.data_capture.image.to_OpenCV` and
+ `scan.data_capture.image.from_OpenCV` can be used to accomplish this transpose
+ in their respective directions.
+ 
+NaturalDocs Documenation 
+========================
 [NaturalDocs](http://www.naturaldocs.org/) compiles correctly formatted
 documentation of the code in software into an easily readable and searchable
 html page.
@@ -69,10 +90,19 @@ When writing tests, in general write setup code in the setUp method for a
 subclass of unittest.TestCase, but if the setup is very expensive, write it as a
 class method with the setUpClass method.
 
-If you only want to run a single test, instead of all the tests, just type in
+If there is a very slow test or test class, mark it with the following
+decorator:
+```
+@nose.plugins.attrib.attr('slow')
+```
+This way, if you want to run all tests except the slow ones, you can pass `-a
+'!slow'` to the test executable.  Similarly, you could pass `-a 'slow'` to run
+only the slow tests.
+
+If you only want to run a single test module, instead of all the tests, just type in
 the module name of the test after the script name, e.g.:
 ```
-$ ./run-tests scan.tests.test_structured_scan
+$ ./run-tests scan.tests.test_math
 ```
 More details for what can be passed can be found in the nose documentation.  All
 arguments passed to the script will be passed to nose
