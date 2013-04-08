@@ -60,8 +60,26 @@ The general packages you need on your system are:
 * dos2unix
 * python >= 2.7
 * opencv >= 2.4
+* pcl
 
-If you are running OS X, it will be easiest to install these dependencies using [Homebrew](http://mxcl.github.com/homebrew/).
+If you are running OS X, it will be easiest to install these dependencies using
+[Homebrew](http://mxcl.github.com/homebrew/). 
+
+For pcl, you could either
+[download a precompiled binary](http://pointclouds.org/downloads/), 
+or you could install from source. Instructions for OS X with Homebrew follow. First install OpenNI: I haven't
+found a good source version to use (it's patched), so
+[install the precompiled version](http://sourceforge.net/projects/pointclouds/files/dependencies/OpenNI-MacOSX-v1.5.4.0.pkg/download). 
+Then, add the science packages to homebrew:
+```
+brew tap homebrew/science
+```
+Next, copy the Homebrew Formula software/lib/Formula/pcl.rb to
+/usr/local/Library/Formula/pcl.rb, and run
+```
+brew install pcl
+```
+That should be it!
 
 As Python is being used for the core software library, it is recommended to use
 [pip](https://pypi.python.org/pypi/pip) to install the necessary Python
