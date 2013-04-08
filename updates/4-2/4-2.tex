@@ -1,0 +1,72 @@
+\documentclass[10pt]{article}
+
+% small margins
+\usepackage[margin=1in]{geometry}
+
+% no large spaces in lists
+\usepackage{enumitem}
+\setlist{nolistsep}
+
+\title{\vspace{-4em}6.S078 Update}
+\author{Troy Astorino \and Turner Bohlen \and Craig Cheney \and Gus Downs}
+\date{April 2, 2013}
+
+\begin{document}
+\maketitle
+\vspace{-4em}
+
+\section{Plan Progress}
+We've had exciting progress this week!  We applied to the Summer@Highland
+incubator on Monday, and are applying to the MIT Founders' Skills Accelerator on
+Friday. 
+
+In terms of progress, we had a lot of work on the software side completed over
+spring break.  We have
+also moved farther along in eliminating potential low-cost projection
+technologies. These points will be covered in more depth in the prototype
+progress section.
+
+\section{Prototype Progress}
+The software advanced a large amount since the last update. The system now
+reconstructs a point cloud from a series of images taken with a DLP projector!
+The particular scan used was based on gray code scanning, an approach we are not
+planning on using (because it does require a DLP Projector), but was a good
+testable starting point (and 
+it is very nice to finally have a scan of something).  The system was written
+with easy adaption to other scanning techniques in mind.
+
+In terms of projection technologies, we have eliminated Moire Contours as a
+technique that can be used with structured light scanning.  If we were to use
+Talbot imaging, we found we would require wide beam laser light.  This is also
+the case if we were to effectively use optical interference.  Another option
+incorporating lasers would be to 'paint' laser lines on the object while
+the camera aperture is open. Simple projection through a grating is still a possibility.
+
+A couple pinhole cameras we ordered arrived, and we have started playing with those.
+
+\section{Baffling Variables}
+The largest unknown remains execution, and in particular the ability to
+successfully incorporate a projection technology that is cheaper than DLP
+Projection. We're putting the majority of our effort into that.
+
+\section{Seven Day Plan}
+\begin{itemize}
+\item Finish the accelerator applications successfully.
+\item Continue software development, incorporating meshing and potentially
+  adding a swept-plane scanning technique (again, not a
+  technique we will ultimately use, but good to ensure the flexibility of the
+  code)
+\item Put the pinhole cameras on the Arduino boards and start capturing images
+\item Order gratings and LEDs powerful enough to test our hypotheses about
+  LED+grate scanning
+\end{itemize}
+
+\section{People to Meet}
+We are meeting with Ben Einstein, the director of Bolt, to discuss whether we
+would be a good fit for the Bolt hardware incubator. 
+
+\section{Desired Resources}
+We are very thankful to Professor Gifford for continuing to probe the course's
+VC friends about prototyping funding.
+
+\end{document}
