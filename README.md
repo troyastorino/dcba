@@ -65,22 +65,33 @@ The general packages you need on your system are:
 If you are running OS X, it will be easiest to install these dependencies using
 [Homebrew](http://mxcl.github.com/homebrew/). 
 
-For pcl, you could either
+Point Cloud Library
+--------------------
+Unfortunately, the PCL installation can be quite involved. You could either
 [download a precompiled binary](http://pointclouds.org/downloads/), 
-or you could install from source. Instructions for OS X with Homebrew follow. First install OpenNI: I haven't
+or you could install from source. The python-pcl library is being developed for
+1.7.0 (the source version of PCL), but should work with 1.6.0 (the precompilied
+version of PCL). Instructions for OS X with Homebrew follow. 
+
+- Install OpenNI. I haven't
 found a good source version to use (it's patched), so
 [install the precompiled version](http://sourceforge.net/projects/pointclouds/files/dependencies/OpenNI-MacOSX-v1.5.4.0.pkg/download). 
-Then, add the science packages to homebrew:
+- Add the science packages to homebrew:
 ```
 brew tap homebrew/science
 ```
-Next, copy the Homebrew Formula software/lib/Formula/pcl.rb to
+- Copy the Homebrew Formula software/lib/Formula/pcl.rb to
 /usr/local/Library/Formula/pcl.rb, and run
 ```
 brew install pcl
 ```
-That should be it!
+- Install the python-pcl bindings in software/lib/python-pcl. Running `make`
+inside that directory will install the python bindings onto your system. Note
+this is a [git submodule](http://git-scm.com/book/ch6-6.html)--there are some
+things to be careful about with submodules.  Read the previously linked webpage for info.
 
+Python Libraries
+-----------------
 As Python is being used for the core software library, it is recommended to use
 [pip](https://pypi.python.org/pypi/pip) to install the necessary Python
 packages. Install using pip by running

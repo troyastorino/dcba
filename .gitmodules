@@ -1,0 +1,3 @@
+[submodule "software/lib/python-pcl"]
+	path = software/lib/python-pcl
+	url = git@github.com:troyastorino/python-pcl.git
