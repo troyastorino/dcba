@@ -11,7 +11,7 @@ done
 OUTPUT="${DIR}/docs"
 mkdir -p $OUTPUT
 PROJECT="${DIR}/lib/natural-docs/data"
-./lib/natural-docs/NaturalDocs $SRC_FOLDER_INCLUDES -i $SRC -o framedHTML $OUTPUT -p $PROJECT $*
+./lib/natural-docs/NaturalDocs -i $PYTHON_SRC -xi ${DIR}/lib -o framedHTML $OUTPUT -p $PROJECT $*
 dos2unix "${DIR}/docs/javascript/main.js"
 dos2unix "${DIR}/docs/styles/main.css"
 echo "Done!"
