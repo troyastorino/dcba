@@ -9,6 +9,7 @@ do
     PYTHON_FOLDERS="$PYTHON_FOLDERS -i ${PYTHON_SRC}/$FOLDER"
 done
 OUTPUT="${DIR}/docs"
+mkdir -p $OUTPUT
 PROJECT="${DIR}/lib/natural-docs/data"
 ./lib/natural-docs/NaturalDocs $SRC_FOLDER_INCLUDES -i $SRC -o framedHTML $OUTPUT -p $PROJECT $*
 dos2unix "${DIR}/docs/javascript/main.js"

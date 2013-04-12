@@ -18,6 +18,7 @@ bin/*
 
 # Generated docs
 docs
+lib/natural-docs/data/Data
 
 # LaTeX files
 *.bbl
