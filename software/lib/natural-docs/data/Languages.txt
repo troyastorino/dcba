@@ -116,3 +116,14 @@ Format: 1.52
 Alter Language: Python
 
    Block Comment: """ """
+
+
+Language: Cython
+
+   Extension: pyx
+   Shebang String: python
+   Line Comment: #
+   Block Comment: """ """
+   Function Prototype Ender: :
+   Variable Prototype Ender: =
+   Line Extender: \

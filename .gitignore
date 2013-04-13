@@ -20,7 +20,7 @@ bin/*
 docs
 software/lib/natural-docs/data/Data/*
 software/lib/natural-docs/data/Menu.txt
-software/lib/natural-docs/data/Menu_Backup.txt
+software/lib/natural-docs/data/Menu_Backup*
 software/lib/natural-docs/data/LastCrash.txt
 
 # LaTeX files
