@@ -1,5 +1,6 @@
 import numpy as np
 import cv2
+from pcl import PointCloud
 from scan.data_capture.pattern import are_inverses
 from scan.triangulation.math import pixel_rays, line_plane_intersection, to_global_frame
 from scan.common.math import pack_bit_array, from_gray_code, fit_plane
@@ -9,7 +10,7 @@ def gray_code_estimates(images, min_contrast=0.2):
     Function: extract_point_cloud
     Takes a series of images with gray codes projected on them and calculates the
     gray code value that was projected for each camera pixel
-    
+
     Parameters:
     images - *[<Image>]* The list of images taken with a gray code patterns
     projected on the object. Must be ordered with each image followed by its
@@ -39,7 +40,7 @@ def gray_code_estimates(images, min_contrast=0.2):
     # structures to fill through loop
     valid_pixel_mask = np.zeros(img_size[0:2], dtype=np.bool)
     gray_code_bits = np.zeros(img_size[0:2] + (len(images)/2,), dtype=np.uint8)
-    
+
     # go through image pairs
     for i in range(len(images) / 2):
         # make sure the projected patterns were inverse patterns
@@ -47,7 +48,7 @@ def gray_code_estimates(images, min_contrast=0.2):
                             images[2*i+1].patterns[0].projected_patterns[0][0]):
             raise Exception("The images must be ordered such that each set of " +
                             "two images are inverses of each other")
-        
+
         # Convert images to grayscale
         gray_1 = cv2.cvtColor(images[2*i].data, cv2.COLOR_RGB2GRAY)
         gray_2 = cv2.cvtColor(images[2*i+1].data, cv2.COLOR_RGB2GRAY)
@@ -81,7 +82,7 @@ def projector_planes(proj):
     """
     # generate pixel rays in the projector frame
     proj_pixels_proj_frame = pixel_rays(proj)
-    
+
     # translate and rotate the rays into the global frame
     proj_pixels = to_global_frame(proj_pixels_proj_frame, proj)
 
@@ -91,7 +92,7 @@ def projector_planes(proj):
     # add projector location to the row points
     row_shape = (proj.resolution[0], 1, 3)
     proj_points_row = np.concatenate((proj_pixels, np.ones(row_shape) * proj_pose), axis=1)
-    
+
     # calculate the row planes
     proj_planes_row = fit_plane(proj_points_row)
 
@@ -103,12 +104,12 @@ def projector_planes(proj):
     proj_planes_col = fit_plane(np.transpose(proj_points_col, (1, 0, 2)))
 
     return proj_planes_row, proj_planes_col
-    
+
 def extract_point_cloud(images, min_contrast=0.2):
     """
     Function: extract_point_cloud
     Takes a series of images with gray codes projected on them and produces a point cloud.
-    
+
     Parameters:
     images - *[<Image>]* The list of images taken with a gray code patterns
     projected on the object. The first image must be of an all white projection,
@@ -117,8 +118,7 @@ def extract_point_cloud(images, min_contrast=0.2):
     The stripe image patterns must be the way described in <gray_code_estimates>
 
     Returns:
-    *ndarray* A list of points representing object points in 3D space. Will
-    have shape (n, 3)
+    *<PointCloud>* A PointCloud object with the scan data
     """
     if len(images) % 2 != 0:
         raise Exception("Must have an even number of images, because for every " +
@@ -128,7 +128,7 @@ def extract_point_cloud(images, min_contrast=0.2):
                         "projecting image, followed by a vertical stripe gray code" +
                         "image sequence and a horizontal strip gray code image " +
                         "sequence of equal lengths.")
-    
+
     # find gray code sequence length
     n = (len(images) - 2) / 4
 
@@ -152,7 +152,7 @@ def extract_point_cloud(images, min_contrast=0.2):
     # alias projector and camera objects
     proj = images[0].patterns[0].projected_patterns[0][1]
     cam = images[0].camera
-    
+
     # also invalidate pixel if any the calculated gray code row is greater than
     # the projection row, or if the calculated gray code column is greater than
     # the gray code column
@@ -180,4 +180,6 @@ def extract_point_cloud(images, min_contrast=0.2):
                                                 proj_planes_col[gray_code_col[i,j]])
                 points.append(np.average((p_row, p_col), axis=0))
 
-    return np.array(points)
+    p = PointCloud()
+    p.from_array(np.array(points, dtype=np.float32))
+    return p

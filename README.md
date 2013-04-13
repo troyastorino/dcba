@@ -78,17 +78,25 @@ found a good source version to use (it's patched), so
 [install the precompiled version](http://sourceforge.net/projects/pointclouds/files/dependencies/OpenNI-MacOSX-v1.5.4.0.pkg/download). 
 - Add the science packages to homebrew:
 ```
-brew tap homebrew/science
+$ brew tap homebrew/science
 ```
 - Copy the Homebrew Formula software/lib/Formula/pcl.rb to
 /usr/local/Library/Formula/pcl.rb, and run
 ```
-brew install pcl
+$ brew install pcl
 ```
-- Install the python-pcl bindings in software/lib/python-pcl. Running `make`
-inside that directory will install the python bindings onto your system. Note
+- The python-pcl bindings are in software/lib/python-pcl. Note
 this is a [git submodule](http://git-scm.com/book/ch6-6.html)--there are some
-things to be careful about with submodules.  Read the previously linked webpage for info.
+things to be careful about with submodules (you can read more about it on the
+linked page). Running `make` inside that directory will build the python
+bindings. I recommend not installing the bindings, as they will be changing a
+lot during development, but just adding the directory to the
+python path.  You can do this for your current shell by running
+```
+$ source software/setup-env.sh
+```
+You can add the location to the python path for your entire session by modifying
+your `.bash_profile`, or whatever you use.
 
 Python Libraries
 -----------------
@@ -96,7 +104,7 @@ As Python is being used for the core software library, it is recommended to use
 [pip](https://pypi.python.org/pypi/pip) to install the necessary Python
 packages. Install using pip by running
 ```
-pip install <package>
+$ pip install <package>
 ```
 Below are the packages that are required:
 * numpy
@@ -131,7 +139,7 @@ only the slow tests.
 If you only want to run a single test module, instead of all the tests, just type in
 the module name of the test after the script name, e.g.:
 ```
-$ ./run-tests scan.tests.test_math
+$ software/run-tests scan.tests.test_math
 ```
 More details for what can be passed can be found in the nose documentation.  All
 arguments passed to the script will be passed to nose

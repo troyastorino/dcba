@@ -11,6 +11,7 @@ from scan.common.util import rel_to_file
 from scan.common.math import fit_plane, normalize
 from scan.data_capture.pattern import gray_code_patterns, GeneratedPattern, DLPPattern
 from scan.triangulation.gray_scan import *
+from scan.visualization.point_cloud import view_point_cloud
 
 class TestProjectorPlanes(unittest.TestCase):
     def setUp(self):
@@ -33,7 +34,7 @@ class TestProjectorPlanes(unittest.TestCase):
                                fit_plane([[2, 0, 1],[2, 1, 1],[0, 0, 0]])]
         self.exp_col_planes = [[0, 1, 0, 0],
                                fit_plane([[0, 1, 1],[1, 1, 1],[2, 1, 1],[0, 0, 0]])]
-        
+
     def test_row_planes(self):
         assert_allclose(normalize(np.around(self.row_planes, decimals=10)),
                         normalize(np.around(self.exp_row_planes, decimals=10)),
@@ -44,7 +45,7 @@ class TestProjectorPlanes(unittest.TestCase):
                         normalize(np.around(self.exp_col_planes, decimals=10)),
                         rtol=self.rtol, atol=self.atol)
 
-@attr('slow')        
+@attr('slow')
 class TestGrayScan(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -103,6 +104,8 @@ class TestGrayScan(unittest.TestCase):
         # finally at the point we would have been at if our machine scanned the
         # object :)
         cls.point_cloud = extract_point_cloud(images)
+
+        view_point_cloud(cls.point_cloud)
 
     def test_scan_results(self):
         raise NotImplementedError()
