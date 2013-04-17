@@ -5,13 +5,13 @@ from scan.data_capture.pattern import *
 class TestGrayCodePatterns(unittest.TestCase):
     def test_vertical_stripes(self):
         height = 6
-        img_size = (height,4)
+        img_size = (4, height)
 
         patterns = [
-            DLPPattern(np.tile([0, 0, 255, 255], (height,1))),
-            DLPPattern(np.tile([255, 255, 0, 0], (height,1))),
-            DLPPattern(np.tile([0, 255, 255, 0], (height,1))),
-            DLPPattern(np.tile([255, 0, 0, 255], (height,1)))]
+            DLPPattern(np.tile([0, 0, 255, 255], (height, 1)).T),
+            DLPPattern(np.tile([255, 255, 0, 0], (height, 1)).T),
+            DLPPattern(np.tile([0, 255, 255, 0], (height, 1)).T),
+            DLPPattern(np.tile([255, 0, 0, 255], (height, 1)).T)]
 
         generated_patterns = gray_code_patterns(img_size)
         
@@ -20,13 +20,13 @@ class TestGrayCodePatterns(unittest.TestCase):
             
     def test_horizontal_stripes(self):
         width = 12
-        img_size = (4,width)
+        img_size = (width, 4)
 
         patterns = [
-            DLPPattern(np.tile([0, 0, 255, 255], (width,1)).T),
-            DLPPattern(np.tile([255, 255, 0, 0], (width,1)).T),
-            DLPPattern(np.tile([0, 255, 255, 0], (width,1)).T),
-            DLPPattern(np.tile([255, 0, 0, 255], (width,1)).T)]
+            DLPPattern(np.tile([0, 0, 255, 255], (width, 1))),
+            DLPPattern(np.tile([255, 255, 0, 0], (width, 1))),
+            DLPPattern(np.tile([0, 255, 255, 0], (width, 1))),
+            DLPPattern(np.tile([255, 0, 0, 255], (width, 1)))]
 
         generated_patterns = gray_code_patterns(img_size, vertical_stripes=False)
         

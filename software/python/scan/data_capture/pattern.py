@@ -35,7 +35,7 @@ def gray_code_patterns(img_shape, vertical_stripes=True):
     first half be all black and the second half be all white
 
     Parameters:
-    img_shape - *Tuple* of form (height, width), where width is the pixel width
+    img_shape - *Tuple* of form (width, height), where width is the pixel width
     of the pattern and height is the pixel height of the pattern
     vertical_stripes - *boolean* If true, generate stripes going up and down,
     otherwise, generate horizontal stripes
@@ -44,8 +44,8 @@ def gray_code_patterns(img_shape, vertical_stripes=True):
     *[<DLPPattern>]* list of patterns for the Gray code
     """
     # see if going by width or height
-    dim_idx = int(vertical_stripes)
-    other_dim_idx = int(not vertical_stripes)
+    dim_idx = int(not vertical_stripes)
+    other_dim_idx = int(vertical_stripes)
 
     # get parameters for generation
     n = np.ceil(np.log2(img_shape[dim_idx]))
@@ -60,7 +60,7 @@ def gray_code_patterns(img_shape, vertical_stripes=True):
     # function to generate pixels from gray_code_line
     def gen_pixels(line):
         pixels = np.tile(line, ((img_shape[other_dim_idx], 1)))
-        if not vertical_stripes:
+        if vertical_stripes:
             pixels = pixels.T
         return pixels
 
