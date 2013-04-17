@@ -1,0 +1,36 @@
+\documentclass[10pt]{article}
+
+% small margins
+\usepackage[margin=1in]{geometry}
+
+% no large spaces in lists
+\usepackage{enumitem}
+\setlist{nolistsep}
+
+\title{\vspace{-4em}6.S078 Update}
+\author{Troy Astorino \and Turner Bohlen \and Craig Cheney \and Gus Downs}
+
+\begin{document}
+\maketitle
+\vspace{-4em}
+
+\section{Plan Progress}
+
+\section{Prototype Progress}
+The hardware prototyping phase is about to come into full swing. The CMOS sensor arrays and two types of 8051 microcontrollers have been purchased and received. Craig is about to start his 6.115 (Microcontroller Laboratory) final project, which is building the embedded system for the scanner, focusing mostly on the camera system. The data will be collected off the cameras and stored on an SD card, which can then be transferred to the computer which will do the object reconstruction. In the future this will be done through a USB interface, and no SD card.
+
+Craig is working with two different cameras at this point. One is an OV3640, which is a CMOS sensor array. However surface mounting is proving to be difficult, as the chip uses an uncommon 56 pin Ball Grid Array (BGA) scheme that is not compatible with any off the shelf adapters for bread boards. This may mean creating a custom break out board, which is less than ideal for prototyping. 
+
+Alternatively we have purchased a lower quality camera from SparkFun, which will serve as a backup in case the OV3640 proves too difficult to quickly mount. The contacts for this camera are easily solderable by hand. The downside of these cameras is that the documentation is not nearly as good as the OmniVision camera. There are blogs of people who have used the SparkFun cameras before. 
+
+Once the mounting hurdle has been crossed, the next big challenge will be using the correct transfer protocol to talk to the camera. The SparkFun camera uses an I2C protocol, which is much more common than the OmniVision proprietary protocol that the OV3640. 
+
+\section{Baffling Variables}
+
+\section{Seven Day Plan}
+
+\section{People to Meet}
+
+\section{Desired Resources}
+
+\end{document}
