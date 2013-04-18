@@ -242,6 +242,3 @@ class TestFitPlane(unittest.TestCase):
                    [4, 1, 2, -8]]]
         assert_allclose(normalize(fit_plane(points)), normalize(coeffs),
                         rtol=self.rtol)
-                  
-                   
-                  

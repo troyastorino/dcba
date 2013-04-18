@@ -38,7 +38,7 @@ def gray_code_estimates(images, min_contrast=0.2):
     img_size = images[0].data.shape
 
     # structures to fill through loop
-    valid_pixel_mask = np.zeros(img_size[0:2], dtype=np.bool)
+    valid_pixel_mask = np.ones(img_size[0:2], dtype=np.bool)
     gray_code_bits = np.zeros(img_size[0:2] + (len(images)/2,), dtype=np.uint8)
 
     # go through image pairs
@@ -53,8 +53,8 @@ def gray_code_estimates(images, min_contrast=0.2):
         gray_1 = cv2.cvtColor(images[2*i].data, cv2.COLOR_RGB2GRAY)
         gray_2 = cv2.cvtColor(images[2*i+1].data, cv2.COLOR_RGB2GRAY)
 
-        # check which pixels exceed the contrast ratio
-        valid_pixel_mask[abs(gray_1 - gray_2) > 255 * min_contrast] = True
+        # check which pixels do not make the min constrast
+        valid_pixel_mask[abs(gray_1.astype(np.int16) - gray_2.astype(np.int16)) <= 255 * min_contrast] = False
 
         # set bit of gray code for each image
         gray_code_bits[gray_1 >= gray_2, i] = 1
@@ -147,7 +147,7 @@ def extract_point_cloud(images, min_contrast=0.2):
     # ratio
     gray_1 = cv2.cvtColor(images[0].data, cv2.COLOR_RGB2GRAY)
     gray_2 = cv2.cvtColor(images[1].data, cv2.COLOR_RGB2GRAY)
-    pixel_mask[np.abs(gray_1 - gray_2) <= 255 * min_contrast] = False
+    pixel_mask[np.abs(gray_1.astype(np.int16) - gray_2.astype(np.int16)) <= 255 * min_contrast] = False
 
     # alias projector and camera objects
     proj = images[0].patterns[0].projected_patterns[0][1]
@@ -178,7 +178,7 @@ def extract_point_cloud(images, min_contrast=0.2):
                                                 proj_planes_row[gray_code_row[i,j]])
                 p_col = line_plane_intersection(cam_pose, cam_rays[i,j],
                                                 proj_planes_col[gray_code_col[i,j]])
-                points.append(np.average((p_row, p_col), axis=0))
+                points.append(p_row)
 
     p = PointCloud()
     p.from_array(np.array(points, dtype=np.float32))

@@ -23,6 +23,3 @@ class TestOpenCVConversions(unittest.TestCase):
     def test_opencv_conversion_consistency(self):
         img = np.random.random((1024, 768))
         assert_equal(to_OpenCV(from_OpenCV(img)), img)
-    
-    
-        

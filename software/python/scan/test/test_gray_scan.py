@@ -2,14 +2,14 @@ import unittest
 import scipy.io
 import os.path
 import numpy as np
-from numpy.testing import assert_allclose
+from numpy.testing import assert_allclose, assert_equal
 from nose.tools import nottest
 from nose.plugins.attrib import attr
 from scan.data_capture.image import Image, load_from_directory
 from scan.data_capture.optical_equipment import Camera, DLPProjector, OpticalEquipment
 from scan.common.util import rel_to_file
 from scan.common.math import fit_plane, normalize
-from scan.data_capture.pattern import gray_code_patterns, GeneratedPattern, DLPPattern
+from scan.data_capture.pattern import gray_code_patterns, GeneratedPattern, DLPPattern, pattern_to_RGB
 from scan.triangulation.gray_scan import *
 from scan.visualization.point_cloud import view_point_cloud
 
@@ -44,6 +44,48 @@ class TestProjectorPlanes(unittest.TestCase):
         assert_allclose(normalize(np.around(self.col_planes, decimals=10)),
                         normalize(np.around(self.exp_col_planes, decimals=10)),
                         rtol=self.rtol, atol=self.atol)
+
+class TestVerticalStripeGrayCodeEstimates(unittest.TestCase):
+    def setUp(self):
+        self.width = 4
+        self.height = 12
+        patterns = gray_code_patterns((self.width, self.height))
+        images = []
+        for p in patterns:
+            data = p.image
+            images.append(Image(pattern_to_RGB(p), None, [GeneratedPattern([(p, None)])]))
+        (self.gray_code_values, self.valid_pixel_mask) = gray_code_estimates(images)
+
+    def test_gray_code_estimates(self):
+        expected_dec_numbers = np.tile(np.arange(self.width), (self.height, 1)).T
+
+        assert_equal(self.gray_code_values, expected_dec_numbers)
+
+    def test_valid_pixel_mask(self):
+        valid_pixels = np.ones((self.width, self.height), dtype=np.bool)
+
+        assert_equal(self.valid_pixel_mask, valid_pixels)
+
+class TestHorizontalStripeGrayCodeEstimates(unittest.TestCase):
+    def setUp(self):
+        self.width = 4
+        self.height = 16
+        patterns = gray_code_patterns((self.width, self.height), vertical_stripes=False)
+        images = []
+        for p in patterns:
+            data = p.image
+            images.append(Image(pattern_to_RGB(p), None, [GeneratedPattern([(p, None)])]))
+        (self.gray_code_values, self.valid_pixel_mask) = gray_code_estimates(images)
+
+    def test_gray_code_estimates(self):
+        expected_dec_numbers = np.tile(np.arange(self.height), (self.width, 1))
+
+        assert_equal(self.gray_code_values, expected_dec_numbers)
+
+    def test_valid_pixel_mask(self):
+        valid_pixels = np.ones((self.width, self.height), dtype=np.bool)
+
+        assert_equal(self.valid_pixel_mask, valid_pixels)
 
 @attr('slow')
 class TestGrayScan(unittest.TestCase):

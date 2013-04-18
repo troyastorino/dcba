@@ -23,6 +23,9 @@ software/lib/natural-docs/data/Menu.txt
 software/lib/natural-docs/data/Menu_Backup*
 software/lib/natural-docs/data/LastCrash.txt
 
+# Generate coverage
+software/.coverage
+
 # LaTeX files
 *.bbl
 *.blg

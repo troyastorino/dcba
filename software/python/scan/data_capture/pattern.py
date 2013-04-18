@@ -1,5 +1,6 @@
 import numpy as np
 from scan.common.math import gray_code, bit_array
+import cv2
 
 class StaticPattern:
     """
@@ -71,7 +72,7 @@ def gray_code_patterns(img_shape, vertical_stripes=True):
         patterns.append(DLPPattern(gen_pixels(bit_seq * 255)))
         patterns.append(DLPPattern(
                 gen_pixels(np.logical_not(bit_seq).astype('i') * 255)))
-        
+
     return patterns
 
 def are_inverses(pattern_1, pattern_2):
@@ -91,7 +92,7 @@ def are_inverses(pattern_1, pattern_2):
     if not (issubclass(pattern_1.__class__, DLPPattern) and
             issubclass(pattern_2.__class__, DLPPattern)):
         raise Exception("Patterns must be subclasses of DLPPattern")
-    
+
     largest_val = np.max([pattern_1.image.max(), pattern_2.image.max()])
 
     img_1 = pattern_1.image / largest_val
@@ -103,7 +104,28 @@ def are_inverses(pattern_1, pattern_2):
                         "Cannot reliable compare them")
 
     return np.all(np.bitwise_xor(img_1, img_2))
-    
+
+def pattern_to_RGB(pattern):
+    """
+    Function: pattern_to_RGB
+    Takes a grayscale pattern and converts it to an RGB *ndarray*
+
+    Parameters:
+    pattern - *<DLPPattern>* or *ndarray* grayscale pattern to convert to a color array
+
+    Returns:
+    *ndarray* Pattern as RGB image data
+    """
+    if issubclass(pattern.__class__, DLPPattern):
+        pattern = pattern.image
+
+    pattern = np.array(pattern)
+
+    if len(pattern.shape) > 2 and not (len(pattern.shape) == 3 and pattern.shape[2] == 1):
+        raise Exception("pattern does not represent a valid grayscale pattern")
+
+    return cv2.cvtColor(pattern.astype(np.uint8), cv2.COLOR_GRAY2RGB)
+
 class GeneratedPattern:
     """
     Class: GeneratedPattern
@@ -119,4 +141,3 @@ class GeneratedPattern:
     """
     def __init__(self, projected_patterns):
         self.projected_patterns = projected_patterns
-

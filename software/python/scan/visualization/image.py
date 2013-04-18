@@ -8,7 +8,7 @@ def view_image(img, window_name="Image Viewer", timeout=None):
     Creates a window to show an image in.  Closes the window when a key is pressed or the timeout finishes
 
     Parameters:
-    img - *<Image>* image to show
+    img - *<Image>* or *ndarray* image to show
     window_name - *string* name of the window to show the image in
     timeout - *float* Approximate number of seconds to wait before
     """

@@ -14,10 +14,10 @@ class TestGrayCodePatterns(unittest.TestCase):
             DLPPattern(np.tile([255, 0, 0, 255], (height, 1)).T)]
 
         generated_patterns = gray_code_patterns(img_size)
-        
+
         for i in range(len(patterns)):
             assert_equal(generated_patterns[i].image, patterns[i].image)
-            
+
     def test_horizontal_stripes(self):
         width = 12
         img_size = (width, 4)
@@ -29,9 +29,26 @@ class TestGrayCodePatterns(unittest.TestCase):
             DLPPattern(np.tile([255, 0, 0, 255], (width, 1)))]
 
         generated_patterns = gray_code_patterns(img_size, vertical_stripes=False)
-        
+
         for i in range(len(patterns)):
             assert_equal(generated_patterns[i].image, patterns[i].image)
+
+class TestPatternToRGB(unittest.TestCase):
+    def test_len_2_pattern_shape(self):
+        pattern = [[255, 0, 255],
+                   [0, 0, 255]]
+        assert_equal([[[255, 255, 255], [0, 0, 0], [255, 255, 255]],
+                      [[0, 0, 0], [0, 0, 0], [255, 255, 255]]], pattern_to_RGB(pattern))
+
+    def test_len_3_pattern_shape(self):
+        pattern = [[[255], [0]],
+                   [[0], [0]]]
+        assert_equal([[[255, 255, 255], [0, 0, 0]],
+                      [[0, 0, 0], [0, 0, 0]]], pattern_to_RGB(pattern))
+
+    def test_invalid_pattern_shape(self):
+        self.assertRaises(Exception, pattern_to_RGB, [[[255, 255, 255], [0, 0, 0], [255, 255, 255]],
+                                                      [[0, 0, 0], [0, 0, 0], [255, 255, 255]]])
 
 class TestAreInverses(unittest.TestCase):
     def test_are_inverses_false(self):
