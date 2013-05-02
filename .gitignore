@@ -32,6 +32,7 @@ software/.coverage
 *.aux
 *.out
 *.log
+*.synctex.gz
 
 # Emacs files
 *.el
