@@ -65,3 +65,6 @@ Makefile
 
 # unsaved Matlab files
 *.m~
+
+# unsaved Office files
+*~$*
