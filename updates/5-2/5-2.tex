@@ -15,7 +15,7 @@
 \vspace{-4em}
 
 \section{Plan Progress}
-We got feedback from the Founders Skills Accelerator. Unfortunately, we were not
+We got feedback from the Founders Skills Accelerator. After making it to the final round, we were unfortunately not
 accepted to the program.  The feedback that we got was that although we were a
 great team and were committed, they felt that our idea was weak. Specifically,
 they felt that we hadn't fleshed out our idea as much as we should have for the
@@ -27,7 +27,7 @@ would be impossible to target.
 Although we worked hard on our presentation, we were not prepared to answer the
 kinds of questions they were asking. With a longer conversation we would have
 assuaged their doubts, but we were not practiced in addressing concerns in a
-fast-paced Q&A format. Additionally, we only pitched our product in a nebulous
+fast-paced Q\&A format. Additionally, we only pitched our product in a nebulous
 and high-level fashion. This resulted in us coming off as naive and unprepared.
 In our presentations, we need to present a specified vision, and make it easier
 for others to grasp onto.
@@ -44,14 +44,20 @@ the end of the class; we need to be 100\% focused on developing a prototype.
 
 \section{Prototype Progress}
 
+	On the hardware side, the progress with the cameras is moving along well. Craig has been working with the OV5620 module, hooked up to a Cypress PSoC microcontroller. Craig has successfully implemented the SCCB protocol, similar to I2C protocol, which the camera uses for configuration. This was done through bit-banging. Control registers can be successfully written to, and read from. The next steps are to focus on reading the sensor data from a snapshot. This is done though a 8 pin data bus. Craig has been able to sync up the vertical and horizontal sync data lines and without seeing any of the RBG values coming off the camera, it appears the sensor is functioning properly and outputting the data. 
+
+	Once the camera module is up and running, the next steps include a way to transfer the data from the micro to the computer. This will either be done through writing to an SD card and then reading from the PC, or by implementing a USB connection from the PSoC to the PC. Once the data has been transferred to the PC, constructing a 2D image will be done though Python openCV.
+
 \section{Baffling Variables}
-Does our market exist? 
+Does our market exist? We need to explore more into this. We initially did a fair amount of market research and determined that it did in fact exist, but with the critical feedback from the FSA process, we need to reevaluate. 
 
 \section{Seven Day Plan}
-Prototype.
+Keep prototyping. The goal is to be finished with the camera by the end of next week at the latest, and have the image we a projecting with the lasers ready to go, so we can begin calibrating the software side of things.
 
 \section{People to Meet}
+As we mentioned earlier, we need to sit down with Dave Hart and Bill Aulet in a non-interview meeting, so we can get some valuable information, specifically on the market segment. Dave Hart mentioned that the 3D scanning space as a whole is not devoid of opportunities, it's just that the hobbyist  level is not the right one to target. One example of a possible market is measuring density of road core samples. Weighing the object and then using the scan to obtain a precise volume apparently gives a more accurate measurement of density then submerging the porous object in water. 
 
 \section{Desired Resources}
+As a team, we would like some help with determining our precise market, and how to proceed moving forward. We thought did a thorough job with this earlier in the semester, but it clearly has room for improvement. 
 
 \end{document}
