@@ -71,7 +71,7 @@ def gray_code_patterns(img_shape, vertical_stripes=True):
         bit_seq = gray_bits[:,i]
         patterns.append(DLPPattern(gen_pixels(bit_seq * 255)))
         patterns.append(DLPPattern(
-                gen_pixels(np.logical_not(bit_seq).astype('i') * 255)))
+                gen_pixels(np.logical_not(bit_seq).astype(np.uint8) * 255)))
 
     return patterns
 

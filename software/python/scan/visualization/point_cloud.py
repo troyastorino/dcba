@@ -17,6 +17,7 @@ def view_point_cloud(cloud, window_name="Point Cloud Visualization", timeout=Non
 
     # initialize the viewer
     viewer = pcl.PCLVisualizer(window_name)
+    viewer.init_camera_parameters()
     viewer.add_point_cloud(cloud)
     viewer.add_coordinate_system()
 

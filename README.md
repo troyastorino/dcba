@@ -123,6 +123,11 @@ Looking at tests can be a good way of getting an idea of how to use the
 different functions.  Additionally, if you are writing code to test how
 something is working, you should be writing that code as a test!
 
+To set a breakpoint in a test, add the following line:
+```
+from nose.tools import set_trace; set_trace()
+```
+
 When writing tests, in general write setup code in the setUp method for a
 subclass of unittest.TestCase, but if the setup is very expensive, write it as a
 class method with the setUpClass method.

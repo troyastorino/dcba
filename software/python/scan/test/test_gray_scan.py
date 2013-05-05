@@ -2,6 +2,7 @@ import unittest
 import scipy.io
 import os.path
 import numpy as np
+import pcl
 from numpy.testing import assert_allclose, assert_equal
 from nose.tools import nottest
 from nose.plugins.attrib import attr
@@ -45,6 +46,37 @@ class TestProjectorPlanes(unittest.TestCase):
                         normalize(np.around(self.exp_col_planes, decimals=10)),
                         rtol=self.rtol, atol=self.atol)
 
+class TestGrayCodeEstimates(unittest.TestCase):
+    def setUp(self):
+        data = [[[8, 240, 12, 225],
+                 [240, 12, 225, 12]],
+                [[234, 12, 25, 8],
+                 [12, 25, 8, 250]],
+                [[12, 219, 248, 21],
+                 [219, 248, 21, 8]],
+                [[243, 5, 8, 252],
+                 [174, 8, 252, 230]]]
+        patterns = gray_code_patterns((2,4), vertical_stripes=False)
+
+        images = []
+        for i in range(len(data)):
+            images.append(Image(pattern_to_RGB(data[i]), None, [GeneratedPattern([(patterns[i], None)])]))
+
+        (self.gray_code_values, self.valid_pixel_mask) = gray_code_estimates(images)
+
+    def test_gray_code_estiamtes(self):
+        expected_nums = [[0, 2, 1, 3],
+                         [2, 1, 3, 0]]
+
+        assert_equal(self.gray_code_values, expected_nums)
+
+    def test_pixel_mask(self):
+        pixel_mask = [[True, True, False, True],
+                      [False, False, True, True]]
+
+        assert_equal(self.valid_pixel_mask, pixel_mask)
+
+
 class TestVerticalStripeGrayCodeEstimates(unittest.TestCase):
     def setUp(self):
         self.width = 4
@@ -86,6 +118,48 @@ class TestHorizontalStripeGrayCodeEstimates(unittest.TestCase):
         valid_pixels = np.ones((self.width, self.height), dtype=np.bool)
 
         assert_equal(self.valid_pixel_mask, valid_pixels)
+
+class TestCalculatedGrayScan(unittest.TestCase):
+    def setUp(self):
+        self.cam = Camera(None, Camera.extrinsic_matrix(np.eye(3), np.zeros(3)),
+                          Camera.intrinsic_matrix([1, 1], [1, 0]),
+                          np.zeros(5), (3,1))
+        self.proj = DLPProjector(DLPProjector.extrinsic_matrix(np.eye(3), [1, 0, 0]),
+                                  DLPProjector.intrinsic_matrix([0.5, 1], [0, 0]),
+                                  np.zeros(5), (2,2))
+
+        # Get the Gray code patterns that were self.projected
+        patterns = [DLPPattern(np.ones(self.proj.resolution, dtype=np.uint8) * 255),
+                    DLPPattern(np.zeros(self.proj.resolution, dtype=np.uint8))]
+        patterns.extend(gray_code_patterns(self.proj.resolution))
+        patterns.extend(gray_code_patterns(self.proj.resolution, vertical_stripes=False))
+
+        self.gen_patterns = []
+        for p in patterns:
+            self.gen_patterns.append([GeneratedPattern([(p, self.proj)])])
+
+        self.expected_points = [[-1, 0, 1], [0, 0, 0.5], [1, 0, 1]]
+
+    def gen_images(self, image_data):
+        # reconstruct the images
+        images = []
+
+        for i in range(len(image_data)):
+            images.append(Image(pattern_to_RGB(image_data[i]), self.cam, self.gen_patterns[i]))
+
+        return images
+
+    def test_pure_images(self):
+        image_data = [[[255], [255], [255]],
+                      [[0], [0], [0]],
+                      [[0], [127], [127]],
+                      [[127], [0], [0]]]
+
+        images = self.gen_images(image_data)
+
+        point_cloud = extract_point_cloud(images[0:2], images[2:4], [])
+
+        assert_allclose(point_cloud.to_array(), self.expected_points)
 
 @attr('slow')
 class TestGrayScan(unittest.TestCase):
@@ -143,11 +217,22 @@ class TestGrayScan(unittest.TestCase):
         for i in range(len(loaded_images)):
             images.append(Image(loaded_images[i].data, cls.cam, cls.gen_patterns[i]))
 
+        n = (len(images) - 2) / 2
+            
         # finally at the point we would have been at if our machine scanned the
         # object :)
-        cls.point_cloud = extract_point_cloud(images)
+        cls.point_cloud = extract_point_cloud(images[0:2], images[2:2+n], images[2+n:])
 
-        view_point_cloud(cls.point_cloud)
+        viewer = pcl.PCLVisualizer("View Gray Scan")
+        viewer.add_point_cloud(cls.point_cloud)
+        viewer.add_coordinate_system(translation=cls.proj.T, scale=10)
+        viewer.add_text_3d("projector", cls.proj.T, text_id="projector")
+        viewer.add_coordinate_system(translation=cls.cam.T, scale=10)
+        viewer.add_text_3d("camera", cls.cam.T, text_id="camera")
+        viewer.init_camera_parameters()
+
+        viewer.spin()
+        viewer.close()
 
     def test_scan_results(self):
         raise NotImplementedError()

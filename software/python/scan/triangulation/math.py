@@ -5,7 +5,8 @@ from scan.common.math import normalize
 def pixel_rays(optical_equipment):
     """
     Function: pixel_rays
-    Creates an array of the rays something with a given resolution
+    Creates an array of the rays for a piece of optical equipment with a
+    given resolution
 
     Parameters:
     equipment - *<OpticalEquipment>* The piece of optical equipment to calculate
@@ -18,16 +19,22 @@ def pixel_rays(optical_equipment):
     """
     res = optical_equipment.resolution
     
-    # get grid of pixel values
-    distorted_pixels = np.transpose(np.mgrid[0:res[0], 0:res[1]], (1, 2, 0))
+    # get grid of the locations of the pixels
+    distorted_points = np.transpose(np.mgrid[0:res[0], 0:res[1]], (1, 2, 0))
+    grid_shape = distorted_points.shape
 
-    # undistort pixels
-    pixels = cv2.undistort(distorted_pixels.astype(np.float32),
-                           optical_equipment.intrinsic_matrix,
-                           optical_equipment.distortion)
+    # convert to a list of points to pass to undistortPoints
+    distorted_points_list = distorted_points.reshape(-1, 1, 2)
+    # undistort the pixel locations 
+    points_list = cv2.undistortPoints(distorted_points_list.astype(np.float32),
+                                      optical_equipment.intrinsic_matrix,
+                                      optical_equipment.distortion)
 
+    # turn it back into a grid
+    points = points_list.reshape(grid_shape)
+    
     # convert to rays by appending 1 as z axis
-    rays = np.concatenate((pixels, np.ones(res + (1,))), axis=2)
+    rays = np.concatenate((points, np.ones(res + (1,))), axis=2)
 
     # normalize
     return normalize(rays, axis=2)

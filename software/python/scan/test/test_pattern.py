@@ -33,6 +33,14 @@ class TestGrayCodePatterns(unittest.TestCase):
         for i in range(len(patterns)):
             assert_equal(generated_patterns[i].image, patterns[i].image)
 
+    def test_type(self):
+        width = 12
+        height = 5
+        patterns = gray_code_patterns((width, height))
+
+        for p in patterns:
+            self.assertTrue(p.image.dtype == np.uint8)
+
 class TestPatternToRGB(unittest.TestCase):
     def test_len_2_pattern_shape(self):
         pattern = [[255, 0, 255],

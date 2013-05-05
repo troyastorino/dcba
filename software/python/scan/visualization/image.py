@@ -1,5 +1,6 @@
 import cv2
 import time
+import numpy as np
 from scan.data_capture.image import to_OpenCV
 
 def view_image(img, window_name="Image Viewer", timeout=None):
@@ -30,3 +31,23 @@ def view_image(img, window_name="Image Viewer", timeout=None):
             break
         if timeout:
             time_elapsed = time_elapsed + delay_time / 1000.0
+
+
+def grayscale_to_RGB(image):
+    """
+    Function: pattern_to_RGB
+    Takes a grayscale pattern and converts it to an RGB *ndarray*
+
+    Parameters:
+    image - *ndarray* grayscale pattern to convert to a color array
+
+    Returns:
+    *ndarray* RGB image data
+    """
+    image = np.array(image)
+
+    if len(image.shape) > 2 and not (len(image.shape) == 3 and image.shape[2] == 1):
+        raise Exception("image does not represent a valid grayscale image")
+
+    return cv2.cvtColor(image.astype(np.uint8), cv2.COLOR_GRAY2RGB)
+            
