@@ -1,6 +1,10 @@
 \documentclass{article}
 
 \usepackage{titlesec}
+\usepackage{multirow}
+\usepackage{fullpage}
+\usepackage{array}
+\usepackage{graphicx}
 \newcommand{\sectionbreak}{\clearpage}
 
 \begin{document}
@@ -15,7 +19,7 @@ product designers, small manufacturers, etc.
 We found that there is an academically popular method, structured light
 scanning, that maintains high scan accuracy, at lower costs. However, there is
 typically a large degree of complexity in setting up a structured light scanner;
-streamlining this service and packaging it into a plug-and-play device will
+streamlining this service and packaging it	 into a plug-and-play device will
 enable us to sell the product to markets that currently cannot access or afford
 3D scanning. Additionally, we have ways to make the product even less expensive
 than typical structured light scanners by substituting inexpensive components,
@@ -85,7 +89,34 @@ parts, as well as for designing parts with unknown dimensions.
 
 \section{Innovations}
 
+
+
+Approach of our venture including its unique technology approaches/ideas:
+
+There are already many well developed techniques for 3D scanning, so rather than reinvent the wheel the team spent a week researching 12 techniques and assessing each for their relevance and compatibility for our product’s goals. We concluded that “structured light” scanning, a basic triangulation method, would be the simplest and cheapest to execute.
+
+From wikipedia’s article on “Structured Light”:
+
+Structured light is the process of projecting a known pattern of pixels (often grids or horizontal bars) on to a scene. The way that these deform when striking surfaces allows vision systems to calculate the depth and surface information of the objects in the scene, as used in structured light 3D scanners.
+
+There are tutorials online for how consumers can set up their own structured light scanners using a standard projector and a digital camera, but the amount of time required to calibrate the scanner and the hardware required makes the do-it-yourself approach both prohibitively difficult and expensive. Off-the-shelf already calibrated units are in the \$3000 range and still don’t boast the type of resolution that structured-light scanning techniques are accurate to.
+
+What we require for our product (a pre-calibrated, affordable, high-resolution 3D scanner) is a [1] projection system, [2] an imaging system, and [3] the software to process the acquired data and generate a point cloud. The following discusses our development of the three subsystems so far.
+
+[1] Projection: 
+
+In order to get around the requirement of having a standard projector (for which the cheapest units retail for \$300 in the US, \$75 from China) we instead looked into the cheapest way that we could project a static, high-contrast image on our object. We looked into doing this using the interference properties of coherent laser light but instead opted for projecting a high contrast silhouette of a grating onto the object. Using simple geometric arguments, the factor limiting the contrast of the projected silhouette is simply the size of the light source (as one can imagine, the projected image is simply the image created by a point light source convolved over the size of the light source). Our approach: to focus a well-collimated light source down to a single point –- effectively creating a point light source –– and then allowing it to propagate through the focal point and diverge to cover an area large enough to cover our whole object. All that this requires is a single lens and a collimated light source, for which we used a laser and a 15mm focal length lens from Thorlabs, but from initial testing we believe we can improve on the existing setup substantially while still keeping costs low. Employing a well-collimated, incoherent, white light source and a system of lenses should allow us to get rid of unwanted interference patterns and project a large enough image from less than 2 feet away.
+
+[2] Imaging:
+
+The Smartphone industry has helped create a large demand for small, high resolution, inexpensive imaging sensor. These imaging sensors are the bare bones of digital cameras for only a fraction of the cost.  The sensors are available for less than \$10 ,even in small quantities, and can produce images in the 5-8 megapixel range. The imaging sensors allow us to maintain affordability while still provide high accuracy. Microcontrollers are also at a point where they are cheap, but easily powerful enough to utilize the full potential of the sensor. Craig is currently doing development using a Cypress PSoC (Programmable System on Chip), which allows for fast prototyping, without the need for peripheral chips, as they can be programmed into the PSoC. This minimizes downtime wiring chips or designing Printed Circuit Boards, and reduces cost. 
+
+[3] Software:
+
 \section{Lessons Learned}
+
+Imaging:
+Many of the issues that arose from prototyping have to do with the physical layout of the circuits. Many of the advanced sensors come in a format that is difficult to work with. The chips come in a Ball Grid Array package, which is not easily dealt with by prototyping. The grid consists of 56 balls of solder each spaced about 500-600$\mu$m apart, which are impossible to solder to directly; they must be reflowed onto a PCB. While this should not be a problem when dealing with the end product, it means that developmental tools are invaluable during initial phases. 
 
 \section{Plan of Action}
 What do you want to achieve this summer? We will work with you to create
@@ -123,6 +154,36 @@ to secure funding for after the summer.
 
 \section{Risk Factors}
 
+\begin{tabular}[b]{|p{3cm} | p{5cm}| p{2cm}| p{5cm}|}
+\hline 
+
+Risk Catergory & \centering{Risk} & \centering{Probability of Risk \newline Materializing}& Risk Mitigation \\ 
+\hline
+\multirow{2}{*}{Management Team}
+& Having only  technically oriented cofounders could leave us weak in terms of business strategy and entrepreneurial prowess&\centering{High} & We must recruit another employee or cofounder who is business and marketing oriented \\  \cline{2-4} 
+&Team unable to strategize operational plans to guide all steps of value chain & \centering{Medium}& Proactively seek advice from experienced advisors and industry experts; implement monitoring and quality checks on a scheduled basis \\  \hline
+
+
+
+\multirow{4}{*}{Market} 
+&Over or under-estimated market size segmentation and location, such that operational and financial impact will be high & \centering{Medium} & Target a statistically-rationalized need based audience. Perform a more thorough market analysis prior to product launch and design for operational flexibility to meet changes in demand\\ \cline{2-4}
+& Inability to capture targeted market, leading to lower sales than anticipated  &\centering{Medium} & Run an aggressive advertising campaign to attract new users. Verify that product aspects appeal to user-base by performing comprehensive usability tests \\ \cline{2-4}
+& Unexpected competition penetrates target market &\centering{ Low} & Focus on getting the product to market as quickly as possible. Track market trends and rising competition; design flexible and adaptable strategy to account for requirements to change aspects of product differentiation to stand apart \\ \cline{2-4}
+& Technical gap between potential customers and product use requirements hinders sales & \centering{Dramatically High}& It is essential that the product be "plug-and-play". We must balance giving the user adequate control over the settings, while at the same time make sure that the scanner can be run by someone with minimal experience\\ \hline
+\end{tabular}
+
+\newpage
+
+\begin{tabular}[b]{|p{3cm} | p{5cm}| p{2cm}| p{5cm}|}
+\hline 
+\multirow{3}{*}{Finance} 
+& Unable to secure adequate funds for prototyping and scale-up & \centering{High} &  Apply for accelerators, VC's and Angels. A working prototype will dramatic help in this regard \\ \cline{2-4}
+& Lack of adequate funds to fairly compensate desired talent & \centering{Low} & Ensure that realistic and competitive salaries and benefits are included in all financial models \\ \cline{2-4}
+& Unmet supply and demand projections will lead to unbalanced revenues with fixed and variable costs, such that unit price exceeds initial estimate. This will lower market absorption and increase time to break-even & \centering{Medium} & Identify the largest sources of cost and strategize how to best mitigate. Alternatively, depending on the market, we might find that our current target price point can be increased without severely impacting sales \\ \hline
+
+Delivery& Difficulties with shipping and packaging  & \centering{Low}& Connect with experienced mentors or consultants, and keep delivery channels in mind during design \\ \hline
+\end{tabular}
+
 \section{Team}
 *Troy's Bio Troy is graduating this June with majors in 16-ENG (concentration in
 Robotics) and 8B (concentration in Computational Learning Systems), and a minor
@@ -130,9 +191,9 @@ in 14. The majority of his experience is as a programmer, focusing on machine
 learning and web development. He plays tennis for MIT and is a Freshman
 Leadership Program counselor.
 
-*Craig's Bio Craig is pursuing his degree in 2A-6, Mechanical Engineering with a
+\textbf{Craig} is pursuing his degree in 2A-6, Mechanical Engineering with a
 concentration in Control, Instrumentation and Robotics. He has worked
-extensively with robotics and machine design. Craig is currently president of
+extensively with robotics and machine design since freshman year of high school. This past semester his team won the 2.12, Introduction to Robotics, term Robo-Gymnastics competition. The team won their division, the overall competition, and was awarded ``Best Design Award''. Additionally, Craig was awarded ``Most Valuable Engineer'' for his team. In addition to mechanical engineering, Craig is experienced with microcontrollers, software and embedded systems. Craig is currently president of
 his fraternity, captain of the varsity Waterpolo team, and a member of the
 national varsity swim team.
 
@@ -155,5 +216,17 @@ Troy took the same robotics class, 2.12 Intro to Robotics, in the Fall of 2012
 where they both placed in the top 5 out of 70 students.
 
 \section{Financial Plan}
+
+\textbf{Annual Growth Rate}(to year 3): 2.4
+\newline
+\textbf{Quarterly}: 0.3579
+\newline
+\textbf{Initial Annual Sales} :4000 units
+\newline
+\includegraphics[scale=.75]{finance02.pdf}
+\newpage
+\includegraphics[scale=.75]{finance01.pdf}
+
+
 
 \end{document}
