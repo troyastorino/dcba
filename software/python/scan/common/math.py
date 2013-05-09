@@ -264,3 +264,23 @@ def fit_plane(x, axis=None):
         return ret
     else:
         raise Exception("Must be at least a 2 dimensional array")
+
+def rotation_matrix(axis, theta):
+    """
+    Function: rotation_matrix
+    Generates a rotation matrix that will rotate a vector about the supplied axis vector
+
+    Parameters:
+    axis - *ndarray* with shape (3,). Axis for the rotation matrix to rotate about
+    theta - *scalar* Angle for the rotation matrix to rotate about the axis. In radians
+
+    Returns
+    *ndarray* with shape (3,3) A rotation matrix that will rotate a vector in the specified way
+    """
+    # see http://en.wikipedia.org/wiki/Euler%E2%80%93Rodrigues_parameters
+    axis = axis/np.sqrt(np.dot(axis,axis))
+    a = np.cos(theta/2)
+    b,c,d = -axis*np.sin(theta/2)
+    return np.array([[a*a+b*b-c*c-d*d, 2*(b*c-a*d), 2*(b*d+a*c)],
+                     [2*(b*c+a*d), a*a+c*c-b*b-d*d, 2*(c*d-a*b)],
+                     [2*(b*d-a*c), 2*(c*d+a*b), a*a+d*d-b*b-c*c]])

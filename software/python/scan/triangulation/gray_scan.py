@@ -79,34 +79,34 @@ def projector_planes(proj):
     proj - *<DLPProjector>* The projector to generate the planes of
 
     Returns:
-    *Tuple* in the form (row_planes, col_planes). row_planes will have shape
+    *Tuple* in the form (vertical_planes, horizontal_planes). row_planes will have shape
     (width, 4) and col_planes will have shape (height, 4).  Each plane is defined
     by the coefficients [a, b, c, d], where a*x + b*y + c*z = d
     """
     # generate pixel rays in the projector frame
     proj_pixels_proj_frame = pixel_rays(proj)
-
+    from nose.tools import set_trace; set_trace()
     # translate and rotate the rays into the global frame
     proj_pixels = to_global_frame(proj_pixels_proj_frame, proj)
 
     # get projector location in the global frame
     proj_pose = to_global_frame([0, 0, 0], proj)
 
-    # add projector location to the row points
-    row_shape = (proj.resolution[0], 1, 3)
-    proj_points_row = np.concatenate((proj_pixels, np.ones(row_shape) * proj_pose), axis=1)
+    # add projector location to the vertical points
+    vertical_shape = (proj.resolution[0], 1, 3)
+    proj_points_vertical = np.concatenate((proj_pixels, np.ones(vertical_shape) * proj_pose), axis=1)
 
-    # calculate the row planes
-    proj_planes_row = fit_plane(proj_points_row)
+    # calculate the vertical planes
+    proj_planes_vertical = fit_plane(proj_points_vertical)
 
-    # add projector location to the column points
-    col_shape = (1, proj.resolution[1], 3)
-    proj_points_col = np.concatenate((proj_pixels, np.ones(col_shape) * proj_pose), axis=0)
+    # add projector location to the horizontalumn points
+    horizontal_shape = (1, proj.resolution[1], 3)
+    proj_points_horizontal = np.concatenate((proj_pixels, np.ones(horizontal_shape) * proj_pose), axis=0)
 
-    # calculate the column planes
-    proj_planes_col = fit_plane(np.transpose(proj_points_col, (1, 0, 2)))
+    # calculate the horizontalumn planes
+    proj_planes_horizontal = fit_plane(np.transpose(proj_points_horizontal, (1, 0, 2)))
 
-    return proj_planes_row, proj_planes_col
+    return proj_planes_vertical, proj_planes_horizontal
 
 def extract_point_cloud(initial_images, vertical_stripe_images, horizontal_stripe_images, min_contrast=0.2):
     """
@@ -172,8 +172,8 @@ def extract_point_cloud(initial_images, vertical_stripe_images, horizontal_strip
         pixel_mask[gray_code_col >= proj.resolution[1]] = False
 
     # get plane equations for every projector row and column
-    proj_planes_row, proj_planes_col = projector_planes(proj)
-
+    proj_planes_vert, proj_planes_horz = projector_planes(proj)
+    from nose.tools import set_trace; set_trace()
     # TODO: vectorize this next part
     # calculate all the points
     points = []
@@ -182,13 +182,13 @@ def extract_point_cloud(initial_images, vertical_stripe_images, horizontal_strip
             if pixel_mask[i,j]:
                 if gray_code_row != None:
                     p_row = line_plane_intersection(cam_pose, cam_rays[i,j],
-                                                    proj_planes_row[gray_code_row[i,j]])
+                                                    proj_planes_vert[gray_code_row[i,j]])
                 else:
                     p_row = None
                     
                 if gray_code_col != None:
                     p_col = line_plane_intersection(cam_pose, cam_rays[i,j],
-                                                    proj_planes_col[gray_code_col[i,j]])
+                                                    proj_planes_horz[gray_code_col[i,j]])
                 else:
                     p_col = None
                     

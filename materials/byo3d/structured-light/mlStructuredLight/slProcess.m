@@ -30,7 +30,7 @@ projValue    = 255;     % Gray code intensity
 minContrast  = 0.2;     % minimum contrast threshold (for Gray code pattern)
 
 % Set reconstruction parameters.
-dSamplePlot = 100;      % down-sampling rate for Matlab point cloud display
+dSamplePlot = 1;      % down-sampling rate for Matlab point cloud display
 distReject  = Inf;      % rejection distance (for outlier removal)
 
 

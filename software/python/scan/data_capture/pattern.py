@@ -105,27 +105,6 @@ def are_inverses(pattern_1, pattern_2):
 
     return np.all(np.bitwise_xor(img_1, img_2))
 
-def pattern_to_RGB(pattern):
-    """
-    Function: pattern_to_RGB
-    Takes a grayscale pattern and converts it to an RGB *ndarray*
-
-    Parameters:
-    pattern - *<DLPPattern>* or *ndarray* grayscale pattern to convert to a color array
-
-    Returns:
-    *ndarray* Pattern as RGB image data
-    """
-    if issubclass(pattern.__class__, DLPPattern):
-        pattern = pattern.image
-
-    pattern = np.array(pattern)
-
-    if len(pattern.shape) > 2 and not (len(pattern.shape) == 3 and pattern.shape[2] == 1):
-        raise Exception("pattern does not represent a valid grayscale pattern")
-
-    return cv2.cvtColor(pattern.astype(np.uint8), cv2.COLOR_GRAY2RGB)
-
 class GeneratedPattern:
     """
     Class: GeneratedPattern

@@ -15,7 +15,8 @@ def pixel_rays(optical_equipment):
     Returns:
     *ndarray* of the pixel rays for the piece of optical equipment.  Will
     have shape (height, width, 3), where height is the resolution height
-    and width is the resolution width. The last dimension holds the ray
+    and width is the resolution width. The last dimension holds the ray. Rays
+    are in the optical equipment frame
     """
     res = optical_equipment.resolution
     
