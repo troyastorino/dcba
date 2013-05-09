@@ -5,44 +5,68 @@
 \usepackage{fullpage}
 \usepackage{array}
 \usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{titling}
+\makeatletter
+\def\@cline#1-#2\@nil{%
+  \omit
+  \@multicnt#1%
+  \advance\@multispan\m@ne
+  \ifnum\@multicnt=\@ne\@firstofone{&\omit}\fi
+  \@multicnt#2%
+  \advance\@multicnt-#1%
+  \advance\@multispan\@ne
+  \leaders\hrule\@height\arrayrulewidth\hfill
+  \cr
+  \noalign{\nobreak\vskip-\arrayrulewidth}}
+\makeatother
 
 
 \usepackage{biblatex}
 \bibliography{sources.bib}
 
 
+\title{\vspace{2.5in}DCBA Business Summary}
+\author{Troy Astorino \and Turner Bohlen \and Craig Cheney \and Gus Downs}
+
 
 %\newcommand{\sectionbreak}{\clearpage}
 
-
 \begin{document}
+\maketitle
+
+\newpage
+
 \section{Executive Summary}
-3D scanning has a wide variety of applications from tolerance checking in machine shops, to measurement and modeling in art studios, but the high cost of current
-scanners keeps the technology from being used in many potential applications.
-Bringing down the cost and complexity of accurate 3D scanning would enable the
-use of 3D scanning in many applications where it now is prohibitively expensive:
-research labs, hobbyist builders, 3D printing enthusiasts, artists, independent
-product designers, small manufacturers, etc.
+3D scanning has a wide variety of applications, from tolerance checking in
+machine shops, to measurement and modeling in art studios, but the high cost of
+current scanners keeps the technology from being used in many of these potential
+applications. Bringing down the cost and complexity of accurate 3D scanning
+opens it up to use by researchers, garage hobbyists, 3D printing enthusiasts,
+artists, independent product designers, small manufacturers, etc. 3D scanners
+have the potential to become the world's standard measurement and modeling tool, with a
+place in every shop, studio, and lab. Our team of 4 MIT undergrads, trained
+as as physicists, roboticists, programmers, mechanical engineers, and
+entrepreneurs, has the skills and vision necessary to build the 3D scanner that
+will make this vision a reality. Using the academically popular
+method of structured light 3D scanning, we can combine low-cost hardware
+components with state of the art software to create a low-cost and user-friendly
+3D scanner that has the accuracy of systems an order of magnitude more
+expensive. With options at the high end, mobile, and entry level markets,
+full-field structured light 3D scanning is entering a phase of rapid market
+adoption. 
 
-We want to bring 3D scanning to a large group of users who cannot
-access it today. We will do this by building a low-cost, user-friendly, and
-high-accuracy, 3D scanner.
+\newpage
 
-We found that there is an academically popular method, structured light
-scanning, that maintains high scan accuracy, at lower costs. However, there is
-typically a large degree of complexity in setting up a structured light scanner;
-streamlining this service and packaging it	 into a plug-and-play device will
-enable us to sell the product to markets that currently cannot access or afford
-3D scanning.  The product being plug-and-play is crucial, as one of our selling points is  ease of use.  Additionally, we have ways to make the product even less expensive
-than typical structured light scanners by substituting inexpensive components,
-such as smart phone cameras, in clever ways.
+\tableofcontents
 
 \newpage
 
 \section{Market Overview}
-
+\subsection{Market Setting}
 Digital 3D scanning is a large, established market, with an estimated market
-size of \$530 million.  Most of the products in this market are high-end
+size of \$530 million\cite{frost}, projected to double in size by 2015\cite{arc}.  Most of the products in this market are high-end
 and targeted at large corporations, costing tens of thousands of dollars.
 Reductions in component costs, advances in algorithmic efficiency, and increases
 in computing power now enable inexpensive 3D scanners that can achieve
@@ -58,8 +82,8 @@ believe that 3D scanners will be the standard measurement tool used in shops,
 labs and studios. We believe that 3D scanners should be as common as a purchase
 as a cordless drill.
 
-The 3D scanner that this market needs requires a set of qualities that we believe no
-other scanner on the market currently has:
+The 3D scanner needed by market has a set of requirements that we believe no
+other scanner on the market currently meets:
 \begin{itemize}
 \item It must be painless to use.  From opening the box, the user needs to be
   able to plug the scanner into his computer, put an object in the scanner,
@@ -73,12 +97,13 @@ other scanner on the market currently has:
   3D printed, and a significant percentage of objects that would be used in a design.
 \end{itemize}
 
+\subsection{Customers}
 The market segment we are targeting be divided into individual consumers and small
-($< $10 people) enterprises.
+($< 10$ people) enterprises.
 
 The individual consumers we are targeting are hobbyists, enthusiasts, and
 artists. Many people have become excited about desktop 3D printing, and will be
-similarly excited by desktop 3D scanning. There is evidence for this recent
+similarly excited by desktop 3D scanning. There is evidence for this in recent
 successful crowd-sourced fundings for desktop 3D scanning projects, and
 excitement surrounding 3D scanning announcements. Though much of the popular
 focus has been on scanning objects in order to get a model to print, other uses
@@ -97,67 +122,73 @@ usable CAD model. Small manufacturers and machine shops can use them in the same
 fashion that large manufacturers do: for automated verification of manufactured
 parts, as well as for designing parts with unknown dimensions.
 
-As 3D scanning technology has existed for a good deal of time, there are 
+\subsection{Competitors}
+As 3D scanning technology has existed for a good deal of time, there are a
+number of 3D scanning products that exist. We believe that none of these address
+the needs of the market we are trying to target. A few other companies
+apparently have these same belief, and so there are a few competitors emerging
+that are entering in our target market.
 
-Our competitors can be separated into 3 categories:
+We will explore the major competitors we believe we face by dividing them into 3
+categories: the least-expensive high-accuracy scanners, free
+scanners, and emerging competitors.  While companies in the first two
+categories aren't direct competitors, their products could be attractive to
+customers at the edges of our target market segment.
 
-The current lowest-cost high-accuracy options: The major competitors in this
-range would be the NextEngine scanner or Artec's 3D scanners. Our price (~\$500)
-will be significantly lower than these products, and our scanner will be easier
-to use than the NextEngine scanner. The NextEngine costs over \$3,000 (once
-you've purchased all the necessary software), and the least expensive Artec
-scanner costs \$12,000. Our scanner's accuracy will be in the same range as
-these products. Unlike these products, however, our scanner will only be able to
-scan objects that are under a certain size. While the Artec scanners make
+\subsubsection{Least-expensive high-accuracy scanners}
+These competitors are the companies offering the least expensive 3D scanners
+that offer around 0.1 mm accuracy or better. The major companies in this range
+are the NextEngine scanner or Artec's 3D scanners. Our price (~\$500) will be
+significantly lower than these products, and our scanner will be easier to use
+than the NextEnginer scanner. The NextEngine costs over
+\$3,000\cite{nextengine}, and the least expensive Artec scanner costs
+\$12,000\cite{artec}. Our scanner's accuracy will be in the same range as these
+products. Unlike these products, however, our scanner will only be able to scan
+objects that are under a certain size (1 $ft^3$). While the Artec scanners make
 scanning large objects fairly simple, scanning large objects with the NextEngine
-is very inconvenient, which is also true for other products in the their range.
+is very inconvenient, which is also true for other products in the their price
+range. Our scanner is clearly targeting a different customer than the Artec
+scanner, as \$12,000 is more than our target customer is willing to pay.  We
+differentiate from the NextEngine primarily in cost, but also in having more
+user-friendly, beautiful software.  The NextEngine software can only run on
+Windows, and does not have the polish of a modern software solution. 
 
-The very low-cost (free) options: There are some options on the market that come
-in at a price lower than ours. AutoDesk as an free app called 123D Catch--you
-take a series of images of an object and then it performs image reconstruction
-to generate a 3D model. Some products (like Scanect) allow a customer to use a
-Kinect to perform 3D scanning, and Microsoft recently released KinectFusion,
-which turns the Kinect into a 3D scanner for anyone with the Windows Kinect SDK.
-These technologies, though, do not provide the level of accuracy we are seeking,
-or the ease of access. They have more difficulty with highly specular objects
-than we will, and require user participation during the entire scanning process.
+\subsubsection{Free scanners}
+These are scanning systems that are either free to use, or very cheap. They will
+be at a price lower than what we are planning. AutoDesk as an free app called
+123D Catch--you take a series of images of an object and then it performs image
+reconstruction to generate a 3D model\cite{123d}. Some products (like Scanect)
+allow a customer to use a Kinect to perform 3D scanning, and Microsoft recently
+released KinectFusion, which turns the Kinect into a 3D scanner for anyone with
+the Windows Kinect SDK\cite{kinectfusion}. Although the accuracy of the scans
+made with these scans are not published, it is clear from looking at the
+showcase scans that they are not capturing sub-millimeter accuracy. That would
+make these scans limiting in when used with a 3D printer or for machining. They
+additionally more difficulty with highly specular objects than we will, and
+require user participation during the entire scanning process.
 
-The emerging competitors: There are a couple competitors that have announced
-products but don't have anything for sale yet. CADScan successfully completed a
-Kickstarter project for a desktop 3D scanner that will be similar to ours in
-terms of target specifications and customers. From the Kickstarter funding
-levels, it seems that they plan on charging at least \pounds 650 (\$1000) for the
-scanner, a price we are planning to come in significantly below. MakerBot also
-just announced at SXSW that they will be producing a desktop 3D scanner called
-the Digitizer. The announcement was very nebulous on details, but given their 3D
-printer costs and their description of the Digitizer, we surmise that they will
-be charging over \$1500.
-
-We are targeting individual consumers and small enterprises.
-
-The individual consumers we are targeting are hobbyists, enthusiasts, and
-artists. Many people have become excited about desktop 3D printing, and will be
-similarly excited by desktop 3D scanning. There is evidence for this in
-CADScan's successful Kickstarter campaign, and the excitement surrounding
-MakerBot's SXSW Digitizer announcement. Though much of the popular focus has
-been on scanning objects in order to get a model to print, other uses of 3D
-scanners can be marketed. A sculptor may want to display his work online, or
-send an early version of a sculpture to a colleague; our scanner allows him to
-do so with ease.
-
-
-The small enterprises we are focusing on include research labs, product
-designers, and small manufacturers. In research labs, it is often important to
-have models and measurements of objects being tested; while the 3D scanners
-available today would be an unaffordable luxury, ours would be low-cost enough
-to have a practical purpose. Product designers can make initial designs with
-physical materials, which are nicer to work with, and then scan them to get a
-usable CAD model. Small manufacturers and machine shops can use them in the same
-fashion that large manufacturers do: for automated verification of manufactured
-parts, as well as for designing parts with unknown dimensions.
+\subsubsection{Developing Scanners}
+There are a couple competitors that have announced products but do not have
+products on shelves yet who seem to be targeting the same market segment that we
+are. CADScan successfully completed a Kickstarter project for a desktop 3D
+scanner that will be similar to ours in terms of target specifications and
+customers\cite{cadscan}. From the Kickstarter funding levels, it seems that they
+plan on charging at least $\pounds$650 (\$1000) for the scanner, a price we are
+planning on significantly undercutting. MakerBot also just announced at SXSW
+that they will be producing a desktop 3D scanner called the
+Digitizer\cite{digitizer}. The announcement was very nebulous on details, but
+given their 3D printer costs and their description of the Digitizer, we surmise
+that they will be charging around \$1000. The Matterform Photon 3D scanner also
+had a successful crowd-funding campaing, raising \$471,082 on
+indiegogo\cite{photon}. The Photon is certainly targeting the same market as us,
+but our scanner is differentiated from theirs by allowing a much larger maximum
+scannable volume: 1 $ft^3$ as opposed to $0.25 ft^3$. Their technology choice,
+striping with a single laser beam, will not allow them to increase the scannable
+volume without proportionally increasing the scan time. We do yet not know how
+our product can be differentiated from the CADScan and the Digitizer as they
+have not yet announced product specifics.
 
 \section{Innovation and Approach}
-
 Our product goals:
 \begin{itemize}
 \item Intuitive, clean software interface, accessible to users with limited to no CAD background
@@ -184,7 +215,27 @@ The Smartphone industry has helped create a large demand for small, high resolut
 
 \textbf{ Software}:
 
+The initial software system is being built on top of two widely used open source
+libraries, OpenCV and Point Cloud Library. Both libraries are free for
+commercial use under the BSD license.  The libraries allow us to leverage the
+significant infrastructure built for robotic applications.  This is particularly
+valuable in using various algorithms for point cloud meshing. Error-mitigation
+during the meshing process is complex algorithmically, and building on top of
+existing software will make the process much easier.
 
+The real value in the software is in making the system easy to use and
+accessible. The system needs to entirely pre-calibrated, and able to
+automatically re-calibrate over time.  The user needs to be able to plug the
+scanner in and have it work.  The software needs to be minimalistic and
+intuitive. A significant proportion of our target market won't have used CAD
+before, so it needs to interface with a bundled accesible model-viewing program.
+Of course it will support export of files to other CAD programs.
+
+Although all of those features seem to be obvious candidates for inclusion,
+existing 3D scanning products do not have what qualifies as beautiful, modern
+software. Our team members' experience with web development and UI design will help us
+build dead simple software that will differentiate our scanner from the
+competition.
 
 \section{Lessons Learned}
 
@@ -195,82 +246,117 @@ Many of the issues that arose from prototyping have to do with the physical layo
 When we first started exploring the 3D scanning space, NextEngine was the only company that had a viable product for consumers. However, we feel that the expense and difficulty associated with their product. There has been a significant debate over how large the consumer level 3D scanning market is. Experts in the industry are skeptical that there is demand outside of commercial settings, however the success of several recent crowdfunded projects, such as the Photon and CADScan, help to counteract their concerns. 
 
 \section{Plan of Action}
-What do you want to achieve this summer? We will work with you to create
-rigorous yet achievable milestones, but we'd first like to hear from you. Where
-do you want your team to be by mid-September regarding customers, product, team,
-and finances? For more explanation about milestones, including examples, please
-go to http://entrepreneurship.mit.edu/fsa *Proposed Customer Milestones (list
-2-5) 1) Decision on whether we can successfully market to both hobbyist
-consumers and small businesses/labs. 2) (Possibly) Launch of Kickstarter
-campaign to raise excitement and additional funding/gauge interest OR secure a
-list of beta testers to launch a private beta of the product. 3) Choose product
-name as a reflection of desired brand image
+Following are the actions we will plan on completing, with more detail on
+tasks to complete over the summer.
 
-*Proposed Product Milestones (list 2-5) 1) Finalize which low-cost projection
-method will be used in the scanner. 2) Complete an alpha prototype of the
-scanner. 3) Create a component list for a beta version of the product 4) Develop
-an IP strategy to protect the design components of the product. Determine
-whether filing for provisional patents is appropriate (most likely for the
-projection technique). If it is, file the patents.
+\subsection{Customer Milestones}
 
-*Proposed Team Milestones (list 2-5) 1) Clearly define team members' roles on
-the team, exploiting strengths and weaknesses. 2) Finalize team members' equity
-splits and vesting schedules, defining what will happen under different possible
-scenarios. Specifically, what will happen if a team member wants finish school,
-working on the startup on a part-time basis, and then returns full-time to the
-company. 3) Identify gaps on the team, develop a plan to fill them, and execute
-it. Specifically, plan a path to cope with a team member returning to school at
-the end of the summer.
+\begin{table}[H]
+\begin{tabular}{|p{4.5in}|c|}
+\hline
+Milestone & Date \\ \hline
+Estimate consumer market demand via a Google Consumer Survey (or equivalent
+technique) & 6/20 \\
+Choose product name and create logo as a reflection of desired brand image &
+8/1 \\ 
+Secure list of prototype testing partners & 8/15 \\ 
+\hline
+\end{tabular}
+\end{table}
 
-*Proposed Financial Milestones (list 2-5) 1) Identify projected unit
-manufacturing cost at various build volumes, using beta prototype component
-list. 2) Develop a high quality short and long pitch deck for financial
-presentations. 3) Apply to VCs, angels, or further accelerators as appropriate
-to secure funding for after the summer.
+\subsection{Product Milestones}
+
+\begin{table}[H]
+\begin{tabular}{|p{4.5in}|c|}
+\hline
+Milestone & Date \\ \hline
+Finalize the low-cost projection method that will be used in the system & 7/1 \\
+Develop an IP strategy to protect crucial design components of the system, and
+file for provisional patents is appropriate & 7/15 \\
+Complete alpha prototype of the system & 9/1 \\ 
+Complete $2^{nd}$ alpha prototype of the system & 10/1 \\ 
+Develop a list of components for a beta prototype, and select manufacturing
+partners to source parts from  & 11/1 \\ 
+Complete beta prototype & 12/1 \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{Team Milestones}
+
+\begin{table}[H]
+\begin{tabular}{|p{4.5in}|c|}
+\hline
+Milestone & Date \\ \hline
+Finalize team members' equity splits and vesting schedules, defining 
+what will happen under different possible participation scenarios. & 6/15 \\
+Bring in an additional team member with business experience to aid in business
+strategy, scaling, and marketing & 9/1 \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{Financial Milestones}
+
+\begin{table}[H]
+\begin{tabular}{|p{4.5in}|c|}
+\hline
+Milestone & Date \\ \hline
+Develop a high quality short and long pitch deck & 7/1 \\
+1st order estimate of unit manufacturing costs at various build volumes using
+alpha prototype components & 8/15 \\
+Secure funding in order to continue growing the business & 9/1 \\
+\hline
+\end{tabular}
+\end{table}
 
 \section{Risk Factors}
 
-\begin{tabular}[b]{|p{3cm} | p{5cm}| p{2cm}| p{5cm}|}
+\begin{longtable}[b]{|p{3cm} | p{5cm}| p{2cm}| p{5cm}|}
 \hline 
 
-Risk Catergory & \centering{Risk} & \centering{Probability of Risk \newline Materializing}& Risk Mitigation \\ 
+Risk Catergory & \centering{Risk} & \centering{Probability of Risk \newline Materializing}& Risk Mitigation \\* 
 \hline
 \multirow{2}{*}{Management Team}
-& Having only  technically oriented cofounders could leave us weak in terms of business strategy and entrepreneurial prowess&\centering{High} & We must recruit another employee or cofounder who is business and marketing oriented \\  \cline{2-4} 
+& Having only  technically oriented cofounders could leave us weak in terms of business strategy and entrepreneurial prowess&\centering{High} & We must recruit another employee or cofounder who is business and marketing oriented \\*  \cline{2-4} 
 &Team unable to strategize operational plans to guide all steps of value chain & \centering{Medium}& Proactively seek advice from experienced advisors and industry experts; implement monitoring and quality checks on a scheduled basis \\  \hline
 
-
-
 \multirow{4}{*}{Market} 
-&Over or under-estimated market size segmentation and location, such that operational and financial impact will be high & \centering{Medium} & Target a statistically-rationalized need based audience. Perform a more thorough market analysis prior to product launch and design for operational flexibility to meet changes in demand\\ \cline{2-4}
-& Inability to capture targeted market, leading to lower sales than anticipated  &\centering{Medium} & Run an aggressive advertising campaign to attract new users. Verify that product aspects appeal to user-base by performing comprehensive usability tests \\ \cline{2-4}
-& Unexpected competition penetrates target market &\centering{ Low} & Focus on getting the product to market as quickly as possible. Track market trends and rising competition; design flexible and adaptable strategy to account for requirements to change aspects of product differentiation to stand apart \\ \cline{2-4}
+&Over or under-estimated market size segmentation and location, such that operational and financial impact will be high & \centering{Medium} & Target a statistically-rationalized need based audience. Perform a more thorough market analysis prior to product launch and design for operational flexibility to meet changes in demand\\* \cline{2-4}
+& Inability to capture targeted market, leading to lower sales than anticipated  &\centering{Medium} & Run an aggressive advertising campaign to attract new users. Verify that product aspects appeal to user-base by performing comprehensive usability tests \\* \cline{2-4}
+& Unexpected competition penetrates target market &\centering{ Low} & Focus on getting the product to market as quickly as possible. Track market trends and rising competition; design flexible and adaptable strategy to account for requirements to change aspects of product differentiation to stand apart \\* \cline{2-4}
 & Technical gap between potential customers and product use requirements hinders sales & \centering{High}& It is essential that the product be "plug-and-play". We must balance giving the user adequate control over the settings, while at the same time make sure that the scanner can be run by someone with minimal experience\\ \hline
-\end{tabular}
 
-\newpage
-
-\begin{tabular}[b]{|p{3cm} | p{5cm}| p{2cm}| p{5cm}|}
 \hline 
 \multirow{3}{*}{Finance} 
-& Unable to secure adequate funds for prototyping and scale-up & \centering{Dramatically High} &  Apply for accelerators, VC's and Angels. A working prototype will dramatic help in this regard \\ \cline{2-4}
-& Lack of adequate funds to fairly compensate desired talent & \centering{Low} & Ensure that realistic and competitive salaries and benefits are included in all financial models \\ \cline{2-4}
+& Unable to secure adequate funds for prototyping and scale-up & \centering{Dramatically High} &  Apply for accelerators, VC's and Angels. A working prototype will dramatic help in this regard \\* \cline{2-4}
+& Lack of adequate funds to fairly compensate desired talent & \centering{Low} & Ensure that realistic and competitive salaries and benefits are included in all financial models \\* \cline{2-4}
 & Unmet supply and demand projections will lead to unbalanced revenues with fixed and variable costs, such that unit price exceeds initial estimate. This will lower market absorption and increase time to break-even & \centering{Medium} & Identify the largest sources of cost and strategize how to best mitigate. Alternatively, depending on the market, we might find that our current target price point can be increased without severely impacting sales \\ \hline
 
 Delivery& Difficulties with shipping and packaging  & \centering{Low}& Connect with experienced mentors or consultants, and keep delivery channels in mind during design \\ \hline
-\end{tabular}
+\end{longtable}
 
 \section{Team}
 
 \textbf{Troy} is graduating this June with majors in 16-ENG (concentration in
 Robotics) and 8B (concentration in Computational Learning Systems), and a minor
-in 14. The majority of his experience is as a programmer, focusing on machine
-learning and web development. He plays tennis for MIT and is a Freshman
+in 14. In his internships he was worked as a programmer: on a Lockheed Martin
+development lead two summers ago and as the system architect for Monte Carlo
+simulation web service for SpaceX last summer. He also developed an odor
+localizing robot for CSAIL's Robust Robotics group that used Bayesian inference
+to inform its search. Troy plays tennis for MIT and is a Freshman
 Leadership Program counselor.
 
 \textbf{Craig} is pursuing his degree in 2A-6, Mechanical Engineering with a
 concentration in Control, Instrumentation and Robotics. He has worked
-extensively with robotics and mechanical design since freshman year of high school. This past semester his team won the 2.12, Introduction to Robotics, term Robo-Gymnastics competition. The team won their division, the overall competition, and was awarded ``Best Design Award''. Additionally, Craig was awarded ``Most Valuable Engineer'' for his team. In addition to mechanical engineering, Craig is experienced with microcontrollers, software and embedded systems. Craig is currently president of his fraternity, captain of the varsity Waterpolo team, and a member of the national varsity swim team.
+extensively with robotics and mechanical design since freshman year of high
+school. This past semester his team won the 2.12, Introduction to Robotics, term
+Robo-Gymnastics competition. The team won their division, the overall
+competition, and was awarded ``Best Design Award''. Additionally, Craig was
+awarded ``Most Valuable Engineer'' for his team. In addition to mechanical
+engineering, Craig is experienced with microcontrollers, software and embedded
+systems. Craig is currently president of his fraternity, captain of the varsity
+Waterpolo team, and a member of the national varsity swim team.
 
 \textbf{Gus} is receiving his BS in physics from MIT this June. His focus has
 been on ultra-cold atomic physics, and he has worked in 5 different labs ranging
@@ -278,30 +364,42 @@ from condensed matter physics to plasma physics. He sings with the Logarhythms,
 is a Freshman Leadership Program counselor, is a (half) Iron Man, and cooks a
 mean pork roulade.
 
-Together,  we have been working on this project together since January, as part of 6.S078, Entrepreneurship Project. 
-
+\textbf{Turner} is pursuing his BS in physics at MIT. He has done extensive work
+as a web developer, and was the president of StartLabs as it has grown over the
+last year.
 
 Troy and Gus have known each other since their freshman year, and have been
-co-counselors in the Freshman Leadership Program for the past 2 years. Craig and
-Troy took the same robotics class, 2.12 Intro to Robotics, in the Fall of 2012
-where they both placed in the top 5 out of 70 students.
+co-counselors in the Freshman Leadership Program for the past 2 years. Turner
+and Troy completed a computational neuroscience study on human category learning
+together. Craig and Troy took the same robotics class, 2.12 Intro to Robotics,
+in the Fall of 2012 where they both placed in the top 5 out of 70 students.
 
+Together,  we have been working on this project together since January, as part
+of 6.S078, Entrepreneurship Project. 
+
+\newpage
 \section{Financial Plan}
-
+\begin{samepage}
 \textbf{Annual Growth Rate}(to year 3): 2.4
 \newline
 \textbf{Quarterly}: 0.3579
 \newline
-\textbf{Initial Annual Sales} :4000 units
-\newline
+\textbf{Initial Annual Sales}: 4000 units
+\nopagebreak
+\begin{figure}[H]
+\centering
 \includegraphics[scale=.75]{finance02.pdf}
+\end{figure}
+\end{samepage}
 \newpage
+\begin{figure}[H]
+\centering
 \includegraphics[scale=.75]{finance01.pdf}
+\end{figure}
 
 
+\newpage
 \nocite{*}
 \printbibliography
-
-
 
 \end{document}
