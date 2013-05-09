@@ -33,6 +33,8 @@ software/.coverage
 *.out
 *.log
 *.synctex.gz
+*.run.xml
+*-blx.bib
 
 # Emacs files
 *.el

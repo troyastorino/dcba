@@ -5,9 +5,11 @@
 \usepackage{fullpage}
 \usepackage{array}
 \usepackage{graphicx}
-\newcommand{\sectionbreak}{\clearpage}
 
-\usepackage{graphicx}
+\usepackage{biblatex}
+\bibliography{sources.bib}
+
+\newcommand{\sectionbreak}{\clearpage}
 
 \begin{document}
 \section{Executive Summary}
@@ -42,7 +44,7 @@ accuracy levels that are comparable to the expensive units.
 Through building an accessible, affordable, desktop 3D scanner, we hope to
 expose a new, untapped market. The desktop 3D printing market has been
 experiencing rapid growth over the past few years, growing 240\% each year from
-2006 to 2011. The primary customers for desktop 3D printers have been
+2006 to 2011\cite{wohlers}. The primary customers for desktop 3D printers have been
 individuals: hobbyists, independent designers, artists, etc. We believe that
 this same market segment will buy an inexpensive desktop 3D scanner. In fact, we
 believe that 3D scanners will be the standard measurement tool used in shops,
@@ -51,7 +53,7 @@ as a cordless drill.
 
 The 3D scanner that this market needs requires a set of qualities that we believe no
 other scanner on the market currently has:
-\begin{enumerate}
+\begin{itemize}
 \item It must be painless to use.  From opening the box, the user needs to be
   able to plug the scanner into his computer, put an object in the scanner,
   press scan, and then have a 3D model appear on his computer.
@@ -62,22 +64,21 @@ other scanner on the market currently has:
   not be a constraint on most machining processes or 3D printing processes.  It
   cannot take too long to scan. It must be able to scan all objects that can be
   3D printed, and a significant percentage of objects that would be used in a design.
-\end{enumerate}
+\end{itemize}
 
-There are comp
-
-We are targeting individual consumers and very small enterprises.
+The market segment we are targeting be divided into individual consumers and small
+(< 10 people) enterprises.
 
 The individual consumers we are targeting are hobbyists, enthusiasts, and
 artists. Many people have become excited about desktop 3D printing, and will be
-similarly excited by desktop 3D scanning. There is evidence for this in
-CADScan's successful Kickstarter campaign, and the excitement surrounding
-MakerBot's SXSW Digitizer announcement. Though much of the popular focus has
-been on scanning objects in order to get a model to print, other uses of 3D
-scanners can be marketed. A sculptor may want to display his work online, or
-send an early version of a sculpture to a colleague; our scanner allows him to
-do so with ease.
-
+similarly excited by desktop 3D scanning. There is evidence for this recent
+successful crowd-sourced fundings for desktop 3D scanning projects, and
+excitement surrounding 3D scanning announcements. Though much of the popular
+focus has been on scanning objects in order to get a model to print, other uses
+of 3D scanners can be marketed. A sculptor may want to display his work online,
+or send an early version of a sculpture to a colleague; our scanner allows him
+to do so with ease. A garage tinkerer may need to get the dimensions of an
+object he wants to incorporate into a larger project. 
 
 The small enterprises we are focusing on include research labs, product
 designers, and small machine shops. In research labs, it is often important to
@@ -89,6 +90,7 @@ usable CAD model. Small manufacturers and machine shops can use them in the same
 fashion that large manufacturers do: for automated verification of manufactured
 parts, as well as for designing parts with unknown dimensions.
 
+As 3D scanning technology has existed for a good deal of time, there are 
 
 Our competitors can be separated into 3 categories:
 
@@ -332,5 +334,8 @@ where they both placed in the top 5 out of 70 students.
 \includegraphics[scale=.75]{finance02.pdf}
 \newpage
 \includegraphics[scale=.75]{finance01.pdf}
+
+\nocite{*}
+\printbibliography
 
 \end{document}
